@@ -1,0 +1,937 @@
+,player-1,player-2,player-3,combined_avg,sum_of_individual
+0,Mahmudullah,Mosharraf Hossain,Taskin Ahmed,34.5,31.729999999999997
+1,Mosharraf Hossain,Tamim Iqbal,Taskin Ahmed,73.5,50.86
+2,Shakib Al Hasan,Mosharraf Hossain,Taskin Ahmed,54.0,43.489999999999995
+3,Mosharraf Hossain,Sabbir Rahman,Taskin Ahmed,47.5,28.130000000000003
+4,Imrul Kayes,Mosharraf Hossain,Taskin Ahmed,120.0,50.33
+5,Imrul Kayes,Mosharraf Hossain,Mushfiqur Rahim,131.0,87.97999999999999
+6,Mashrafe Mortaza,Mosharraf Hossain,Tamim Iqbal,74.5,55.32
+7,Mashrafe Mortaza,Shakib Al Hasan,Mosharraf Hossain,55.0,47.949999999999996
+8,Mashrafe Mortaza,Mosharraf Hossain,Sabbir Rahman,48.5,32.59
+9,Mashrafe Mortaza,Imrul Kayes,Mosharraf Hossain,120.0,54.79
+10,Mosharraf Hossain,Tamim Iqbal,Mosaddek Hossain,75.0,65.92
+11,Mosharraf Hossain,Mosaddek Hossain,Sabbir Rahman,49.0,43.19
+12,Imrul Kayes,Mosharraf Hossain,Mosaddek Hossain,119.0,65.39
+13,Mahmudullah,Mosharraf Hossain,Tamim Iqbal,101.5,73.93
+14,Mahmudullah,Shakib Al Hasan,Mosharraf Hossain,82.0,66.56
+15,Mahmudullah,Mosharraf Hossain,Sabbir Rahman,75.5,51.2
+16,Mahmudullah,Mosharraf Hossain,Shafiul Islam,35.0,31.4
+17,Mahmudullah,Imrul Kayes,Mosharraf Hossain,144.0,73.4
+18,Mosharraf Hossain,Tamim Iqbal,Soumya Sarkar,133.0,83.24000000000001
+19,Shakib Al Hasan,Mosharraf Hossain,Tamim Iqbal,121.0,85.69
+20,Mosharraf Hossain,Tamim Iqbal,Sabbir Rahman,114.5,70.33
+21,Mosharraf Hossain,Tamim Iqbal,Shafiul Islam,74.0,50.53
+22,Imrul Kayes,Mosharraf Hossain,Tamim Iqbal,136.0,92.53
+23,Mosharraf Hossain,Soumya Sarkar,Sabbir Rahman,80.0,60.510000000000005
+24,Shakib Al Hasan,Mosharraf Hossain,Sabbir Rahman,95.0,62.959999999999994
+25,Shakib Al Hasan,Mosharraf Hossain,Shafiul Islam,54.5,43.16
+26,Shakib Al Hasan,Mosharraf Hossain,Imrul Kayes,198.0,85.16
+27,Mosharraf Hossain,Shafiul Islam,Sabbir Rahman,48.0,27.8
+28,Imrul Kayes,Mosharraf Hossain,Sabbir Rahman,137.0,69.8
+29,Imrul Kayes,Mosharraf Hossain,Shafiul Islam,119.0,50.0
+30,Taskin Ahmed,Tanbir Hayder,Nurul Hasan,38.5,38.08
+31,Taskin Ahmed,Mashrafe Mortaza,Nurul Hasan,51.5,41.62
+32,Taskin Ahmed,Mustafizur Rahman,Nurul Hasan,48.0,36.98
+33,Taskin Ahmed,Sabbir Rahman,Nurul Hasan,64.5,56.63
+34,Taskin Ahmed,Imrul Kayes,Nurul Hasan,87.5,78.83
+35,Mashrafe Mortaza,Tanbir Hayder,Nurul Hasan,52.0,42.54
+36,Tanbir Hayder,Mustafizur Rahman,Nurul Hasan,47.0,37.9
+37,Tanbir Hayder,Sabbir Rahman,Nurul Hasan,65.0,57.55
+38,Tanbir Hayder,Imrul Kayes,Nurul Hasan,88.0,79.75
+39,Mashrafe Mortaza,Tamim Iqbal,Nurul Hasan,87.0,83.82
+40,Mashrafe Mortaza,Subashis Roy,Nurul Hasan,42.0,41.04
+41,Mashrafe Mortaza,Mustafizur Rahman,Nurul Hasan,58.0,41.44
+42,Mashrafe Mortaza,Sabbir Rahman,Nurul Hasan,78.0,61.09
+43,Mashrafe Mortaza,Imrul Kayes,Nurul Hasan,101.0,83.28999999999999
+44,Mustafizur Rahman,Mosaddek Hossain,Nurul Hasan,55.0,52.04
+45,Mustafizur Rahman,Tamim Iqbal,Nurul Hasan,103.0,79.18
+46,Sabbir Rahman,Tamim Iqbal,Nurul Hasan,100.0,98.83
+47,Imrul Kayes,Tamim Iqbal,Nurul Hasan,123.0,121.03
+48,Subashis Roy,Sabbir Rahman,Nurul Hasan,63.0,56.05
+49,Subashis Roy,Imrul Kayes,Nurul Hasan,84.0,78.25
+50,Mustafizur Rahman,Sabbir Rahman,Nurul Hasan,63.0,56.45
+51,Mustafizur Rahman,Imrul Kayes,Nurul Hasan,88.0,78.65
+52,Imrul Kayes,Sabbir Rahman,Nurul Hasan,114.0,98.3
+53,Nazmul Islam,Abu Hider,Soumya Sarkar,117.0,35.86
+54,Nazmul Islam,Abu Hider,Imrul Kayes,115.0,45.15
+55,Abu Hider,Mohammad Mithun,Soumya Sarkar,124.0,56.42
+56,Abu Hider,Mohammad Mithun,Imrul Kayes,122.0,65.71000000000001
+57,Abu Hider,Mominul Haque,Mosaddek Hossain,36.0,22.14
+58,Abu Hider,Mominul Haque,Rubel Hossain,10.0,6.77
+59,Mahmudullah,Abu Hider,Mominul Haque,37.0,30.15
+60,Abu Hider,Mominul Haque,Najmul Hossain Shanto,17.0,16.5
+61,Soumya Sarkar,Abu Hider,Mushfiqur Rahim,145.0,73.69
+62,Imrul Kayes,Abu Hider,Mushfiqur Rahim,143.0,82.97999999999999
+63,Mashrafe Mortaza,Abu Hider,Mosaddek Hossain,27.0,23.18
+64,Mashrafe Mortaza,Abu Hider,Soumya Sarkar,117.0,40.5
+65,Mashrafe Mortaza,Abu Hider,Imrul Kayes,115.0,49.79
+66,Abu Hider,Mosaddek Hossain,Rubel Hossain,27.0,18.41
+67,Mehidy Hasan Miraz,Abu Hider,Mosaddek Hossain,31.0,27.11
+68,Mahmudullah,Abu Hider,Mosaddek Hossain,54.0,41.79
+69,Abu Hider,Mosaddek Hossain,Najmul Hossain Shanto,34.0,28.14
+70,Ariful Haque,Abu Hider,Soumya Sarkar,117.0,34.46
+71,Ariful Haque,Abu Hider,Imrul Kayes,115.0,43.75
+72,Mahmudullah,Abu Hider,Rubel Hossain,28.0,26.419999999999998
+73,Mahmudullah,Abu Hider,Soumya Sarkar,117.0,59.11
+74,Mahmudullah,Abu Hider,Imrul Kayes,115.0,68.4
+75,Abu Hider,Liton Das,Soumya Sarkar,117.0,64.43
+76,Imrul Kayes,Abu Hider,Soumya Sarkar,232.0,77.71000000000001
+77,Abu Hider,Mohammad Saifuddin,Soumya Sarkar,117.0,47.64
+78,Abu Hider,Liton Das,Imrul Kayes,115.0,73.72
+79,Abu Hider,Mohammad Saifuddin,Imrul Kayes,115.0,56.93
+80,Fazle Mahmud,Nazmul Islam,Mohammad Mithun,30.5,23.36
+81,Nazmul Islam,Mohammad Mithun,Soumya Sarkar,83.0,57.32
+82,Nazmul Islam,Mohammad Mithun,Liton Das,65.4,53.33
+83,Nazmul Islam,Mohammad Mithun,Imrul Kayes,100.2,66.61
+84,Nazmul Islam,Mohammad Mithun,Mohammad Saifuddin,39.33333333,36.54
+85,Nazmul Islam,Soumya Sarkar,Mushfiqur Rahim,95.0,74.59
+86,Nazmul Islam,Liton Das,Mushfiqur Rahim,75.4,70.6
+87,Nazmul Islam,Imrul Kayes,Mushfiqur Rahim,110.2,83.88
+88,Mashrafe Mortaza,Nazmul Islam,Rubel Hossain,14.0,8.709999999999999
+89,Mashrafe Mortaza,Nazmul Islam,Soumya Sarkar,82.0,41.4
+90,Mashrafe Mortaza,Nazmul Islam,Liton Das,55.0,37.41
+91,Mashrafe Mortaza,Nazmul Islam,Imrul Kayes,89.8,50.69
+92,Nazmul Islam,Soumya Sarkar,Ariful Haque,117.0,35.36
+93,Nazmul Islam,Imrul Kayes,Ariful Haque,115.0,44.65
+94,Nazmul Islam,Fazle Mahmud,Liton Das,43.5,31.369999999999997
+95,Nazmul Islam,Fazle Mahmud,Imrul Kayes,117.0,44.65
+96,Nazmul Islam,Fazle Mahmud,Mohammad Saifuddin,25.0,14.58
+97,Nazmul Islam,Mehidy Hasan Miraz,Rubel Hossain,39.0,12.64
+98,Nazmul Islam,Soumya Sarkar,Rubel Hossain,40.0,36.63
+99,Nazmul Islam,Liton Das,Rubel Hossain,128.0,32.64
+100,Nazmul Islam,Mustafizur Rahman,Rubel Hossain,9.0,4.07
+101,Nazmul Islam,Mehidy Hasan Miraz,Soumya Sarkar,72.0,45.33
+102,Nazmul Islam,Mehidy Hasan Miraz,Liton Das,73.5,41.34
+103,Nazmul Islam,Mehidy Hasan Miraz,Imrul Kayes,88.25,54.620000000000005
+104,Nazmul Islam,Mehidy Hasan Miraz,Mohammad Saifuddin,25.5,24.55
+105,Mahmudullah,Nazmul Islam,Soumya Sarkar,80.5,60.01
+106,Mahmudullah,Nazmul Islam,Liton Das,66.8,56.019999999999996
+107,Mahmudullah,Nazmul Islam,Shakib Al Hasan,74.0,62.459999999999994
+108,Mahmudullah,Nazmul Islam,Imrul Kayes,101.6,69.3
+109,Mahmudullah,Nazmul Islam,Najmul Hossain Shanto,80.0,37.05
+110,Nazmul Islam,Liton Das,Soumya Sarkar,139.0,65.33
+111,Nazmul Islam,Mustafizur Rahman,Soumya Sarkar,42.0,36.76
+112,Nazmul Islam,Imrul Kayes,Soumya Sarkar,137.0,78.61
+113,Nazmul Islam,Mohammad Saifuddin,Soumya Sarkar,117.0,48.54
+114,Nazmul Islam,Mustafizur Rahman,Liton Das,64.75,32.769999999999996
+115,Nazmul Islam,Imrul Kayes,Liton Das,135.8,74.62
+116,Nazmul Islam,Mohammad Saifuddin,Liton Das,45.66666667,44.55
+117,Nazmul Islam,Liton Das,Najmul Hossain Shanto,47.0,42.37
+118,Nazmul Islam,Mustafizur Rahman,Imrul Kayes,79.5,46.05
+119,Nazmul Islam,Mustafizur Rahman,Mohammad Saifuddin,25.5,15.98
+120,Nazmul Islam,Imrul Kayes,Mohammad Saifuddin,133.0,57.83
+121,Nazmul Islam,Imrul Kayes,Najmul Hossain Shanto,78.0,55.65
+122,Nasir Hossain,Mushfiqur Rahim,Taskin Ahmed,63.45454545,51.11
+123,Mashrafe Mortaza,Nasir Hossain,Taskin Ahmed,20.55555556,17.92
+124,Nasir Hossain,Mosaddek Hossain,Taskin Ahmed,49.0,28.520000000000003
+125,Mahmudullah,Nasir Hossain,Taskin Ahmed,46.0,36.53
+126,Nasir Hossain,Tamim Iqbal,Taskin Ahmed,62.7,55.66
+127,Nasir Hossain,Soumya Sarkar,Taskin Ahmed,59.57142857,45.84
+128,Mustafizur Rahman,Nasir Hossain,Taskin Ahmed,18.0,13.280000000000001
+129,Nasir Hossain,Sabbir Rahman,Taskin Ahmed,33.54545455,32.93
+130,Nasir Hossain,Shafiul Islam,Taskin Ahmed,15.5,13.13
+131,Nasir Hossain,Mohammad Saifuddin,Taskin Ahmed,27.0,25.060000000000002
+132,Al-Amin Hossain,Nasir Hossain,Mushfiqur Rahim,66.0,49.78
+133,Nasir Hossain,Mosaddek Hossain,Mushfiqur Rahim,80.33333333,66.17
+134,Nasir Hossain,Arafat Sunny,Mushfiqur Rahim,73.0,54.28
+135,Mahmudullah,Nasir Hossain,Mushfiqur Rahim,77.35,74.18
+136,Nasir Hossain,Tamim Iqbal,Mushfiqur Rahim,94.18181818,93.31
+137,Soumya Sarkar,Nasir Hossain,Mushfiqur Rahim,93.58333333,83.49000000000001
+138,Nasir Hossain,Sabbir Rahman,Mushfiqur Rahim,71.78260870000001,70.58
+139,Nasir Hossain,Shafiul Islam,Mushfiqur Rahim,59.5,50.78
+140,Abul Hasan,Nasir Hossain,Mushfiqur Rahim,72.5,53.03
+141,Nasir Hossain,Jubair Hossain,Mushfiqur Rahim,60.0,54.53
+142,Imrul Kayes,Nasir Hossain,Mushfiqur Rahim,99.125,92.78
+143,Nasir Hossain,Mohammad Saifuddin,Mushfiqur Rahim,102.5,62.709999999999994
+144,Al-Amin Hossain,Mashrafe Mortaza,Nasir Hossain,28.33333333,16.59
+145,Al-Amin Hossain,Nasir Hossain,Arafat Sunny,21.0,15.3
+146,Al-Amin Hossain,Nasir Hossain,Mahmudullah,35.66666667,35.2
+147,Al-Amin Hossain,Nasir Hossain,Tamim Iqbal,58.0,54.33
+148,Al-Amin Hossain,Mustafizur Rahman,Nasir Hossain,16.0,11.950000000000001
+149,Al-Amin Hossain,Nasir Hossain,Sabbir Rahman,44.33333333,31.6
+150,Al-Amin Hossain,Nasir Hossain,Imrul Kayes,95.5,53.8
+151,Mashrafe Mortaza,Nasir Hossain,Mosaddek Hossain,50.66666667,32.980000000000004
+152,Mashrafe Mortaza,Nasir Hossain,Arafat Sunny,25.16666667,21.09
+153,Mashrafe Mortaza,Nasir Hossain,Tamim Iqbal,60.45,60.120000000000005
+154,Mashrafe Mortaza,Nasir Hossain,Soumya Sarkar,66.4,50.3
+155,Mashrafe Mortaza,Mustafizur Rahman,Nasir Hossain,18.0,17.740000000000002
+156,Mashrafe Mortaza,Nasir Hossain,Shafiul Islam,37.5,17.59
+157,Mashrafe Mortaza,Nasir Hossain,Jubair Hossain,40.0,21.34
+158,Mashrafe Mortaza,Nasir Hossain,Imrul Kayes,72.14285714,59.59
+159,Sunzamul Islam,Nasir Hossain,Tamim Iqbal,90.5,60.410000000000004
+160,Sunzamul Islam,Nasir Hossain,Shakib Al Hasan,54.5,53.04
+161,Sunzamul Islam,Mustafizur Rahman,Nasir Hossain,19.5,18.03
+162,Mahmudullah,Nasir Hossain,Mosaddek Hossain,78.33333333,51.59
+163,Nasir Hossain,Tamim Iqbal,Mosaddek Hossain,77.33333333,70.72
+164,Nasir Hossain,Sabbir Rahman,Mosaddek Hossain,75.0,47.99
+165,Nasir Hossain,Shafiul Islam,Mosaddek Hossain,49.0,28.19
+166,Nasir Hossain,Mosaddek Hossain,Imrul Kayes,77.5,70.19
+167,Nasir Hossain,Tamim Iqbal,Arafat Sunny,80.0,58.83
+168,Nasir Hossain,Arafat Sunny,Soumya Sarkar,63.25,49.010000000000005
+169,Mustafizur Rahman,Nasir Hossain,Arafat Sunny,30.75,16.450000000000003
+170,Nasir Hossain,Sabbir Rahman,Arafat Sunny,37.14285714,36.1
+171,Nasir Hossain,Arafat Sunny,Imrul Kayes,98.0,58.3
+172,Nasir Hossain,Tamim Iqbal,Rubel Hossain,61.0,55.35
+173,Nasir Hossain,Soumya Sarkar,Rubel Hossain,61.0,45.53000000000001
+174,Mahmudullah,Nasir Hossain,Taijul Islam,139.0,42.830000000000005
+175,Nasir Hossain,Taijul Islam,Soumya Sarkar,62.0,52.14
+176,Nasir Hossain,Taijul Islam,Sabbir Rahman,51.0,39.230000000000004
+177,Mahmudullah,Nasir Hossain,Tamim Iqbal,83.63157895,78.73
+178,Mahmudullah,Nasir Hossain,Soumya Sarkar,88.88888889,68.91
+179,Mahmudullah,Nasir Hossain,Shafiul Islam,56.0,36.2
+180,Mahmudullah,Nasir Hossain,Imrul Kayes,98.875,78.2
+181,Nasir Hossain,Tamim Iqbal,Soumya Sarkar,106.83333329999999,88.03999999999999
+182,Nasir Hossain,Tamim Iqbal,Anamul Haque,77.25,70.08
+183,Nasir Hossain,Sabbir Rahman,Tamim Iqbal,77.68181818,75.13
+184,Abul Hasan,Nasir Hossain,Tamim Iqbal,75.0,57.58
+185,Nasir Hossain,Mohammad Saifuddin,Tamim Iqbal,90.0,67.26
+186,Nasir Hossain,Liton Das,Soumya Sarkar,88.33333333,74.22999999999999
+187,Nasir Hossain,Shakib Al Hasan,Soumya Sarkar,82.0,80.66999999999999
+188,Mustafizur Rahman,Nasir Hossain,Soumya Sarkar,62.71428571,45.660000000000004
+189,Nasir Hossain,Sabbir Rahman,Soumya Sarkar,82.0,65.31
+190,Nasir Hossain,Jubair Hossain,Soumya Sarkar,63.0,49.260000000000005
+191,Nasir Hossain,Liton Das,Imrul Kayes,90.5,83.52
+192,Nasir Hossain,Jubair Hossain,Shakib Al Hasan,84.0,51.709999999999994
+193,Nasir Hossain,Mohammad Saifuddin,Shakib Al Hasan,64.5,59.89
+194,Mustafizur Rahman,Nasir Hossain,Sabbir Rahman,34.57142857,32.75
+195,Mustafizur Rahman,Nasir Hossain,Jubair Hossain,36.0,16.700000000000003
+196,Mustafizur Rahman,Nasir Hossain,Imrul Kayes,98.0,54.95
+197,Nasir Hossain,Mohammad Saifuddin,Anamul Haque,41.0,39.480000000000004
+198,Nasir Hossain,Sabbir Rahman,Shafiul Islam,41.5,32.6
+199,Jubair Hossain,Nasir Hossain,Sabbir Rahman,41.0,36.35
+200,Nasir Hossain,Sabbir Rahman,Imrul Kayes,79.5,74.6
+201,Shakib Al Hasan,Mominul Haque,Taskin Ahmed,47.0,42.989999999999995
+202,Mominul Haque,Anamul Haque,Taskin Ahmed,30.0,22.58
+203,Mominul Haque,Sabbir Rahman,Taskin Ahmed,54.0,27.630000000000003
+204,Mashrafe Mortaza,Mushfiqur Rahim,Taskin Ahmed,47.86363636,46.849999999999994
+205,Arafat Sunny,Mushfiqur Rahim,Taskin Ahmed,78.0,45.559999999999995
+206,Rubel Hossain,Mushfiqur Rahim,Taskin Ahmed,49.76470588,42.08
+207,Mahmudullah,Mushfiqur Rahim,Taskin Ahmed,77.63636364,65.46
+208,Tamim Iqbal,Mushfiqur Rahim,Taskin Ahmed,85.22727273,84.58999999999999
+209,Shakib Al Hasan,Mushfiqur Rahim,Taskin Ahmed,77.45833333,77.21999999999998
+210,Anamul Haque,Mushfiqur Rahim,Taskin Ahmed,84.5,56.809999999999995
+211,Sabbir Rahman,Mushfiqur Rahim,Taskin Ahmed,63.58333333,61.86
+212,Abul Hasan,Mushfiqur Rahim,Taskin Ahmed,106.0,44.309999999999995
+213,Mohammad Saifuddin,Mushfiqur Rahim,Taskin Ahmed,126.0,53.989999999999995
+214,Mashrafe Mortaza,Tanbir Hayder,Taskin Ahmed,20.0,10.12
+215,Tanbir Hayder,Mustafizur Rahman,Taskin Ahmed,7.0,5.48
+216,Tanbir Hayder,Sabbir Rahman,Taskin Ahmed,33.0,25.130000000000003
+217,Tanbir Hayder,Imrul Kayes,Taskin Ahmed,56.0,47.33
+218,Mashrafe Mortaza,Mosaddek Hossain,Taskin Ahmed,33.83333333,24.259999999999998
+219,Mashrafe Mortaza,Rubel Hossain,Taskin Ahmed,9.666666667000001,8.89
+220,Mashrafe Mortaza,Mehidy Hasan Miraz,Taskin Ahmed,38.33333333,17.590000000000003
+221,Mashrafe Mortaza,Mahmudullah,Taskin Ahmed,39.04545455,32.269999999999996
+222,Mashrafe Mortaza,Tamim Iqbal,Taskin Ahmed,52.81818182,51.4
+223,Mashrafe Mortaza,Subashis Roy,Taskin Ahmed,18.0,8.620000000000001
+224,Mashrafe Mortaza,Shakib Al Hasan,Taskin Ahmed,45.25,44.029999999999994
+225,Mashrafe Mortaza,Mustafizur Rahman,Taskin Ahmed,16.0,9.02
+226,Mashrafe Mortaza,Anamul Haque,Taskin Ahmed,40.0,23.619999999999997
+227,Mashrafe Mortaza,Sabbir Rahman,Taskin Ahmed,32.66666667,28.67
+228,Mashrafe Mortaza,Shafiul Islam,Taskin Ahmed,12.5,8.870000000000001
+229,Rubel Hossain,Mosaddek Hossain,Taskin Ahmed,29.0,19.490000000000002
+230,Mehidy Hasan Miraz,Mosaddek Hossain,Taskin Ahmed,49.0,28.189999999999998
+231,Taijul Islam,Mosaddek Hossain,Taskin Ahmed,55.0,26.1
+232,Mahmudullah,Mosaddek Hossain,Taskin Ahmed,48.0,42.87
+233,Tamim Iqbal,Mosaddek Hossain,Taskin Ahmed,66.16666667,62.0
+234,Shakib Al Hasan,Mosaddek Hossain,Taskin Ahmed,60.41666667,54.629999999999995
+235,Mustafizur Rahman,Mosaddek Hossain,Taskin Ahmed,24.5,19.619999999999997
+236,Sabbir Rahman,Mosaddek Hossain,Taskin Ahmed,46.58333333,39.269999999999996
+237,Imrul Kayes,Mosaddek Hossain,Taskin Ahmed,71.0,61.47
+238,Mahmudullah,Arafat Sunny,Taskin Ahmed,33.0,30.979999999999997
+239,Arafat Sunny,Tamim Iqbal,Taskin Ahmed,79.25,50.11
+240,Arafat Sunny,Soumya Sarkar,Taskin Ahmed,51.75,40.29
+241,Mehidy Hasan Miraz,Rubel Hossain,Taskin Ahmed,17.0,12.82
+242,Taijul Islam,Rubel Hossain,Taskin Ahmed,11.33333333,10.73
+243,Mahmudullah,Rubel Hossain,Taskin Ahmed,42.6,27.5
+244,Rubel Hossain,Anamul Haque,Taskin Ahmed,29.5,18.85
+245,Mehidy Hasan Miraz,Tamim Iqbal,Taskin Ahmed,98.0,55.33
+246,Mehidy Hasan Miraz,Soumya Sarkar,Taskin Ahmed,46.0,45.51
+247,Mehidy Hasan Miraz,Shakib Al Hasan,Taskin Ahmed,90.33333333,47.959999999999994
+248,Mustafizur Rahman,Mehidy Hasan Miraz,Taskin Ahmed,33.0,12.950000000000001
+249,Mehidy Hasan Miraz,Sabbir Rahman,Taskin Ahmed,58.33333333,32.6
+250,Mahmudullah,Taijul Islam,Taskin Ahmed,79.33333333,34.11
+251,Mahmudullah,Tamim Iqbal,Taskin Ahmed,80.68181818,70.01
+252,Mahmudullah,Soumya Sarkar,Taskin Ahmed,61.88235294,60.19
+253,Mahmudullah,Shakib Al Hasan,Taskin Ahmed,66.20833333,62.63999999999999
+254,Mahmudullah,Mustafizur Rahman,Taskin Ahmed,29.5,27.629999999999995
+255,Mahmudullah,Anamul Haque,Taskin Ahmed,55.0,42.23
+256,Mahmudullah,Sabbir Rahman,Taskin Ahmed,55.33333333,47.28
+257,Mahmudullah,Shafiul Islam,Taskin Ahmed,35.25,27.479999999999997
+258,Mahmudullah,Imrul Kayes,Taskin Ahmed,71.92307692,69.48
+259,Mahmudullah,Mohammad Saifuddin,Taskin Ahmed,42.0,39.41
+260,Tamim Iqbal,Soumya Sarkar,Taskin Ahmed,80.0,79.32000000000001
+261,Mustafizur Rahman,Tamim Iqbal,Taskin Ahmed,50.5,46.76
+262,Sabbir Rahman,Tamim Iqbal,Taskin Ahmed,68.5,66.41
+263,Shafiul Islam,Tamim Iqbal,Taskin Ahmed,49.25,46.61
+264,Abul Hasan,Tamim Iqbal,Taskin Ahmed,132.0,48.86
+265,Anamul Haque,Soumya Sarkar,Taskin Ahmed,56.0,51.54
+266,Subashis Roy,Sabbir Rahman,Taskin Ahmed,39.0,23.630000000000003
+267,Subashis Roy,Imrul Kayes,Taskin Ahmed,60.0,45.83
+268,Mustafizur Rahman,Shakib Al Hasan,Taskin Ahmed,58.5,39.38999999999999
+269,Shakib Al Hasan,Anamul Haque,Taskin Ahmed,84.0,53.989999999999995
+270,Mustafizur Rahman,Sabbir Rahman,Taskin Ahmed,26.5,24.03
+271,Sabbir Rahman,Anamul Haque,Taskin Ahmed,57.5,38.629999999999995
+272,Sabbir Rahman,Shafiul Islam,Taskin Ahmed,34.5,23.880000000000003
+273,Imrul Kayes,Shafiul Islam,Taskin Ahmed,56.66666667,46.08
+274,Mohammad Mithun,Mominul Haque,Mushfiqur Rahim,164.0,66.19
+275,Mashrafe Mortaza,Mohammad Mithun,Mominul Haque,44.5,33.0
+276,Mohammad Mithun,Mominul Haque,Rubel Hossain,38.5,28.23
+277,Mehidy Hasan Miraz,Mohammad Mithun,Mominul Haque,46.0,36.93
+278,Mahmudullah,Mohammad Mithun,Mominul Haque,64.0,51.61
+279,Mohammad Mithun,Mominul Haque,Soumya Sarkar,65.0,60.92
+280,Mustafizur Rahman,Mohammad Mithun,Mominul Haque,65.0,28.36
+281,Mohammad Mithun,Mominul Haque,Imrul Kayes,74.0,70.21000000000001
+282,Al-Amin Hossain,Mohammad Mithun,Mushfiqur Rahim,87.0,61.44
+283,Mashrafe Mortaza,Mohammad Mithun,Mushfiqur Rahim,71.05,67.22999999999999
+284,Mohammad Mithun,Mosaddek Hossain,Mushfiqur Rahim,102.25,77.83
+285,Mohammad Mithun,Mushfiqur Rahim,Rubel Hossain,76.85714286,62.46
+286,Mehidy Hasan Miraz,Mohammad Mithun,Mushfiqur Rahim,78.54545455,71.16
+287,Mohammad Mithun,Taijul Islam,Mushfiqur Rahim,80.5,69.07
+288,Mahmudullah,Mohammad Mithun,Mushfiqur Rahim,86.04347826,85.84
+289,Soumya Sarkar,Mohammad Mithun,Mushfiqur Rahim,105.6,95.15
+290,Mohammad Mithun,Liton Das,Mushfiqur Rahim,102.3076923,91.16
+291,Mohammad Mithun,Shakib Al Hasan,Mushfiqur Rahim,101.2,97.6
+292,Mustafizur Rahman,Mohammad Mithun,Mushfiqur Rahim,71.25,62.589999999999996
+293,Mohammad Mithun,Shafiul Islam,Mushfiqur Rahim,74.0,62.44
+294,Mohammad Mithun,Abu Jayed,Mushfiqur Rahim,106.0,61.19
+295,Imrul Kayes,Mohammad Mithun,Mushfiqur Rahim,130.5,104.44
+296,Al-Amin Hossain,Mashrafe Mortaza,Mohammad Mithun,33.0,28.25
+297,Al-Amin Hossain,Mehidy Hasan Miraz,Mohammad Mithun,37.0,32.18
+298,Al-Amin Hossain,Mohammad Mithun,Taijul Islam,32.0,30.09
+299,Al-Amin Hossain,Mohammad Mithun,Mahmudullah,73.0,46.86
+300,Al-Amin Hossain,Mohammad Mithun,Tamim Iqbal,190.0,65.99000000000001
+301,Al-Amin Hossain,Mohammad Mithun,Shafiul Islam,37.0,23.46
+302,Al-Amin Hossain,Mohammad Mithun,Najmul Hossain Shanto,38.0,33.21
+303,Mashrafe Mortaza,Mohammad Mithun,Mosaddek Hossain,47.71428571,44.64
+304,Mashrafe Mortaza,Mohammad Mithun,Fazle Mahmud,31.5,28.0
+305,Mashrafe Mortaza,Mohammad Mithun,Rubel Hossain,35.33333333,29.27
+306,Mashrafe Mortaza,Mehidy Hasan Miraz,Mohammad Mithun,38.66666667,37.97
+307,Mashrafe Mortaza,Mohammad Mithun,Tamim Iqbal,72.07142857,71.78
+308,Mashrafe Mortaza,Mohammad Mithun,Soumya Sarkar,73.83333333,61.96
+309,Mashrafe Mortaza,Mohammad Mithun,Liton Das,73.46666667,57.97
+310,Mashrafe Mortaza,Mustafizur Rahman,Mohammad Mithun,31.78947368,29.4
+311,Mashrafe Mortaza,Mohammad Mithun,Shafiul Islam,38.0,29.25
+312,Mashrafe Mortaza,Mohammad Mithun,Abu Jayed,43.0,28.0
+313,Mashrafe Mortaza,Mohammad Mithun,Imrul Kayes,99.16666667,71.25
+314,Mehidy Hasan Miraz,Mohammad Mithun,Mosaddek Hossain,52.11111111,48.57
+315,Mohammad Mithun,Mosaddek Hossain,Shakib Al Hasan,83.66666667,75.00999999999999
+316,Mustafizur Rahman,Mohammad Mithun,Mosaddek Hossain,43.0,40.0
+317,Mohammad Mithun,Sabbir Rahman,Mosaddek Hossain,62.33333333,59.650000000000006
+318,Mohammad Mithun,Mohammad Saifuddin,Mosaddek Hossain,53.25,51.78
+319,Ariful Haque,Mohammad Mithun,Soumya Sarkar,124.0,55.92
+320,Ariful Haque,Mohammad Mithun,Imrul Kayes,122.0,65.21000000000001
+321,Fazle Mahmud,Mohammad Mithun,Liton Das,74.0,51.93
+322,Fazle Mahmud,Mustafizur Rahman,Mohammad Mithun,31.0,23.36
+323,Fazle Mahmud,Mohammad Mithun,Imrul Kayes,147.5,65.21000000000001
+324,Fazle Mahmud,Mohammad Mithun,Mohammad Saifuddin,55.5,35.14
+325,Mehidy Hasan Miraz,Mohammad Mithun,Rubel Hossain,36.5,33.2
+326,Mohammad Mithun,Taijul Islam,Rubel Hossain,45.0,31.11
+327,Mohammad Mithun,Liton Das,Rubel Hossain,56.0,53.2
+328,Mustafizur Rahman,Mohammad Mithun,Rubel Hossain,32.83333333,24.63
+329,Mehidy Hasan Miraz,Mohammad Mithun,Taijul Islam,40.6,39.81
+330,Mehidy Hasan Miraz,Mohammad Mithun,Soumya Sarkar,71.35714286,65.89
+331,Mehidy Hasan Miraz,Mohammad Mithun,Liton Das,83.42857143,61.9
+332,Mehidy Hasan Miraz,Mohammad Mithun,Mustafizur Rahman,36.904761900000004,33.33
+333,Mehidy Hasan Miraz,Mohammad Mithun,Abu Jayed,43.0,31.93
+334,Mehidy Hasan Miraz,Mohammad Mithun,Imrul Kayes,98.2,75.18
+335,Mohammad Mithun,Taijul Islam,Tamim Iqbal,94.2,73.62
+336,Mohammad Mithun,Taijul Islam,Soumya Sarkar,69.0,63.8
+337,Mohammad Mithun,Taijul Islam,Liton Das,131.0,59.81
+338,Mohammad Mithun,Taijul Islam,Anamul Haque,57.0,45.84
+339,Mohammad Mithun,Taijul Islam,Shafiul Islam,32.0,31.09
+340,Mohammad Mithun,Taijul Islam,Najmul Hossain Shanto,58.5,40.84
+341,Mahmudullah,Mohammad Mithun,Liton Das,84.13333333,76.58
+342,Mahmudullah,Mohammad Mithun,Abu Jayed,73.0,46.61
+343,Mahmudullah,Mohammad Mithun,Imrul Kayes,111.0,89.86
+344,Mahmudullah,Mohammad Mithun,Najmul Hossain Shanto,69.6,57.61
+345,Mohammad Mithun,Tamim Iqbal,Liton Das,143.28571430000002,95.71000000000001
+346,Mohammad Mithun,Tamim Iqbal,Mohammad Naim,128.0,65.74000000000001
+347,Mohammad Mithun,Afif Hossain,Tamim Iqbal,135.0,72.74000000000001
+348,Mohammad Mithun,Tamim Iqbal,Najmul Hossain Shanto,149.5,76.74000000000001
+349,Mohammad Mithun,Liton Das,Soumya Sarkar,103.66666670000001,85.89
+350,Mohammad Mithun,Shakib Al Hasan,Soumya Sarkar,119.33333329999999,92.33
+351,Mustafizur Rahman,Mohammad Mithun,Soumya Sarkar,60.76923077,57.32
+352,Anamul Haque,Mohammad Mithun,Soumya Sarkar,87.0,71.92
+353,Mohammad Mithun,Sabbir Rahman,Soumya Sarkar,84.875,76.97
+354,Mohammad Mithun,Abu Jayed,Soumya Sarkar,97.0,55.92
+355,Imrul Kayes,Mohammad Mithun,Soumya Sarkar,115.0,99.17000000000002
+356,Mohammad Mithun,Mohammad Saifuddin,Soumya Sarkar,81.33333333,69.1
+357,Mustafizur Rahman,Mohammad Mithun,Liton Das,81.25,53.33
+358,Mohammad Mithun,Liton Das,Mohammad Naim,176.0,51.93
+359,Mohammad Mithun,Sabbir Rahman,Liton Das,88.5,72.98
+360,Mohammad Mithun,Afif Hossain,Liton Das,183.0,58.93
+361,Mohammad Mithun,Liton Das,Imrul Kayes,136.33333330000002,95.18
+362,Mohammad Mithun,Mohammad Saifuddin,Liton Das,97.5,65.11
+363,Mohammad Mithun,Liton Das,Najmul Hossain Shanto,67.6,62.93
+364,Mohammad Mithun,Abu Jayed,Shakib Al Hasan,72.0,58.37
+365,Mustafizur Rahman,Mohammad Mithun,Sabbir Rahman,45.625,44.41
+366,Mustafizur Rahman,Mohammad Mithun,Abu Jayed,43.0,23.36
+367,Mustafizur Rahman,Mohammad Mithun,Imrul Kayes,88.8,66.61
+368,Mustafizur Rahman,Mohammad Mithun,Mohammad Saifuddin,37.0,36.54
+369,Mustafizur Rahman,Mohammad Mithun,Najmul Hossain Shanto,35.0,34.36
+370,Mohammad Mithun,Shafiul Islam,Najmul Hossain Shanto,43.0,34.21
+371,Mohammad Mithun,Mohammad Saifuddin,Imrul Kayes,155.66666669999998,78.39
+372,Mohammad Mithun,Najmul Hossain Shanto,Imrul Kayes,79.0,76.21000000000001
+373,Mohammad Mithun,Mohammad Saifuddin,Najmul Hossain Shanto,107.0,46.14
+374,Mashrafe Mortaza,Mominul Haque,Mushfiqur Rahim,80.5,50.269999999999996
+375,Mominul Haque,Mushfiqur Rahim,Rubel Hossain,71.0,45.5
+376,Mehidy Hasan Miraz,Mominul Haque,Mushfiqur Rahim,116.0,54.199999999999996
+377,Mahmudullah,Mominul Haque,Mushfiqur Rahim,97.0,68.88
+378,Soumya Sarkar,Mominul Haque,Mushfiqur Rahim,83.0,78.19
+379,Mominul Haque,Liton Das,Mushfiqur Rahim,110.0,74.19999999999999
+380,Shakib Al Hasan,Mominul Haque,Mushfiqur Rahim,83.0,80.63999999999999
+381,Mustafizur Rahman,Mominul Haque,Mushfiqur Rahim,104.0,45.629999999999995
+382,Anamul Haque,Mominul Haque,Mushfiqur Rahim,66.0,60.23
+383,Mominul Haque,Mushfiqur Rahim,Sabbir Rahman,90.0,65.28
+384,Imrul Kayes,Mominul Haque,Mushfiqur Rahim,113.0,87.47999999999999
+385,Mashrafe Mortaza,Mominul Haque,Mosaddek Hossain,35.0,27.68
+386,Mashrafe Mortaza,Mehidy Hasan Miraz,Mominul Haque,21.5,21.01
+387,Mashrafe Mortaza,Mominul Haque,Mahmudullah,38.33333333,35.69
+388,Mashrafe Mortaza,Mustafizur Rahman,Mominul Haque,18.0,12.44
+389,Mashrafe Mortaza,Mominul Haque,Anamul Haque,37.0,27.04
+390,Mashrafe Mortaza,Mominul Haque,Sabbir Rahman,61.0,32.09
+391,Mominul Haque,Mosaddek Hossain,Rubel Hossain,35.0,22.91
+392,Mehidy Hasan Miraz,Mominul Haque,Mosaddek Hossain,39.0,31.61
+393,Mahmudullah,Mominul Haque,Mosaddek Hossain,62.0,46.29
+394,Mominul Haque,Mosaddek Hossain,Najmul Hossain Shanto,42.0,32.64
+395,Mahmudullah,Mominul Haque,Rubel Hossain,32.0,30.919999999999998
+396,Mominul Haque,Anamul Haque,Rubel Hossain,30.0,22.27
+397,Mominul Haque,Sabbir Rahman,Rubel Hossain,54.0,27.32
+398,Mahmudullah,Mehidy Hasan Miraz,Mominul Haque,41.0,39.62
+399,Mustafizur Rahman,Mehidy Hasan Miraz,Mominul Haque,17.0,16.37
+400,Mahmudullah,Mominul Haque,Anamul Haque,58.0,45.65
+401,Mahmudullah,Mominul Haque,Sabbir Rahman,82.0,50.7
+402,Mahmudullah,Mominul Haque,Najmul Hossain Shanto,43.0,40.65
+403,Anamul Haque,Mominul Haque,Soumya Sarkar,55.0,54.96
+404,Mominul Haque,Soumya Sarkar,Sabbir Rahman,79.0,60.010000000000005
+405,Shakib Al Hasan,Mominul Haque,Anamul Haque,76.0,57.41
+406,Shakib Al Hasan,Mominul Haque,Sabbir Rahman,100.0,62.459999999999994
+407,Mominul Haque,Anamul Haque,Sabbir Rahman,83.0,42.05
+408,Al-Amin Hossain,Mashrafe Mortaza,Mushfiqur Rahim,64.0,45.519999999999996
+409,Al-Amin Hossain,Arafat Sunny,Mushfiqur Rahim,59.33333333,44.23
+410,Al-Amin Hossain,Mehidy Hasan Miraz,Mushfiqur Rahim,60.0,49.449999999999996
+411,Al-Amin Hossain,Taijul Islam,Mushfiqur Rahim,55.0,47.36
+412,Al-Amin Hossain,Mushfiqur Rahim,Mahmudullah,79.5,64.13
+413,Al-Amin Hossain,Tamim Iqbal,Mushfiqur Rahim,125.5,83.25999999999999
+414,Al-Amin Hossain,Shakib Al Hasan,Mushfiqur Rahim,123.0,75.88999999999999
+415,Al-Amin Hossain,Mustafizur Rahman,Mushfiqur Rahim,54.33333333,40.879999999999995
+416,Al-Amin Hossain,Sabbir Rahman,Mushfiqur Rahim,82.66666667,60.53
+417,Al-Amin Hossain,Shafiul Islam,Mushfiqur Rahim,60.0,40.73
+418,Al-Amin Hossain,Imrul Kayes,Mushfiqur Rahim,99.5,82.72999999999999
+419,Al-Amin Hossain,Najmul Hossain Shanto,Mushfiqur Rahim,61.0,50.48
+420,Mashrafe Mortaza,Mosaddek Hossain,Mushfiqur Rahim,62.75,61.91
+421,Mashrafe Mortaza,Arafat Sunny,Mushfiqur Rahim,67.14285714,50.019999999999996
+422,Mashrafe Mortaza,Mushfiqur Rahim,Rubel Hossain,49.6,46.54
+423,Mashrafe Mortaza,Mushfiqur Rahim,Mahmudullah,70.35384615,69.91999999999999
+424,Mashrafe Mortaza,Shakib Al Hasan,Mushfiqur Rahim,84.42857143,81.67999999999999
+425,Mashrafe Mortaza,Abu Jayed,Mushfiqur Rahim,49.0,45.269999999999996
+426,Mashrafe Mortaza,Imrul Kayes,Mushfiqur Rahim,94.95238095,88.52
+427,Sunzamul Islam,Soumya Sarkar,Mushfiqur Rahim,90.0,79.52
+428,Mosaddek Hossain,Mushfiqur Rahim,Rubel Hossain,60.0,57.14
+429,Mehidy Hasan Miraz,Mosaddek Hossain,Mushfiqur Rahim,73.82352941,65.84
+430,Taijul Islam,Mosaddek Hossain,Mushfiqur Rahim,103.5,63.75
+431,Mahmudullah,Mosaddek Hossain,Mushfiqur Rahim,84.68965517,80.52
+432,Tamim Iqbal,Mosaddek Hossain,Mushfiqur Rahim,102.55172409999999,99.65
+433,Liton Das,Mosaddek Hossain,Mushfiqur Rahim,93.14285714,85.84
+434,Shakib Al Hasan,Mosaddek Hossain,Mushfiqur Rahim,101.7777778,92.28
+435,Mustafizur Rahman,Mosaddek Hossain,Mushfiqur Rahim,60.625,57.269999999999996
+436,Sabbir Rahman,Mosaddek Hossain,Mushfiqur Rahim,77.45454545,76.91999999999999
+437,Shafiul Islam,Mosaddek Hossain,Mushfiqur Rahim,62.83333333,57.12
+438,Imrul Kayes,Mosaddek Hossain,Mushfiqur Rahim,108.8,99.12
+439,Ariful Haque,Soumya Sarkar,Mushfiqur Rahim,145.0,73.19
+440,Ariful Haque,Imrul Kayes,Mushfiqur Rahim,143.0,82.47999999999999
+441,Fazle Mahmud,Liton Das,Mushfiqur Rahim,71.0,69.19999999999999
+442,Imrul Kayes,Fazle Mahmud,Mushfiqur Rahim,144.5,82.47999999999999
+443,Fazle Mahmud,Mohammad Saifuddin,Mushfiqur Rahim,52.5,52.41
+444,Arafat Sunny,Mushfiqur Rahim,Rubel Hossain,70.4,45.25
+445,Mahmudullah,Arafat Sunny,Mushfiqur Rahim,97.57142857,68.63
+446,Arafat Sunny,Tamim Iqbal,Mushfiqur Rahim,122.25,87.75999999999999
+447,Soumya Sarkar,Arafat Sunny,Mushfiqur Rahim,118.8,77.94
+448,Arafat Sunny,Shakib Al Hasan,Mushfiqur Rahim,91.33333333,80.38999999999999
+449,Mustafizur Rahman,Arafat Sunny,Mushfiqur Rahim,57.5,45.379999999999995
+450,Arafat Sunny,Sabbir Rahman,Mushfiqur Rahim,86.25,65.03
+451,Abul Hasan,Arafat Sunny,Mushfiqur Rahim,106.0,47.48
+452,Imrul Kayes,Arafat Sunny,Mushfiqur Rahim,99.33333333,87.22999999999999
+453,Mehidy Hasan Miraz,Mushfiqur Rahim,Rubel Hossain,61.375,50.47
+454,Mahmudullah,Mushfiqur Rahim,Rubel Hossain,76.4,65.14999999999999
+455,Tamim Iqbal,Mushfiqur Rahim,Rubel Hossain,87.97435897,84.27999999999999
+456,Soumya Sarkar,Mushfiqur Rahim,Rubel Hossain,75.90322581,74.46
+457,Liton Das,Mushfiqur Rahim,Rubel Hossain,71.33333333,70.46999999999998
+458,Shakib Al Hasan,Mushfiqur Rahim,Rubel Hossain,76.97435897,76.90999999999998
+459,Mustafizur Rahman,Mushfiqur Rahim,Rubel Hossain,43.82758621,41.9
+460,Sabbir Rahman,Mushfiqur Rahim,Rubel Hossain,61.68421053,61.550000000000004
+461,Shafiul Islam,Mushfiqur Rahim,Rubel Hossain,44.0,41.75
+462,Abul Hasan,Mushfiqur Rahim,Rubel Hossain,69.5,44.0
+463,Mohammad Saifuddin,Mushfiqur Rahim,Rubel Hossain,67.83333333,53.68
+464,Mehidy Hasan Miraz,Taijul Islam,Mushfiqur Rahim,71.75,57.08
+465,Mehidy Hasan Miraz,Liton Das,Mushfiqur Rahim,84.8,79.16999999999999
+466,Mehidy Hasan Miraz,Shakib Al Hasan,Mushfiqur Rahim,99.04347826,85.60999999999999
+467,Mustafizur Rahman,Mehidy Hasan Miraz,Mushfiqur Rahim,53.696969700000004,50.599999999999994
+468,Mehidy Hasan Miraz,Shafiul Islam,Mushfiqur Rahim,74.0,50.449999999999996
+469,Mehidy Hasan Miraz,Abu Jayed,Mushfiqur Rahim,63.0,49.199999999999996
+470,Mahmudullah,Taijul Islam,Mushfiqur Rahim,86.71428571,71.75999999999999
+471,Taijul Islam,Liton Das,Mushfiqur Rahim,104.5,77.08
+472,Mustafizur Rahman,Taijul Islam,Mushfiqur Rahim,61.0,48.51
+473,Taijul Islam,Mushfiqur Rahim,Shafiul Islam,70.33333333,48.36
+474,Mahmudullah,Tamim Iqbal,Mushfiqur Rahim,111.442623,107.66
+475,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,108.25925929999998,100.28999999999999
+476,Mahmudullah,Sabbir Rahman,Mushfiqur Rahim,86.68627451,84.93
+477,Mahmudullah,Shafiul Islam,Mushfiqur Rahim,68.625,65.13
+478,Mahmudullah,Abul Hasan,Mushfiqur Rahim,75.5,67.38
+479,Mahmudullah,Abu Jayed,Mushfiqur Rahim,81.5,63.879999999999995
+480,Mahmudullah,Imrul Kayes,Mushfiqur Rahim,115.8636364,107.13
+481,Mahmudullah,Najmul Hossain Shanto,Mushfiqur Rahim,87.0,74.88
+482,Shakib Al Hasan,Tamim Iqbal,Mushfiqur Rahim,124.7962963,119.41999999999999
+483,Anamul Haque,Tamim Iqbal,Mushfiqur Rahim,106.7,99.00999999999999
+484,Shafiul Islam,Tamim Iqbal,Mushfiqur Rahim,90.625,84.25999999999999
+485,Abul Hasan,Tamim Iqbal,Mushfiqur Rahim,138.0,86.50999999999999
+486,Abu Jayed,Tamim Iqbal,Mushfiqur Rahim,88.0,83.00999999999999
+487,Najmul Hossain Shanto,Tamim Iqbal,Mushfiqur Rahim,145.5,94.00999999999999
+488,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,112.15,109.6
+489,Soumya Sarkar,Mushfiqur Rahim,Anamul Haque,104.66666670000001,89.19
+490,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,94.36842105,94.24000000000001
+491,Soumya Sarkar,Shafiul Islam,Mushfiqur Rahim,74.5,74.44
+492,Abul Hasan,Soumya Sarkar,Mushfiqur Rahim,126.0,76.69
+493,Soumya Sarkar,Abu Jayed,Mushfiqur Rahim,117.0,73.19
+494,Abu Jayed,Liton Das,Mushfiqur Rahim,111.0,69.19999999999999
+495,Imrul Kayes,Liton Das,Mushfiqur Rahim,124.4615385,112.44999999999999
+496,Mohammad Saifuddin,Liton Das,Mushfiqur Rahim,83.92857143,82.38
+497,Najmul Hossain Shanto,Liton Das,Mushfiqur Rahim,89.75,80.19999999999999
+498,Mustafizur Rahman,Shakib Al Hasan,Mushfiqur Rahim,82.125,77.03999999999999
+499,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,105.33333329999999,91.63999999999999
+500,Abul Hasan,Shakib Al Hasan,Mushfiqur Rahim,89.0,79.13999999999999
+501,Shakib Al Hasan,Abu Jayed,Mushfiqur Rahim,88.5,75.63999999999999
+502,Shakib Al Hasan,Mohammad Saifuddin,Mushfiqur Rahim,110.07692309999999,88.82
+503,Mustafizur Rahman,Shafiul Islam,Mushfiqur Rahim,93.5,41.879999999999995
+504,Mustafizur Rahman,Abu Jayed,Mushfiqur Rahim,63.0,40.629999999999995
+505,Imrul Kayes,Mustafizur Rahman,Mushfiqur Rahim,90.27272727,83.88
+506,Anamul Haque,Mohammad Saifuddin,Mushfiqur Rahim,103.0,68.41
+507,Sabbir Rahman,Mushfiqur Rahim,Shafiul Islam,72.14285714,61.53
+508,Abul Hasan,Sabbir Rahman,Mushfiqur Rahim,82.0,63.78
+509,Sabbir Rahman,Mushfiqur Rahim,Mohammad Saifuddin,78.9,73.46000000000001
+510,Imrul Kayes,Shafiul Islam,Mushfiqur Rahim,89.66666667,83.72999999999999
+511,Najmul Hossain Shanto,Shafiul Islam,Mushfiqur Rahim,66.0,51.48
+512,Imrul Kayes,Mohammad Saifuddin,Mushfiqur Rahim,159.75,95.66
+513,Imrul Kayes,Najmul Hossain Shanto,Mushfiqur Rahim,111.0,93.47999999999999
+514,Najmul Hossain Shanto,Mohammad Saifuddin,Mushfiqur Rahim,76.0,63.41
+515,Al-Amin Hossain,Mashrafe Mortaza,Arafat Sunny,21.66666667,11.04
+516,Al-Amin Hossain,Mashrafe Mortaza,Mahmudullah,37.75,30.939999999999998
+517,Al-Amin Hossain,Mashrafe Mortaza,Tamim Iqbal,83.75,50.07
+518,Al-Amin Hossain,Mustafizur Rahman,Mashrafe Mortaza,16.66666667,7.6899999999999995
+519,Al-Amin Hossain,Mashrafe Mortaza,Sabbir Rahman,45.0,27.34
+520,Al-Amin Hossain,Mashrafe Mortaza,Imrul Kayes,89.5,49.54
+521,Al-Amin Hossain,Arafat Sunny,Tamim Iqbal,51.33333333,48.78
+522,Al-Amin Hossain,Mustafizur Rahman,Arafat Sunny,9.333333332999999,6.4
+523,Al-Amin Hossain,Arafat Sunny,Sabbir Rahman,37.66666667,26.05
+524,Al-Amin Hossain,Arafat Sunny,Imrul Kayes,78.0,48.25
+525,Al-Amin Hossain,Mehidy Hasan Miraz,Mahmudullah,46.0,34.87
+526,Al-Amin Hossain,Mehidy Hasan Miraz,Tamim Iqbal,163.0,54.0
+527,Al-Amin Hossain,Taijul Islam,Mahmudullah,41.0,32.78
+528,Al-Amin Hossain,Taijul Islam,Tamim Iqbal,158.0,51.91
+529,Al-Amin Hossain,Tamim Iqbal,Mahmudullah,99.25,68.68
+530,Al-Amin Hossain,Sabbir Rahman,Mahmudullah,52.33333333,45.95
+531,Al-Amin Hossain,Shafiul Islam,Mahmudullah,46.0,26.15
+532,Al-Amin Hossain,Imrul Kayes,Mahmudullah,103.0,68.15
+533,Al-Amin Hossain,Najmul Hossain Shanto,Mahmudullah,47.0,35.9
+534,Al-Amin Hossain,Tamim Iqbal,Liton Das,81.0,74.0
+535,Al-Amin Hossain,Mustafizur Rahman,Tamim Iqbal,46.33333333,45.43
+536,Al-Amin Hossain,Sabbir Rahman,Tamim Iqbal,74.66666667,65.08
+537,Al-Amin Hossain,Shafiul Islam,Tamim Iqbal,163.0,45.28
+538,Al-Amin Hossain,Imrul Kayes,Tamim Iqbal,121.0,87.28
+539,Al-Amin Hossain,Tamim Iqbal,Najmul Hossain Shanto,164.0,55.03
+540,Al-Amin Hossain,Imrul Kayes,Liton Das,87.0,73.47
+541,Al-Amin Hossain,Shakib Al Hasan,Sabbir Rahman,73.0,57.709999999999994
+542,Al-Amin Hossain,Mustafizur Rahman,Sabbir Rahman,32.66666667,22.7
+543,Al-Amin Hossain,Mustafizur Rahman,Imrul Kayes,78.0,44.9
+544,Al-Amin Hossain,Imrul Kayes,Sabbir Rahman,92.0,64.55
+545,Mashrafe Mortaza,Tanbir Hayder,Tamim Iqbal,55.5,52.32
+546,Mashrafe Mortaza,Tanbir Hayder,Subashis Roy,20.0,9.54
+547,Mashrafe Mortaza,Tanbir Hayder,Mustafizur Rahman,17.0,9.94
+548,Mashrafe Mortaza,Tanbir Hayder,Sabbir Rahman,46.5,29.59
+549,Mashrafe Mortaza,Tanbir Hayder,Imrul Kayes,69.5,51.79
+550,Tanbir Hayder,Mustafizur Rahman,Tamim Iqbal,62.0,47.68
+551,Tanbir Hayder,Sabbir Rahman,Tamim Iqbal,68.5,67.33
+552,Tanbir Hayder,Imrul Kayes,Tamim Iqbal,91.5,89.53
+553,Tanbir Hayder,Subashis Roy,Sabbir Rahman,41.0,24.55
+554,Tanbir Hayder,Subashis Roy,Imrul Kayes,62.0,46.75
+555,Tanbir Hayder,Imrul Kayes,Sabbir Rahman,82.5,66.8
+556,Mashrafe Mortaza,Tamim Iqbal,Sunzamul Islam,75.33333333,56.15
+557,Mashrafe Mortaza,Soumya Sarkar,Sunzamul Islam,87.0,46.33
+558,Mashrafe Mortaza,Mehidy Hasan Miraz,Mosaddek Hossain,34.5625,32.650000000000006
+559,Mashrafe Mortaza,Taijul Islam,Mosaddek Hossain,57.0,30.560000000000002
+560,Mashrafe Mortaza,Mosaddek Hossain,Mahmudullah,50.86666667,47.33
+561,Mashrafe Mortaza,Tamim Iqbal,Mosaddek Hossain,70.03448276,66.46000000000001
+562,Mashrafe Mortaza,Shakib Al Hasan,Mosaddek Hossain,67.76666667,59.089999999999996
+563,Mashrafe Mortaza,Mustafizur Rahman,Mosaddek Hossain,24.2173913,24.08
+564,Mashrafe Mortaza,Sabbir Rahman,Mosaddek Hossain,47.5,43.730000000000004
+565,Mashrafe Mortaza,Shafiul Islam,Mosaddek Hossain,30.0,23.93
+566,Mashrafe Mortaza,Imrul Kayes,Mosaddek Hossain,75.71428571,65.93
+567,Mashrafe Mortaza,Mosaddek Hossain,Najmul Hossain Shanto,39.0,33.68
+568,Mashrafe Mortaza,Ariful Haque,Soumya Sarkar,117.0,40.0
+569,Mashrafe Mortaza,Ariful Haque,Imrul Kayes,115.0,49.29
+570,Mashrafe Mortaza,Fazle Mahmud,Liton Das,44.5,36.01
+571,Mashrafe Mortaza,Fazle Mahmud,Imrul Kayes,118.0,49.29
+572,Mashrafe Mortaza,Fazle Mahmud,Mohammad Saifuddin,26.0,19.22
+573,Mashrafe Mortaza,Arafat Sunny,Mahmudullah,43.66666667,35.44
+574,Mashrafe Mortaza,Arafat Sunny,Tamim Iqbal,58.0,54.57
+575,Mashrafe Mortaza,Arafat Sunny,Soumya Sarkar,61.75,44.75
+576,Mashrafe Mortaza,Mustafizur Rahman,Arafat Sunny,23.25,12.19
+577,Mashrafe Mortaza,Arafat Sunny,Sabbir Rahman,33.57142857,31.84
+578,Mashrafe Mortaza,Arafat Sunny,Imrul Kayes,65.0,54.04
+579,Mashrafe Mortaza,Mehidy Hasan Miraz,Rubel Hossain,21.46666667,17.28
+580,Mashrafe Mortaza,Taijul Islam,Rubel Hossain,19.0,15.19
+581,Mashrafe Mortaza,Mahmudullah,Rubel Hossain,35.75675676,31.959999999999997
+582,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain,9.035714286000001,8.709999999999999
+583,Mashrafe Mortaza,Anamul Haque,Rubel Hossain,24.33333333,23.31
+584,Mashrafe Mortaza,Mohammad Saifuddin,Rubel Hossain,26.33333333,20.49
+585,Mashrafe Mortaza,Najmul Hossain Shanto,Rubel Hossain,20.5,18.31
+586,Mashrafe Mortaza,Mehidy Hasan Miraz,Liton Das,54.54545455,45.980000000000004
+587,Mashrafe Mortaza,Mehidy Hasan Miraz,Shakib Al Hasan,61.41666667,52.42
+588,Mashrafe Mortaza,Mehidy Hasan Miraz,Najmul Hossain Shanto,31.0,27.01
+589,Mashrafe Mortaza,Taijul Islam,Tamim Iqbal,87.6,57.7
+590,Mashrafe Mortaza,Taijul Islam,Liton Das,104.0,43.89
+591,Mashrafe Mortaza,Tamim Iqbal,Mahmudullah,76.91525424,74.47
+592,Mashrafe Mortaza,Shakib Al Hasan,Mahmudullah,68.56363636,67.1
+593,Mashrafe Mortaza,Sabbir Rahman,Mahmudullah,52.04166667,51.739999999999995
+594,Mashrafe Mortaza,Shafiul Islam,Mahmudullah,46.8,31.939999999999998
+595,Mashrafe Mortaza,Abu Jayed,Mahmudullah,32.5,30.689999999999998
+596,Mashrafe Mortaza,Imrul Kayes,Mahmudullah,77.78260870000001,73.94
+597,Mashrafe Mortaza,Najmul Hossain Shanto,Mahmudullah,58.2,41.69
+598,Mashrafe Mortaza,Shakib Al Hasan,Tamim Iqbal,87.94444444,86.22999999999999
+599,Mashrafe Mortaza,Tamim Iqbal,Anamul Haque,85.11111111,65.82
+600,Mashrafe Mortaza,Mohammad Naim,Tamim Iqbal,128.0,49.82
+601,Mashrafe Mortaza,Shafiul Islam,Tamim Iqbal,81.4,51.07
+602,Mashrafe Mortaza,Afif Hossain,Tamim Iqbal,135.0,56.82
+603,Mashrafe Mortaza,Tamim Iqbal,Najmul Hossain Shanto,109.0,60.82
+604,Mashrafe Mortaza,Shakib Al Hasan,Soumya Sarkar,79.65789474,76.41
+605,Mashrafe Mortaza,Anamul Haque,Soumya Sarkar,66.0,56.0
+606,Mashrafe Mortaza,Sabbir Rahman,Soumya Sarkar,62.66666667,61.05
+607,Mashrafe Mortaza,Abu Jayed,Soumya Sarkar,54.0,40.0
+608,Mashrafe Mortaza,Mohammad Saifuddin,Soumya Sarkar,55.57142857,53.18
+609,Mashrafe Mortaza,Subashis Roy,Sabbir Rahman,56.0,28.09
+610,Mashrafe Mortaza,Subashis Roy,Imrul Kayes,77.0,50.29
+611,Mashrafe Mortaza,Mustafizur Rahman,Liton Das,40.68965517,37.41
+612,Mashrafe Mortaza,Mohammad Naim,Liton Das,176.0,36.01
+613,Mashrafe Mortaza,Abu Jayed,Liton Das,76.0,36.01
+614,Mashrafe Mortaza,Afif Hossain,Liton Das,183.0,43.01
+615,Mashrafe Mortaza,Imrul Kayes,Liton Das,87.53846154,79.25999999999999
+616,Mashrafe Mortaza,Mohammad Saifuddin,Liton Das,64.46666667,49.19
+617,Mashrafe Mortaza,Liton Das,Najmul Hossain Shanto,56.2,47.01
+618,Mashrafe Mortaza,Mustafizur Rahman,Shakib Al Hasan,48.97560976,43.849999999999994
+619,Mashrafe Mortaza,Shakib Al Hasan,Anamul Haque,74.77777778,58.449999999999996
+620,Mashrafe Mortaza,Shakib Al Hasan,Jubair Hossain,57.0,47.449999999999996
+621,Mashrafe Mortaza,Shakib Al Hasan,Mohammad Saifuddin,71.38461538,55.629999999999995
+622,Mashrafe Mortaza,Mustafizur Rahman,Imrul Kayes,54.41666667,50.69
+623,Mashrafe Mortaza,Mustafizur Rahman,Najmul Hossain Shanto,27.0,18.439999999999998
+624,Mashrafe Mortaza,Mohammad Saifuddin,Anamul Haque,47.0,35.22
+625,Mashrafe Mortaza,Sabbir Rahman,Shafiul Islam,46.0,28.34
+626,Mashrafe Mortaza,Imrul Kayes,Sabbir Rahman,71.26666667,70.34
+627,Mashrafe Mortaza,Sabbir Rahman,Mohammad Saifuddin,46.5,40.269999999999996
+628,Mashrafe Mortaza,Imrul Kayes,Shafiul Islam,71.33333333,50.54
+629,Mashrafe Mortaza,Imrul Kayes,Mohammad Saifuddin,112.0,62.47
+630,Mashrafe Mortaza,Imrul Kayes,Najmul Hossain Shanto,88.0,60.29
+631,Mashrafe Mortaza,Mohammad Saifuddin,Najmul Hossain Shanto,57.0,30.22
+632,Sunzamul Islam,Mosaddek Hossain,Soumya Sarkar,87.0,56.93
+633,Sunzamul Islam,Tamim Iqbal,Rubel Hossain,78.0,51.38
+634,Sunzamul Islam,Soumya Sarkar,Rubel Hossain,87.0,41.56
+635,Sunzamul Islam,Mustafizur Rahman,Rubel Hossain,15.0,9.0
+636,Sunzamul Islam,Tamim Iqbal,Mahmudullah,76.0,74.75999999999999
+637,Sunzamul Islam,Soumya Sarkar,Mahmudullah,87.0,64.94
+638,Sunzamul Islam,Tamim Iqbal,Soumya Sarkar,134.0,84.07
+639,Sunzamul Islam,Shakib Al Hasan,Tamim Iqbal,104.66666670000001,86.52
+640,Sunzamul Islam,Mustafizur Rahman,Tamim Iqbal,81.33333333,51.510000000000005
+641,Sunzamul Islam,Tamim Iqbal,Anamul Haque,99.5,66.11
+642,Sunzamul Islam,Sabbir Rahman,Tamim Iqbal,89.0,71.16
+643,Sunzamul Islam,Shakib Al Hasan,Soumya Sarkar,87.0,76.69999999999999
+644,Sunzamul Islam,Mustafizur Rahman,Soumya Sarkar,87.0,41.69
+645,Sunzamul Islam,Sabbir Rahman,Soumya Sarkar,122.0,61.34
+646,Sunzamul Islam,Shakib Al Hasan,Anamul Haque,63.5,58.739999999999995
+647,Sunzamul Islam,Mustafizur Rahman,Anamul Haque,28.5,23.73
+648,Taijul Islam,Mosaddek Hossain,Rubel Hossain,65.0,25.79
+649,Mahmudullah,Mosaddek Hossain,Rubel Hossain,44.66666667,42.56
+650,Tamim Iqbal,Mosaddek Hossain,Rubel Hossain,65.14285714,61.690000000000005
+651,Shafiul Islam,Mosaddek Hossain,Rubel Hossain,20.0,19.16
+652,Mohammad Saifuddin,Mosaddek Hossain,Rubel Hossain,38.5,31.09
+653,Mehidy Hasan Miraz,Taijul Islam,Mosaddek Hossain,59.0,34.49
+654,Mehidy Hasan Miraz,Mosaddek Hossain,Shakib Al Hasan,82.0,63.019999999999996
+655,Mustafizur Rahman,Mehidy Hasan Miraz,Mosaddek Hossain,30.41176471,28.01
+656,Mehidy Hasan Miraz,Shafiul Islam,Mosaddek Hossain,36.0,27.86
+657,Mehidy Hasan Miraz,Mosaddek Hossain,Najmul Hossain Shanto,49.0,37.61
+658,Mahmudullah,Taijul Islam,Mosaddek Hossain,51.0,49.17
+659,Shakib Al Hasan,Taijul Islam,Mosaddek Hossain,72.0,60.93
+660,Mahmudullah,Tamim Iqbal,Mosaddek Hossain,85.33333333,85.07000000000001
+661,Mahmudullah,Shakib Al Hasan,Mosaddek Hossain,85.24137931,77.69999999999999
+662,Mahmudullah,Sabbir Rahman,Mosaddek Hossain,65.30434783,62.34
+663,Mahmudullah,Abu Jayed,Mosaddek Hossain,49.0,41.29
+664,Shakib Al Hasan,Tamim Iqbal,Mosaddek Hossain,108.67857140000001,96.83
+665,Tamim Iqbal,Mosaddek Hossain,Anamul Haque,111.33333329999999,76.42
+666,Sabbir Rahman,Tamim Iqbal,Mosaddek Hossain,89.54166667,81.47
+667,Abu Jayed,Tamim Iqbal,Mosaddek Hossain,71.0,60.42
+668,Imrul Kayes,Tamim Iqbal,Mosaddek Hossain,108.1428571,103.67
+669,Shakib Al Hasan,Mosaddek Hossain,Soumya Sarkar,93.72222222,87.00999999999999
+670,Subashis Roy,Sabbir Rahman,Mosaddek Hossain,42.0,38.69
+671,Subashis Roy,Mosaddek Hossain,Imrul Kayes,63.0,60.89
+672,Shakib Al Hasan,Liton Das,Mosaddek Hossain,91.75,83.02
+673,Sabbir Rahman,Liton Das,Mosaddek Hossain,79.0,67.66
+674,Abu Jayed,Liton Das,Mosaddek Hossain,90.0,46.61
+675,Mohammad Saifuddin,Liton Das,Mosaddek Hossain,72.2,59.79
+676,Mustafizur Rahman,Shakib Al Hasan,Mosaddek Hossain,66.68181818,54.449999999999996
+677,Shakib Al Hasan,Mosaddek Hossain,Anamul Haque,79.0,69.05
+678,Shakib Al Hasan,Sabbir Rahman,Mosaddek Hossain,76.52380952,74.1
+679,Shakib Al Hasan,Abu Jayed,Mosaddek Hossain,64.0,53.05
+680,Shakib Al Hasan,Mohammad Saifuddin,Mosaddek Hossain,104.125,66.22999999999999
+681,Mustafizur Rahman,Shafiul Islam,Mosaddek Hossain,23.5,19.29
+682,Mustafizur Rahman,Mohammad Saifuddin,Mosaddek Hossain,32.125,31.22
+683,Sabbir Rahman,Mosaddek Hossain,Shafiul Islam,51.0,38.94
+684,Imrul Kayes,Sabbir Rahman,Mosaddek Hossain,86.71428571,80.94
+685,Sabbir Rahman,Mosaddek Hossain,Mohammad Saifuddin,54.33333333,50.87
+686,Imrul Kayes,Shafiul Islam,Mosaddek Hossain,78.66666667,61.14
+687,Mahmudullah,Ariful Haque,Soumya Sarkar,117.0,58.61
+688,Mahmudullah,Ariful Haque,Imrul Kayes,115.0,67.9
+689,Ariful Haque,Liton Das,Soumya Sarkar,117.0,63.93
+690,Ariful Haque,Imrul Kayes,Soumya Sarkar,232.0,77.21000000000001
+691,Ariful Haque,Mohammad Saifuddin,Soumya Sarkar,117.0,47.14
+692,Ariful Haque,Imrul Kayes,Liton Das,115.0,73.22
+693,Ariful Haque,Imrul Kayes,Mohammad Saifuddin,115.0,56.43
+694,Mehidy Hasan Miraz,Fazle Mahmud,Liton Das,44.0,39.94
+695,Mehidy Hasan Miraz,Fazle Mahmud,Imrul Kayes,117.5,53.22
+696,Mehidy Hasan Miraz,Fazle Mahmud,Mohammad Saifuddin,25.5,23.15
+697,Mahmudullah,Fazle Mahmud,Imrul Kayes,117.0,67.9
+698,Mustafizur Rahman,Fazle Mahmud,Liton Das,44.0,31.369999999999997
+699,Fazle Mahmud,Liton Das,Imrul Kayes,160.5,73.22
+700,Fazle Mahmud,Mohammad Saifuddin,Liton Das,68.5,43.15
+701,Mustafizur Rahman,Fazle Mahmud,Imrul Kayes,117.5,44.65
+702,Mustafizur Rahman,Fazle Mahmud,Mohammad Saifuddin,25.5,14.58
+703,Fazle Mahmud,Mohammad Saifuddin,Imrul Kayes,142.0,56.43
+704,Mahmudullah,Arafat Sunny,Rubel Hossain,33.0,30.669999999999998
+705,Arafat Sunny,Tamim Iqbal,Rubel Hossain,67.6,49.800000000000004
+706,Arafat Sunny,Soumya Sarkar,Rubel Hossain,52.6,39.980000000000004
+707,Arafat Sunny,Liton Das,Rubel Hossain,50.0,35.99
+708,Mustafizur Rahman,Arafat Sunny,Rubel Hossain,25.0,7.42
+709,Mahmudullah,Arafat Sunny,Tamim Iqbal,94.85714286,73.18
+710,Mahmudullah,Arafat Sunny,Soumya Sarkar,84.0,63.36
+711,Mahmudullah,Arafat Sunny,Imrul Kayes,106.33333329999999,72.65
+712,Arafat Sunny,Tamim Iqbal,Soumya Sarkar,116.0,82.49000000000001
+713,Arafat Sunny,Sabbir Rahman,Tamim Iqbal,81.5,69.58
+714,Abul Hasan,Arafat Sunny,Tamim Iqbal,132.0,52.03
+715,Arafat Sunny,Liton Das,Soumya Sarkar,88.0,68.68
+716,Mustafizur Rahman,Arafat Sunny,Soumya Sarkar,63.0,40.11
+717,Arafat Sunny,Sabbir Rahman,Soumya Sarkar,66.6,59.760000000000005
+718,Arafat Sunny,Sabbir Rahman,Liton Das,56.75,55.769999999999996
+719,Arafat Sunny,Liton Das,Imrul Kayes,89.5,77.97
+720,Mustafizur Rahman,Arafat Sunny,Sabbir Rahman,46.0,27.200000000000003
+721,Mustafizur Rahman,Arafat Sunny,Imrul Kayes,80.5,49.4
+722,Arafat Sunny,Sabbir Rahman,Imrul Kayes,69.33333333,69.05
+723,Mehidy Hasan Miraz,Taijul Islam,Rubel Hossain,49.0,19.12
+724,Mahmudullah,Mehidy Hasan Miraz,Rubel Hossain,39.47058824,35.89
+725,Mustafizur Rahman,Mehidy Hasan Miraz,Rubel Hossain,15.21428571,12.64
+726,Mehidy Hasan Miraz,Sabbir Rahman,Rubel Hossain,32.8,32.290000000000006
+727,Mehidy Hasan Miraz,Mohammad Saifuddin,Rubel Hossain,48.5,24.419999999999998
+728,Mehidy Hasan Miraz,Najmul Hossain Shanto,Rubel Hossain,30.5,22.24
+729,Mahmudullah,Taijul Islam,Rubel Hossain,74.25,33.800000000000004
+730,Taijul Islam,Soumya Sarkar,Rubel Hossain,53.25,43.11000000000001
+731,Taijul Islam,Anamul Haque,Rubel Hossain,55.0,25.15
+732,Taijul Islam,Sabbir Rahman,Rubel Hossain,31.5,30.2
+733,Taijul Islam,Shafiul Islam,Rubel Hossain,42.0,10.399999999999999
+734,Mahmudullah,Tamim Iqbal,Rubel Hossain,79.42857143,69.7
+735,Mahmudullah,Soumya Sarkar,Rubel Hossain,65.22222222,59.88
+736,Mahmudullah,Shakib Al Hasan,Rubel Hossain,63.08333333,62.33
+737,Mahmudullah,Mustafizur Rahman,Rubel Hossain,30.2,27.319999999999997
+738,Mahmudullah,Sabbir Rahman,Rubel Hossain,52.26470588,46.970000000000006
+739,Mahmudullah,Abu Jayed,Rubel Hossain,35.0,25.919999999999998
+740,Mahmudullah,Mohammad Saifuddin,Rubel Hossain,50.8,39.1
+741,Mustafizur Rahman,Tamim Iqbal,Rubel Hossain,48.23076923,46.45
+742,Tamim Iqbal,Anamul Haque,Rubel Hossain,72.7,61.050000000000004
+743,Sabbir Rahman,Tamim Iqbal,Rubel Hossain,67.30555556,66.1
+744,Abul Hasan,Tamim Iqbal,Rubel Hossain,72.0,48.550000000000004
+745,Abu Jayed,Tamim Iqbal,Rubel Hossain,57.0,45.050000000000004
+746,Anamul Haque,Soumya Sarkar,Rubel Hossain,65.33333333,51.230000000000004
+747,Sabbir Rahman,Soumya Sarkar,Rubel Hossain,62.11111111,56.28000000000001
+748,Shafiul Islam,Soumya Sarkar,Rubel Hossain,47.5,36.480000000000004
+749,Mohammad Saifuddin,Soumya Sarkar,Rubel Hossain,70.0,48.410000000000004
+750,Abu Jayed,Liton Das,Rubel Hossain,76.0,31.24
+751,Mohammad Saifuddin,Liton Das,Rubel Hossain,60.75,44.42
+752,Shakib Al Hasan,Anamul Haque,Rubel Hossain,68.44444444,53.68
+753,Shakib Al Hasan,Abu Jayed,Rubel Hossain,50.0,37.68
+754,Shakib Al Hasan,Mohammad Saifuddin,Rubel Hossain,60.4,50.86
+755,Mustafizur Rahman,Sabbir Rahman,Rubel Hossain,26.2173913,23.72
+756,Mustafizur Rahman,Shafiul Islam,Rubel Hossain,26.0,3.92
+757,Abul Hasan,Mustafizur Rahman,Rubel Hossain,8.0,6.17
+758,Mustafizur Rahman,Mohammad Saifuddin,Rubel Hossain,30.25,15.85
+759,Mohammad Saifuddin,Anamul Haque,Rubel Hossain,41.0,30.45
+760,Sabbir Rahman,Shafiul Islam,Rubel Hossain,39.0,23.57
+761,Sabbir Rahman,Mohammad Saifuddin,Rubel Hossain,54.5,35.50000000000001
+762,Mehidy Hasan Miraz,Taijul Islam,Tamim Iqbal,87.2,61.63
+763,Mehidy Hasan Miraz,Taijul Islam,Soumya Sarkar,86.5,51.81
+764,Mehidy Hasan Miraz,Taijul Islam,Liton Das,107.66666670000001,47.82
+765,Mehidy Hasan Miraz,Taijul Islam,Anamul Haque,61.0,33.85
+766,Mehidy Hasan Miraz,Taijul Islam,Sabbir Rahman,55.5,38.900000000000006
+767,Mehidy Hasan Miraz,Taijul Islam,Shafiul Islam,34.66666667,19.1
+768,Mahmudullah,Mehidy Hasan Miraz,Liton Das,67.77272727,64.59
+769,Mahmudullah,Mehidy Hasan Miraz,Shakib Al Hasan,82.83333333,71.03
+770,Mahmudullah,Mehidy Hasan Miraz,Sabbir Rahman,55.83333333,55.67
+771,Mahmudullah,Mehidy Hasan Miraz,Najmul Hossain Shanto,63.4,45.62
+772,Mehidy Hasan Miraz,Tamim Iqbal,Liton Das,92.57142857,83.72
+773,Mehidy Hasan Miraz,Tamim Iqbal,Shakib Al Hasan,103.7,90.16
+774,Mehidy Hasan Miraz,Tamim Iqbal,Anamul Haque,86.0,69.75
+775,Mehidy Hasan Miraz,Tamim Iqbal,Mohammad Naim,128.0,53.75
+776,Mehidy Hasan Miraz,Shafiul Islam,Tamim Iqbal,61.25,55.0
+777,Mehidy Hasan Miraz,Afif Hossain,Tamim Iqbal,135.0,60.75
+778,Mehidy Hasan Miraz,Tamim Iqbal,Najmul Hossain Shanto,114.5,64.75
+779,Mehidy Hasan Miraz,Shakib Al Hasan,Soumya Sarkar,95.0625,80.34
+780,Anamul Haque,Mehidy Hasan Miraz,Soumya Sarkar,91.0,59.93
+781,Mehidy Hasan Miraz,Sabbir Rahman,Soumya Sarkar,71.92857143,64.98
+782,Mehidy Hasan Miraz,Shafiul Islam,Soumya Sarkar,50.33333333,45.18
+783,Mehidy Hasan Miraz,Abu Jayed,Soumya Sarkar,54.0,43.93
+784,Mustafizur Rahman,Mehidy Hasan Miraz,Liton Das,54.68421053,41.34
+785,Mehidy Hasan Miraz,Liton Das,Mohammad Naim,176.0,39.94
+786,Mehidy Hasan Miraz,Sabbir Rahman,Liton Das,65.2,60.99
+787,Mehidy Hasan Miraz,Afif Hossain,Liton Das,183.0,46.94
+788,Mehidy Hasan Miraz,Liton Das,Imrul Kayes,88.375,83.19
+789,Mehidy Hasan Miraz,Mohammad Saifuddin,Liton Das,75.09090909,53.12
+790,Mehidy Hasan Miraz,Liton Das,Najmul Hossain Shanto,61.4,50.94
+791,Mustafizur Rahman,Mehidy Hasan Miraz,Shakib Al Hasan,56.81818182,47.78
+792,Mehidy Hasan Miraz,Shakib Al Hasan,Anamul Haque,74.33333333,62.379999999999995
+793,Mehidy Hasan Miraz,Mohammad Saifuddin,Shakib Al Hasan,71.11111111,59.559999999999995
+794,Mustafizur Rahman,Mehidy Hasan Miraz,Sabbir Rahman,33.1875,32.42
+795,Mustafizur Rahman,Mehidy Hasan Miraz,Shafiul Islam,33.5,12.620000000000001
+796,Mustafizur Rahman,Mehidy Hasan Miraz,Imrul Kayes,54.85714286,54.620000000000005
+797,Mustafizur Rahman,Mehidy Hasan Miraz,Najmul Hossain Shanto,33.0,22.37
+798,Mehidy Hasan Miraz,Sabbir Rahman,Shafiul Islam,44.66666667,32.27
+799,Mehidy Hasan Miraz,Sabbir Rahman,Mohammad Saifuddin,57.83333333,44.2
+800,Mehidy Hasan Miraz,Mohammad Saifuddin,Imrul Kayes,142.5,66.4
+801,Mehidy Hasan Miraz,Najmul Hossain Shanto,Imrul Kayes,83.0,64.22
+802,Mehidy Hasan Miraz,Mohammad Saifuddin,Najmul Hossain Shanto,64.0,34.15
+803,Mahmudullah,Taijul Islam,Tamim Iqbal,101.625,76.31
+804,Mahmudullah,Taijul Islam,Soumya Sarkar,88.8,66.49000000000001
+805,Mahmudullah,Taijul Islam,Liton Das,129.0,62.5
+806,Mahmudullah,Shakib Al Hasan,Taijul Islam,108.0,68.94
+807,Mahmudullah,Taijul Islam,Anamul Haque,62.0,48.53
+808,Mahmudullah,Taijul Islam,Sabbir Rahman,71.4,53.58
+809,Mahmudullah,Taijul Islam,Shafiul Islam,34.66666667,33.78
+810,Mahmudullah,Imrul Kayes,Taijul Islam,120.0,75.78
+811,Mahmudullah,Taijul Islam,Najmul Hossain Shanto,54.0,43.53
+812,Taijul Islam,Tamim Iqbal,Liton Das,207.0,81.63
+813,Mustafizur Rahman,Taijul Islam,Tamim Iqbal,58.66666667,53.06
+814,Mohammad Naim,Taijul Islam,Tamim Iqbal,128.0,51.660000000000004
+815,Taijul Islam,Tamim Iqbal,Shafiul Islam,75.66666667,52.910000000000004
+816,Afif Hossain,Taijul Islam,Tamim Iqbal,135.0,58.66
+817,Taijul Islam,Tamim Iqbal,Mohammad Saifuddin,90.0,64.84
+818,Taijul Islam,Tamim Iqbal,Najmul Hossain Shanto,108.5,62.660000000000004
+819,Anamul Haque,Taijul Islam,Soumya Sarkar,122.0,57.84
+820,Taijul Islam,Soumya Sarkar,Shafiul Islam,61.5,43.09
+821,Mustafizur Rahman,Taijul Islam,Liton Das,151.0,39.25
+822,Mohammad Naim,Taijul Islam,Liton Das,176.0,37.85
+823,Afif Hossain,Taijul Islam,Liton Das,183.0,44.849999999999994
+824,Taijul Islam,Liton Das,Mohammad Saifuddin,165.0,51.03
+825,Taijul Islam,Liton Das,Najmul Hossain Shanto,85.0,48.85
+826,Mustafizur Rahman,Taijul Islam,Najmul Hossain Shanto,29.0,20.28
+827,Taijul Islam,Anamul Haque,Sabbir Rahman,60.0,44.93
+828,Taijul Islam,Anamul Haque,Shafiul Islam,54.0,25.13
+829,Taijul Islam,Shafiul Islam,Sabbir Rahman,30.5,30.18
+830,Taijul Islam,Najmul Hossain Shanto,Mohammad Saifuddin,57.0,32.06
+831,Mahmudullah,Shakib Al Hasan,Tamim Iqbal,111.2115385,104.84
+832,Mahmudullah,Tamim Iqbal,Anamul Haque,92.0,84.43
+833,Mahmudullah,Mohammad Naim,Tamim Iqbal,131.0,68.43
+834,Mahmudullah,Sabbir Rahman,Tamim Iqbal,91.19607843,89.48
+835,Mahmudullah,Shafiul Islam,Tamim Iqbal,72.5,69.68
+836,Mahmudullah,Tamim Iqbal,Abul Hasan,78.0,71.93
+837,Mahmudullah,Abu Jayed,Tamim Iqbal,71.5,68.43
+838,Mahmudullah,Afif Hossain,Tamim Iqbal,138.0,75.43
+839,Mahmudullah,Tamim Iqbal,Najmul Hossain Shanto,145.0,79.43
+840,Mahmudullah,Shakib Al Hasan,Soumya Sarkar,101.4444444,95.02
+841,Mahmudullah,Anamul Haque,Soumya Sarkar,84.66666667,74.61
+842,Mahmudullah,Sabbir Rahman,Soumya Sarkar,82.5,79.66
+843,Mahmudullah,Abu Jayed,Soumya Sarkar,84.0,58.61
+844,Mahmudullah,Mohammad Naim,Liton Das,179.0,54.62
+845,Mahmudullah,Abu Jayed,Liton Das,111.0,54.62
+846,Mahmudullah,Afif Hossain,Liton Das,186.0,61.62
+847,Mahmudullah,Imrul Kayes,Liton Das,101.5384615,97.87
+848,Mahmudullah,Mohammad Saifuddin,Liton Das,73.07142857,67.8
+849,Mahmudullah,Liton Das,Najmul Hossain Shanto,88.6,65.62
+850,Mahmudullah,Mustafizur Rahman,Shakib Al Hasan,66.75675676,62.459999999999994
+851,Mahmudullah,Shakib Al Hasan,Anamul Haque,89.11111111,77.06
+852,Mahmudullah,Shakib Al Hasan,Abu Jayed,72.0,61.059999999999995
+853,Mahmudullah,Shakib Al Hasan,Mohammad Saifuddin,89.41666667,74.24
+854,Mahmudullah,Mustafizur Rahman,Abu Jayed,30.0,26.049999999999997
+855,Mahmudullah,Mustafizur Rahman,Najmul Hossain Shanto,58.66666667,37.05
+856,Mahmudullah,Mohammad Saifuddin,Anamul Haque,65.0,53.83
+857,Mahmudullah,Sabbir Rahman,Shafiul Islam,53.42857143,46.95
+858,Mahmudullah,Imrul Kayes,Sabbir Rahman,94.5625,88.95
+859,Mahmudullah,Sabbir Rahman,Mohammad Saifuddin,61.22222222,58.88
+860,Mahmudullah,Imrul Kayes,Shafiul Islam,91.66666667,69.15
+861,Mahmudullah,Shafiul Islam,Najmul Hossain Shanto,52.0,36.9
+862,Mahmudullah,Imrul Kayes,Mohammad Saifuddin,118.0,81.08000000000001
+863,Mahmudullah,Imrul Kayes,Najmul Hossain Shanto,152.0,78.9
+864,Mahmudullah,Mohammad Saifuddin,Najmul Hossain Shanto,89.0,48.83
+865,Shakib Al Hasan,Tamim Iqbal,Soumya Sarkar,118.3589744,114.15
+866,Abul Hasan,Tamim Iqbal,Soumya Sarkar,152.0,81.24000000000001
+867,Mohammad Naim,Tamim Iqbal,Liton Das,304.0,73.75
+868,Shafiul Islam,Tamim Iqbal,Liton Das,172.0,75.0
+869,Abu Jayed,Tamim Iqbal,Liton Das,133.0,73.75
+870,Afif Hossain,Tamim Iqbal,Liton Das,311.0,80.75
+871,Mohammad Saifuddin,Tamim Iqbal,Liton Das,105.2727273,86.93
+872,Tamim Iqbal,Najmul Hossain Shanto,Liton Das,176.0,84.75
+873,Mustafizur Rahman,Shakib Al Hasan,Tamim Iqbal,89.82051282,81.59
+874,Shakib Al Hasan,Tamim Iqbal,Anamul Haque,129.2222222,96.19
+875,Abul Hasan,Shakib Al Hasan,Tamim Iqbal,91.5,83.69
+876,Shakib Al Hasan,Mohammad Saifuddin,Tamim Iqbal,110.16666670000001,93.37
+877,Mustafizur Rahman,Tamim Iqbal,Anamul Haque,91.85714286,61.18
+878,Mustafizur Rahman,Tamim Iqbal,Mohammad Naim,128.0,45.18
+879,Mustafizur Rahman,Afif Hossain,Tamim Iqbal,135.0,52.18
+880,Sabbir Rahman,Tamim Iqbal,Anamul Haque,84.7,80.83
+881,Mohammad Saifuddin,Tamim Iqbal,Anamul Haque,125.0,72.96000000000001
+882,Mohammad Naim,Afif Hossain,Tamim Iqbal,135.0,50.78
+883,Mohammad Naim,Mohammad Saifuddin,Tamim Iqbal,128.0,56.96
+884,Abul Hasan,Sabbir Rahman,Tamim Iqbal,84.5,68.33
+885,Shafiul Islam,Tamim Iqbal,Najmul Hossain Shanto,169.0,56.03
+886,Abu Jayed,Mohammad Saifuddin,Tamim Iqbal,57.0,56.96
+887,Afif Hossain,Tamim Iqbal,Mohammad Saifuddin,135.0,63.96
+888,Mohammad Saifuddin,Tamim Iqbal,Najmul Hossain Shanto,81.0,67.96000000000001
+889,Shakib Al Hasan,Liton Das,Soumya Sarkar,105.33333329999999,100.34
+890,Mustafizur Rahman,Shakib Al Hasan,Soumya Sarkar,81.46428571,71.77
+891,Anamul Haque,Shakib Al Hasan,Soumya Sarkar,110.0,86.37
+892,Shakib Al Hasan,Jubair Hossain,Soumya Sarkar,80.0,75.37
+893,Shakib Al Hasan,Abu Jayed,Soumya Sarkar,83.0,70.37
+894,Shakib Al Hasan,Mohammad Saifuddin,Soumya Sarkar,113.55555559999999,83.55
+895,Mustafizur Rahman,Sabbir Rahman,Soumya Sarkar,60.32,56.41
+896,Mustafizur Rahman,Abu Jayed,Soumya Sarkar,54.0,35.36
+897,Anamul Haque,Sabbir Rahman,Soumya Sarkar,85.66666667,71.00999999999999
+898,Anamul Haque,Shafiul Islam,Soumya Sarkar,84.0,51.21
+899,Sabbir Rahman,Soumya Sarkar,Shafiul Islam,63.5,56.260000000000005
+900,Sabbir Rahman,Soumya Sarkar,Mohammad Saifuddin,94.0,68.19
+901,Imrul Kayes,Mohammad Saifuddin,Soumya Sarkar,232.0,90.39
+902,Subashis Roy,Sabbir Rahman,Imrul Kayes,98.0,65.3
+903,Abu Jayed,Shakib Al Hasan,Liton Das,126.0,66.38
+904,Shakib Al Hasan,Mohammad Saifuddin,Liton Das,105.2857143,79.56
+905,Mustafizur Rahman,Liton Das,Mohammad Naim,176.0,31.369999999999997
+906,Mustafizur Rahman,Afif Hossain,Liton Das,183.0,38.37
+907,Mustafizur Rahman,Liton Das,Imrul Kayes,89.66666667,74.62
+908,Mustafizur Rahman,Mohammad Saifuddin,Liton Das,67.66666667,44.55
+909,Mustafizur Rahman,Liton Das,Najmul Hossain Shanto,73.0,42.37
+910,Mohammad Naim,Afif Hossain,Liton Das,183.0,36.97
+911,Mohammad Naim,Mohammad Saifuddin,Liton Das,176.0,43.15
+912,Abu Jayed,Sabbir Rahman,Liton Das,83.0,51.019999999999996
+913,Sabbir Rahman,Liton Das,Mohammad Saifuddin,84.0,64.19999999999999
+914,Abu Jayed,Mohammad Saifuddin,Liton Das,76.0,43.15
+915,Afif Hossain,Liton Das,Mohammad Saifuddin,183.0,50.15
+916,Imrul Kayes,Mohammad Saifuddin,Liton Das,138.5,86.4
+917,Imrul Kayes,Liton Das,Najmul Hossain Shanto,119.0,84.22
+918,Mohammad Saifuddin,Liton Das,Najmul Hossain Shanto,183.0,54.15
+919,Mustafizur Rahman,Shakib Al Hasan,Anamul Haque,65.71428571,53.809999999999995
+920,Mustafizur Rahman,Shakib Al Hasan,Jubair Hossain,53.0,42.809999999999995
+921,Mustafizur Rahman,Shakib Al Hasan,Mohammad Saifuddin,72.27272727,50.989999999999995
+922,Shakib Al Hasan,Sabbir Rahman,Anamul Haque,81.22222222,73.46
+923,Shakib Al Hasan,Mohammad Saifuddin,Anamul Haque,108.0,65.59
+924,Shakib Al Hasan,Sabbir Rahman,Shafiul Islam,60.0,58.709999999999994
+925,Shakib Al Hasan,Sabbir Rahman,Mohammad Saifuddin,73.66666667,70.63999999999999
+926,Shakib Al Hasan,Shafiul Islam,Imrul Kayes,85.0,80.91
+927,Shakib Al Hasan,Mohammad Saifuddin,Abu Jayed,50.0,49.589999999999996
+928,Mustafizur Rahman,Mohammad Saifuddin,Anamul Haque,41.0,30.58
+929,Mustafizur Rahman,Sabbir Rahman,Shafiul Islam,46.5,23.7
+930,Mustafizur Rahman,Sabbir Rahman,Mohammad Saifuddin,48.125,35.629999999999995
+931,Mustafizur Rahman,Mohammad Saifuddin,Imrul Kayes,142.5,57.83
+932,Mustafizur Rahman,Najmul Hossain Shanto,Imrul Kayes,78.0,55.65
+933,Mustafizur Rahman,Mohammad Saifuddin,Najmul Hossain Shanto,57.0,25.58
+934,Sabbir Rahman,Anamul Haque,Mohammad Saifuddin,65.0,50.23
+935,Imrul Kayes,Sabbir Rahman,Shafiul Islam,79.66666667,65.55

@@ -1,0 +1,704 @@
+player-1,player-2,avg
+Najeeb Tarakai,Mirwais Ashraf,0
+Najeeb Tarakai,Zahir Khan,0
+Najeeb Tarakai,Najibullah Zadran,0
+Najeeb Tarakai,Karim Sadiq,0
+Najeeb Tarakai,Rokhan Barakzai,0
+Najeeb Tarakai,Shabir Noori,0
+Najeeb Tarakai,Afsar Zazai,0
+Najeeb Tarakai,Hamid Hassan,0
+Najeeb Tarakai,Javed Ahmadi,0
+Najeeb Tarakai,Hazratullah Zazai,0
+Najeeb Tarakai,Fareed Ahmad,5
+Najeeb Tarakai,Amir Hamza,0
+Najeeb Tarakai,Samiullah Shinwari,67
+Najeeb Tarakai,Asghar Afghan,44
+Najeeb Tarakai,Ikram Alikhil,0
+Najeeb Tarakai,Karim Janat,0
+Najeeb Tarakai,Usman Ghani,0
+Najeeb Tarakai,Ihsanullah,0
+Najeeb Tarakai,Nasir Jamal,0
+Najeeb Tarakai,Rashid Khan,5
+Najeeb Tarakai,Rahmat Shah,113
+Najeeb Tarakai,Naveen-ul-Haq,0
+Najeeb Tarakai,Ibrahim Zadran,0
+Najeeb Tarakai,Sharafuddin Ashraf,0
+Najeeb Tarakai,Yamin Ahmadzai,0
+Najeeb Tarakai,Dawlat Zadran,5
+Najeeb Tarakai,Gulbadin Naib,5
+Najeeb Tarakai,Mohammad Nabi,5
+Najeeb Tarakai,Shapoor Zadran,0
+Najeeb Tarakai,Aftab Alam,0
+Najeeb Tarakai,Shafiqullah,5
+Najeeb Tarakai,Mohammad Shahzad,18
+Najeeb Tarakai,Noor Ali Zadran,0
+Najeeb Tarakai,Hashmatullah Shahidi,0
+Najeeb Tarakai,Mujeeb Ur Rahman,0
+Najeeb Tarakai,Sayed Shirzad,0
+Najeeb Tarakai,Nawroz Mangal,0
+Mirwais Ashraf,Zahir Khan,0
+Mirwais Ashraf,Najibullah Zadran,36.92857143
+Mirwais Ashraf,Karim Sadiq,23
+Mirwais Ashraf,Rokhan Barakzai,26
+Shabir Noori,Mirwais Ashraf,12
+Afsar Zazai,Mirwais Ashraf,23.5
+Hamid Hassan,Mirwais Ashraf,14
+Javed Ahmadi,Mirwais Ashraf,32.85714286
+Hazratullah Zazai,Mirwais Ashraf,0
+Fareed Ahmad,Mirwais Ashraf,0
+Amir Hamza,Mirwais Ashraf,12.5
+Samiullah Shinwari,Mirwais Ashraf,27.66666667
+Mirwais Ashraf,Asghar Afghan,28.38888889
+Ikram Alikhil,Mirwais Ashraf,0
+Karim Janat,Mirwais Ashraf,0
+Usman Ghani,Mirwais Ashraf,12
+Ihsanullah,Mirwais Ashraf,0
+Nasir Jamal,Mirwais Ashraf,20
+Mirwais Ashraf,Rashid Khan,26.58333333
+Rahmat Shah,Mirwais Ashraf,38
+Naveen-ul-Haq,Mirwais Ashraf,6
+Ibrahim Zadran,Mirwais Ashraf,0
+Sharafuddin Ashraf,Mirwais Ashraf,0
+Mirwais Ashraf,Yamin Ahmadzai,6.666666667
+Dawlat Zadran,Mirwais Ashraf,16.8125
+Mirwais Ashraf,Gulbadin Naib,42
+Mohammad Nabi,Mirwais Ashraf,33.61111111
+Mirwais Ashraf,Shapoor Zadran,13.75
+Aftab Alam,Mirwais Ashraf,10.75
+Mirwais Ashraf,Shafiqullah,13
+Mirwais Ashraf,Mohammad Shahzad,50.35714286
+Mirwais Ashraf,Noor Ali Zadran,37.25
+Mirwais Ashraf,Hashmatullah Shahidi,31.16666667
+Mirwais Ashraf,Mujeeb Ur Rahman,0
+Mirwais Ashraf,Sayed Shirzad,0
+Mirwais Ashraf,Nawroz Mangal,22.5
+Zahir Khan,Najibullah Zadran,7
+Karim Sadiq,Zahir Khan,0
+Zahir Khan,Rokhan Barakzai,0
+Shabir Noori,Zahir Khan,0
+Afsar Zazai,Zahir Khan,0
+Hamid Hassan,Zahir Khan,0
+Javed Ahmadi,Zahir Khan,24
+Hazratullah Zazai,Zahir Khan,0
+Fareed Ahmad,Zahir Khan,0
+Amir Hamza,Zahir Khan,0
+Samiullah Shinwari,Zahir Khan,0
+Zahir Khan,Asghar Afghan,82
+Ikram Alikhil,Zahir Khan,0
+Karim Janat,Zahir Khan,0
+Usman Ghani,Zahir Khan,0
+Ihsanullah,Zahir Khan,0
+Nasir Jamal,Zahir Khan,0
+Zahir Khan,Rashid Khan,35
+Rahmat Shah,Zahir Khan,17
+Naveen-ul-Haq,Zahir Khan,0
+Ibrahim Zadran,Zahir Khan,0
+Sharafuddin Ashraf,Zahir Khan,0
+Yamin Ahmadzai,Zahir Khan,0
+Dawlat Zadran,Zahir Khan,0
+Zahir Khan,Gulbadin Naib,0
+Mohammad Nabi,Zahir Khan,40
+Shapoor Zadran,Zahir Khan,0
+Aftab Alam,Zahir Khan,0
+Shafiqullah,Zahir Khan,0
+Mohammad Shahzad,Zahir Khan,6
+Zahir Khan,Noor Ali Zadran,0
+Hashmatullah Shahidi,Zahir Khan,0
+Mujeeb Ur Rahman,Zahir Khan,0
+Zahir Khan,Sayed Shirzad,0
+Nawroz Mangal,Zahir Khan,0
+Karim Sadiq,Najibullah Zadran,0
+Najibullah Zadran,Rokhan Barakzai,9
+Shabir Noori,Najibullah Zadran,16
+Afsar Zazai,Najibullah Zadran,43.14285714
+Hamid Hassan,Najibullah Zadran,36.33333333
+Javed Ahmadi,Najibullah Zadran,48.92857143
+Hazratullah Zazai,Najibullah Zadran,54.81818182
+Fareed Ahmad,Najibullah Zadran,0
+Amir Hamza,Najibullah Zadran,13.66666667
+Samiullah Shinwari,Najibullah Zadran,43.92
+Najibullah Zadran,Asghar Afghan,49.22222222
+Ikram Alikhil,Najibullah Zadran,45.2
+Karim Janat,Najibullah Zadran,0
+Usman Ghani,Najibullah Zadran,56.75
+Ihsanullah,Najibullah Zadran,43.125
+Nasir Jamal,Najibullah Zadran,38.28571429
+Najibullah Zadran,Rashid Khan,34.04878049
+Rahmat Shah,Najibullah Zadran,59.38461538
+Naveen-ul-Haq,Najibullah Zadran,23.5
+Ibrahim Zadran,Najibullah Zadran,32
+Sharafuddin Ashraf,Najibullah Zadran,20.85714286
+Yamin Ahmadzai,Najibullah Zadran,26.5
+Dawlat Zadran,Najibullah Zadran,32.02702703
+Gulbadin Naib,Najibullah Zadran,36.59259259
+Mohammad Nabi,Najibullah Zadran,45.94
+Shapoor Zadran,Najibullah Zadran,25.33333333
+Aftab Alam,Najibullah Zadran,29.15384615
+Shafiqullah,Najibullah Zadran,26.5
+Mohammad Shahzad,Najibullah Zadran,53.97058824
+Noor Ali Zadran,Najibullah Zadran,41.28571429
+Hashmatullah Shahidi,Najibullah Zadran,56.84210526
+Mujeeb Ur Rahman,Najibullah Zadran,27.96296296
+Sayed Shirzad,Najibullah Zadran,56
+Nawroz Mangal,Najibullah Zadran,34.72727273
+Karim Sadiq,Rokhan Barakzai,0
+Shabir Noori,Karim Sadiq,0
+Afsar Zazai,Karim Sadiq,0
+Hamid Hassan,Karim Sadiq,0
+Javed Ahmadi,Karim Sadiq,0
+Hazratullah Zazai,Karim Sadiq,0
+Fareed Ahmad,Karim Sadiq,0
+Amir Hamza,Karim Sadiq,8
+Samiullah Shinwari,Karim Sadiq,0
+Karim Sadiq,Asghar Afghan,7
+Ikram Alikhil,Karim Sadiq,0
+Karim Janat,Karim Sadiq,0
+Usman Ghani,Karim Sadiq,0
+Ihsanullah,Karim Sadiq,0
+Nasir Jamal,Karim Sadiq,0
+Karim Sadiq,Rashid Khan,15
+Rahmat Shah,Karim Sadiq,0
+Naveen-ul-Haq,Karim Sadiq,0
+Ibrahim Zadran,Karim Sadiq,0
+Sharafuddin Ashraf,Karim Sadiq,0
+Karim Sadiq,Yamin Ahmadzai,0
+Dawlat Zadran,Karim Sadiq,21
+Karim Sadiq,Gulbadin Naib,0
+Mohammad Nabi,Karim Sadiq,16
+Karim Sadiq,Shapoor Zadran,0
+Aftab Alam,Karim Sadiq,0
+Karim Sadiq,Shafiqullah,7
+Karim Sadiq,Mohammad Shahzad,50
+Karim Sadiq,Noor Ali Zadran,9
+Karim Sadiq,Hashmatullah Shahidi,36
+Karim Sadiq,Mujeeb Ur Rahman,0
+Karim Sadiq,Sayed Shirzad,0
+Karim Sadiq,Nawroz Mangal,0
+Shabir Noori,Rokhan Barakzai,0
+Afsar Zazai,Rokhan Barakzai,0
+Hamid Hassan,Rokhan Barakzai,0
+Javed Ahmadi,Rokhan Barakzai,0
+Hazratullah Zazai,Rokhan Barakzai,0
+Fareed Ahmad,Rokhan Barakzai,0
+Amir Hamza,Rokhan Barakzai,0
+Samiullah Shinwari,Rokhan Barakzai,4
+Rokhan Barakzai,Asghar Afghan,1
+Ikram Alikhil,Rokhan Barakzai,0
+Karim Janat,Rokhan Barakzai,0
+Usman Ghani,Rokhan Barakzai,0
+Ihsanullah,Rokhan Barakzai,0
+Nasir Jamal,Rokhan Barakzai,0
+Rashid Khan,Rokhan Barakzai,0
+Rahmat Shah,Rokhan Barakzai,0
+Naveen-ul-Haq,Rokhan Barakzai,0
+Ibrahim Zadran,Rokhan Barakzai,0
+Sharafuddin Ashraf,Rokhan Barakzai,0
+Yamin Ahmadzai,Rokhan Barakzai,0
+Dawlat Zadran,Rokhan Barakzai,0
+Gulbadin Naib,Rokhan Barakzai,0
+Mohammad Nabi,Rokhan Barakzai,33
+Shapoor Zadran,Rokhan Barakzai,0
+Aftab Alam,Rokhan Barakzai,0
+Shafiqullah,Rokhan Barakzai,0
+Mohammad Shahzad,Rokhan Barakzai,131
+Noor Ali Zadran,Rokhan Barakzai,31
+Hashmatullah Shahidi,Rokhan Barakzai,0
+Mujeeb Ur Rahman,Rokhan Barakzai,0
+Sayed Shirzad,Rokhan Barakzai,0
+Nawroz Mangal,Rokhan Barakzai,8
+Shabir Noori,Afsar Zazai,0
+Shabir Noori,Hamid Hassan,0
+Shabir Noori,Javed Ahmadi,0
+Shabir Noori,Hazratullah Zazai,0
+Shabir Noori,Fareed Ahmad,0
+Shabir Noori,Amir Hamza,0
+Shabir Noori,Samiullah Shinwari,0
+Shabir Noori,Asghar Afghan,19
+Shabir Noori,Ikram Alikhil,0
+Shabir Noori,Karim Janat,0
+Shabir Noori,Usman Ghani,0
+Shabir Noori,Ihsanullah,0
+Shabir Noori,Nasir Jamal,0
+Shabir Noori,Rashid Khan,16
+Shabir Noori,Rahmat Shah,80
+Shabir Noori,Naveen-ul-Haq,9
+Shabir Noori,Ibrahim Zadran,0
+Shabir Noori,Sharafuddin Ashraf,0
+Shabir Noori,Yamin Ahmadzai,0
+Shabir Noori,Dawlat Zadran,11
+Shabir Noori,Gulbadin Naib,0
+Shabir Noori,Mohammad Nabi,39
+Shabir Noori,Shapoor Zadran,0
+Shabir Noori,Aftab Alam,0
+Shabir Noori,Shafiqullah,0
+Shabir Noori,Mohammad Shahzad,40
+Shabir Noori,Noor Ali Zadran,0
+Shabir Noori,Hashmatullah Shahidi,81
+Shabir Noori,Mujeeb Ur Rahman,0
+Shabir Noori,Sayed Shirzad,0
+Shabir Noori,Nawroz Mangal,0
+Afsar Zazai,Hamid Hassan,11.14285714
+Afsar Zazai,Javed Ahmadi,34.11111111
+Afsar Zazai,Hazratullah Zazai,0
+Afsar Zazai,Fareed Ahmad,0
+Afsar Zazai,Amir Hamza,11
+Afsar Zazai,Samiullah Shinwari,38.5
+Afsar Zazai,Asghar Afghan,25.5
+Afsar Zazai,Ikram Alikhil,0
+Afsar Zazai,Karim Janat,0
+Afsar Zazai,Usman Ghani,12
+Afsar Zazai,Ihsanullah,0
+Afsar Zazai,Nasir Jamal,16
+Afsar Zazai,Rashid Khan,14.5
+Afsar Zazai,Rahmat Shah,20
+Afsar Zazai,Naveen-ul-Haq,0
+Afsar Zazai,Ibrahim Zadran,0
+Afsar Zazai,Sharafuddin Ashraf,0
+Afsar Zazai,Yamin Ahmadzai,0
+Afsar Zazai,Dawlat Zadran,12.875
+Afsar Zazai,Gulbadin Naib,57
+Afsar Zazai,Mohammad Nabi,24.11111111
+Afsar Zazai,Shapoor Zadran,8.2
+Afsar Zazai,Aftab Alam,12
+Afsar Zazai,Shafiqullah,36
+Afsar Zazai,Mohammad Shahzad,0
+Afsar Zazai,Noor Ali Zadran,17.5
+Afsar Zazai,Hashmatullah Shahidi,0
+Afsar Zazai,Mujeeb Ur Rahman,0
+Afsar Zazai,Sayed Shirzad,0
+Afsar Zazai,Nawroz Mangal,27.4
+Hamid Hassan,Javed Ahmadi,21.5
+Hamid Hassan,Hazratullah Zazai,25
+Hamid Hassan,Fareed Ahmad,0
+Hamid Hassan,Amir Hamza,0
+Hamid Hassan,Samiullah Shinwari,32.25
+Hamid Hassan,Asghar Afghan,25
+Ikram Alikhil,Hamid Hassan,14.33333333
+Karim Janat,Hamid Hassan,0
+Usman Ghani,Hamid Hassan,10.5
+Hamid Hassan,Ihsanullah,0
+Nasir Jamal,Hamid Hassan,12.5
+Hamid Hassan,Rashid Khan,19.5
+Hamid Hassan,Rahmat Shah,20.5
+Hamid Hassan,Naveen-ul-Haq,0
+Ibrahim Zadran,Hamid Hassan,0
+Hamid Hassan,Sharafuddin Ashraf,0
+Hamid Hassan,Yamin Ahmadzai,0
+Hamid Hassan,Dawlat Zadran,7.666666667
+Hamid Hassan,Gulbadin Naib,18.6
+Hamid Hassan,Mohammad Nabi,17.53846154
+Hamid Hassan,Shapoor Zadran,5.6
+Hamid Hassan,Aftab Alam,7.4
+Hamid Hassan,Shafiqullah,30
+Hamid Hassan,Mohammad Shahzad,33.66666667
+Hamid Hassan,Noor Ali Zadran,35
+Hamid Hassan,Hashmatullah Shahidi,20.8
+Hamid Hassan,Mujeeb Ur Rahman,9.666666667
+Hamid Hassan,Sayed Shirzad,0
+Hamid Hassan,Nawroz Mangal,24.8
+Hazratullah Zazai,Javed Ahmadi,35
+Javed Ahmadi,Fareed Ahmad,0
+Amir Hamza,Javed Ahmadi,45
+Javed Ahmadi,Samiullah Shinwari,43.92307692
+Javed Ahmadi,Asghar Afghan,45.55555556
+Ikram Alikhil,Javed Ahmadi,57.5
+Karim Janat,Javed Ahmadi,0
+Usman Ghani,Javed Ahmadi,31.75
+Ihsanullah,Javed Ahmadi,44
+Nasir Jamal,Javed Ahmadi,62.83333333
+Javed Ahmadi,Rashid Khan,49.15384615
+Javed Ahmadi,Rahmat Shah,58.30769231
+Javed Ahmadi,Naveen-ul-Haq,23.5
+Ibrahim Zadran,Javed Ahmadi,0
+Javed Ahmadi,Sharafuddin Ashraf,50.33333333
+Javed Ahmadi,Yamin Ahmadzai,6
+Javed Ahmadi,Dawlat Zadran,29
+Javed Ahmadi,Gulbadin Naib,42.5
+Javed Ahmadi,Mohammad Nabi,42.1
+Javed Ahmadi,Shapoor Zadran,23.22222222
+Javed Ahmadi,Aftab Alam,37
+Javed Ahmadi,Shafiqullah,39.5
+Javed Ahmadi,Mohammad Shahzad,51
+Javed Ahmadi,Noor Ali Zadran,46.33333333
+Javed Ahmadi,Hashmatullah Shahidi,0
+Javed Ahmadi,Mujeeb Ur Rahman,28.625
+Javed Ahmadi,Sayed Shirzad,0
+Javed Ahmadi,Nawroz Mangal,29.4
+Hazratullah Zazai,Fareed Ahmad,0
+Amir Hamza,Hazratullah Zazai,0
+Hazratullah Zazai,Samiullah Shinwari,38
+Hazratullah Zazai,Asghar Afghan,52.45454545
+Ikram Alikhil,Hazratullah Zazai,38.14285714
+Karim Janat,Hazratullah Zazai,0
+Usman Ghani,Hazratullah Zazai,0
+Ihsanullah,Hazratullah Zazai,23
+Nasir Jamal,Hazratullah Zazai,0
+Hazratullah Zazai,Rashid Khan,31.92857143
+Hazratullah Zazai,Rahmat Shah,38.64285714
+Hazratullah Zazai,Naveen-ul-Haq,20.5
+Ibrahim Zadran,Hazratullah Zazai,52
+Hazratullah Zazai,Sharafuddin Ashraf,43
+Hazratullah Zazai,Yamin Ahmadzai,50
+Hazratullah Zazai,Dawlat Zadran,23
+Hazratullah Zazai,Gulbadin Naib,38
+Hazratullah Zazai,Mohammad Nabi,39.28571429
+Hazratullah Zazai,Shapoor Zadran,0
+Hazratullah Zazai,Aftab Alam,22.14285714
+Hazratullah Zazai,Shafiqullah,25
+Hazratullah Zazai,Mohammad Shahzad,26.83333333
+Hazratullah Zazai,Noor Ali Zadran,47.33333333
+Hazratullah Zazai,Hashmatullah Shahidi,38.2
+Hazratullah Zazai,Mujeeb Ur Rahman,21.25
+Hazratullah Zazai,Sayed Shirzad,0
+Hazratullah Zazai,Nawroz Mangal,0
+Amir Hamza,Fareed Ahmad,2
+Fareed Ahmad,Samiullah Shinwari,35
+Fareed Ahmad,Asghar Afghan,30
+Ikram Alikhil,Fareed Ahmad,0
+Karim Janat,Fareed Ahmad,10
+Usman Ghani,Fareed Ahmad,0
+Ihsanullah,Fareed Ahmad,1
+Nasir Jamal,Fareed Ahmad,0
+Fareed Ahmad,Rashid Khan,4.666666667
+Fareed Ahmad,Rahmat Shah,40
+Fareed Ahmad,Naveen-ul-Haq,0
+Ibrahim Zadran,Fareed Ahmad,0
+Fareed Ahmad,Sharafuddin Ashraf,0
+Fareed Ahmad,Yamin Ahmadzai,0
+Fareed Ahmad,Dawlat Zadran,0
+Fareed Ahmad,Gulbadin Naib,9
+Fareed Ahmad,Mohammad Nabi,9.666666667
+Fareed Ahmad,Shapoor Zadran,0
+Fareed Ahmad,Aftab Alam,0
+Fareed Ahmad,Shafiqullah,0
+Fareed Ahmad,Mohammad Shahzad,14.33333333
+Fareed Ahmad,Noor Ali Zadran,0
+Fareed Ahmad,Hashmatullah Shahidi,13
+Fareed Ahmad,Mujeeb Ur Rahman,0
+Fareed Ahmad,Sayed Shirzad,0
+Fareed Ahmad,Nawroz Mangal,0
+Amir Hamza,Samiullah Shinwari,14.64285714
+Amir Hamza,Asghar Afghan,21.42105263
+Ikram Alikhil,Amir Hamza,0
+Karim Janat,Amir Hamza,0
+Usman Ghani,Amir Hamza,10
+Amir Hamza,Ihsanullah,0
+Nasir Jamal,Amir Hamza,0
+Amir Hamza,Rashid Khan,13
+Amir Hamza,Rahmat Shah,32.5
+Amir Hamza,Naveen-ul-Haq,0
+Ibrahim Zadran,Amir Hamza,0
+Amir Hamza,Sharafuddin Ashraf,0
+Amir Hamza,Yamin Ahmadzai,2
+Amir Hamza,Dawlat Zadran,10.44444444
+Amir Hamza,Gulbadin Naib,24.63636364
+Amir Hamza,Mohammad Nabi,29.31578947
+Amir Hamza,Shapoor Zadran,4
+Amir Hamza,Aftab Alam,1.666666667
+Amir Hamza,Shafiqullah,25.85714286
+Amir Hamza,Mohammad Shahzad,34.23529412
+Amir Hamza,Noor Ali Zadran,28.22222222
+Amir Hamza,Hashmatullah Shahidi,22.14285714
+Amir Hamza,Mujeeb Ur Rahman,0
+Amir Hamza,Sayed Shirzad,0
+Amir Hamza,Nawroz Mangal,4.666666667
+Samiullah Shinwari,Asghar Afghan,43.66666667
+Ikram Alikhil,Samiullah Shinwari,65
+Karim Janat,Samiullah Shinwari,22
+Usman Ghani,Samiullah Shinwari,46.33333333
+Ihsanullah,Samiullah Shinwari,23.33333333
+Nasir Jamal,Samiullah Shinwari,18
+Samiullah Shinwari,Rashid Khan,32.48275862
+Rahmat Shah,Samiullah Shinwari,52.16666667
+Naveen-ul-Haq,Samiullah Shinwari,0
+Ibrahim Zadran,Samiullah Shinwari,0
+Sharafuddin Ashraf,Samiullah Shinwari,26.75
+Samiullah Shinwari,Yamin Ahmadzai,7
+Dawlat Zadran,Samiullah Shinwari,24.44827586
+Samiullah Shinwari,Gulbadin Naib,44.64705882
+Mohammad Nabi,Samiullah Shinwari,41.28947368
+Samiullah Shinwari,Shapoor Zadran,22.1
+Aftab Alam,Samiullah Shinwari,26.375
+Samiullah Shinwari,Shafiqullah,36.25
+Samiullah Shinwari,Mohammad Shahzad,50.74074074
+Samiullah Shinwari,Noor Ali Zadran,41.1875
+Samiullah Shinwari,Hashmatullah Shahidi,41
+Samiullah Shinwari,Mujeeb Ur Rahman,19.36363636
+Samiullah Shinwari,Sayed Shirzad,31
+Samiullah Shinwari,Nawroz Mangal,33.25
+Ikram Alikhil,Asghar Afghan,55.9
+Karim Janat,Asghar Afghan,28
+Usman Ghani,Asghar Afghan,24.4
+Ihsanullah,Asghar Afghan,35.61538462
+Nasir Jamal,Asghar Afghan,25.11111111
+Rashid Khan,Asghar Afghan,37.89655172
+Rahmat Shah,Asghar Afghan,58.19607843
+Naveen-ul-Haq,Asghar Afghan,28.5
+Ibrahim Zadran,Asghar Afghan,88
+Sharafuddin Ashraf,Asghar Afghan,27.33333333
+Yamin Ahmadzai,Asghar Afghan,32.5
+Dawlat Zadran,Asghar Afghan,26.84782609
+Gulbadin Naib,Asghar Afghan,40.75
+Mohammad Nabi,Asghar Afghan,43.31818182
+Shapoor Zadran,Asghar Afghan,20.1
+Aftab Alam,Asghar Afghan,24.68421053
+Shafiqullah,Asghar Afghan,41.07692308
+Mohammad Shahzad,Asghar Afghan,55.24444444
+Noor Ali Zadran,Asghar Afghan,43.44
+Hashmatullah Shahidi,Asghar Afghan,52.2962963
+Mujeeb Ur Rahman,Asghar Afghan,26.87096774
+Sayed Shirzad,Asghar Afghan,65
+Nawroz Mangal,Asghar Afghan,29.84615385
+Ikram Alikhil,Karim Janat,0
+Ikram Alikhil,Usman Ghani,0
+Ikram Alikhil,Ihsanullah,0
+Ikram Alikhil,Nasir Jamal,0
+Ikram Alikhil,Rashid Khan,32.63636364
+Ikram Alikhil,Rahmat Shah,47.63636364
+Ikram Alikhil,Naveen-ul-Haq,43
+Ikram Alikhil,Ibrahim Zadran,11
+Ikram Alikhil,Sharafuddin Ashraf,20.5
+Ikram Alikhil,Yamin Ahmadzai,9
+Ikram Alikhil,Dawlat Zadran,33.66666667
+Ikram Alikhil,Gulbadin Naib,39.88888889
+Ikram Alikhil,Mohammad Nabi,42.27272727
+Ikram Alikhil,Shapoor Zadran,0
+Ikram Alikhil,Aftab Alam,8.25
+Ikram Alikhil,Shafiqullah,0
+Ikram Alikhil,Mohammad Shahzad,0
+Ikram Alikhil,Noor Ali Zadran,21.75
+Ikram Alikhil,Hashmatullah Shahidi,38.5
+Ikram Alikhil,Mujeeb Ur Rahman,25.88888889
+Ikram Alikhil,Sayed Shirzad,111
+Ikram Alikhil,Nawroz Mangal,0
+Karim Janat,Usman Ghani,0
+Karim Janat,Ihsanullah,9
+Karim Janat,Nasir Jamal,0
+Karim Janat,Rashid Khan,20
+Karim Janat,Rahmat Shah,10
+Karim Janat,Naveen-ul-Haq,0
+Karim Janat,Ibrahim Zadran,0
+Karim Janat,Sharafuddin Ashraf,0
+Karim Janat,Yamin Ahmadzai,0
+Karim Janat,Dawlat Zadran,0
+Karim Janat,Gulbadin Naib,19
+Karim Janat,Mohammad Nabi,26
+Karim Janat,Shapoor Zadran,0
+Karim Janat,Aftab Alam,0
+Karim Janat,Shafiqullah,0
+Karim Janat,Mohammad Shahzad,18
+Karim Janat,Noor Ali Zadran,0
+Karim Janat,Hashmatullah Shahidi,21
+Karim Janat,Mujeeb Ur Rahman,0
+Karim Janat,Sayed Shirzad,0
+Karim Janat,Nawroz Mangal,0
+Usman Ghani,Ihsanullah,0
+Usman Ghani,Nasir Jamal,9
+Usman Ghani,Rashid Khan,3
+Usman Ghani,Rahmat Shah,3
+Usman Ghani,Naveen-ul-Haq,0
+Usman Ghani,Ibrahim Zadran,0
+Usman Ghani,Sharafuddin Ashraf,0
+Usman Ghani,Yamin Ahmadzai,0
+Usman Ghani,Dawlat Zadran,15.4
+Usman Ghani,Gulbadin Naib,5
+Usman Ghani,Mohammad Nabi,16.4
+Usman Ghani,Shapoor Zadran,7
+Usman Ghani,Aftab Alam,4.5
+Usman Ghani,Shafiqullah,45
+Usman Ghani,Mohammad Shahzad,4
+Usman Ghani,Noor Ali Zadran,0
+Usman Ghani,Hashmatullah Shahidi,26
+Usman Ghani,Mujeeb Ur Rahman,0
+Usman Ghani,Sayed Shirzad,0
+Usman Ghani,Nawroz Mangal,36
+Nasir Jamal,Ihsanullah,45.42857143
+Ihsanullah,Rashid Khan,32.28571429
+Ihsanullah,Rahmat Shah,59.5
+Ihsanullah,Naveen-ul-Haq,0
+Ibrahim Zadran,Ihsanullah,0
+Ihsanullah,Sharafuddin Ashraf,26
+Ihsanullah,Yamin Ahmadzai,0
+Ihsanullah,Dawlat Zadran,31.42857143
+Ihsanullah,Gulbadin Naib,32.08333333
+Ihsanullah,Mohammad Nabi,36
+Ihsanullah,Shapoor Zadran,8
+Ihsanullah,Aftab Alam,25.83333333
+Ihsanullah,Shafiqullah,28.66666667
+Ihsanullah,Mohammad Shahzad,50.81818182
+Ihsanullah,Noor Ali Zadran,0
+Ihsanullah,Hashmatullah Shahidi,71.42857143
+Ihsanullah,Mujeeb Ur Rahman,23.76923077
+Ihsanullah,Sayed Shirzad,0
+Ihsanullah,Nawroz Mangal,0
+Nasir Jamal,Rashid Khan,39.77777778
+Nasir Jamal,Rahmat Shah,73.33333333
+Nasir Jamal,Naveen-ul-Haq,0
+Nasir Jamal,Ibrahim Zadran,0
+Nasir Jamal,Sharafuddin Ashraf,12
+Nasir Jamal,Yamin Ahmadzai,0
+Nasir Jamal,Dawlat Zadran,30.44444444
+Nasir Jamal,Gulbadin Naib,35.5
+Nasir Jamal,Mohammad Nabi,34.09090909
+Nasir Jamal,Shapoor Zadran,14.25
+Nasir Jamal,Aftab Alam,8
+Nasir Jamal,Shafiqullah,44.75
+Nasir Jamal,Mohammad Shahzad,42.66666667
+Nasir Jamal,Noor Ali Zadran,27
+Nasir Jamal,Hashmatullah Shahidi,0
+Nasir Jamal,Mujeeb Ur Rahman,24
+Nasir Jamal,Sayed Shirzad,0
+Nasir Jamal,Nawroz Mangal,21
+Rahmat Shah,Rashid Khan,47.94642857
+Naveen-ul-Haq,Rashid Khan,5.75
+Ibrahim Zadran,Rashid Khan,2
+Sharafuddin Ashraf,Rashid Khan,13.125
+Yamin Ahmadzai,Rashid Khan,34.33333333
+Dawlat Zadran,Rashid Khan,19.14285714
+Gulbadin Naib,Rashid Khan,31.36363636
+Mohammad Nabi,Rashid Khan,35.53225806
+Shapoor Zadran,Rashid Khan,27.33333333
+Aftab Alam,Rashid Khan,18
+Shafiqullah,Rashid Khan,33.30769231
+Mohammad Shahzad,Rashid Khan,43.13043478
+Noor Ali Zadran,Rashid Khan,39.7826087
+Hashmatullah Shahidi,Rashid Khan,39.86666667
+Mujeeb Ur Rahman,Rashid Khan,14.71428571
+Sayed Shirzad,Rashid Khan,34
+Nawroz Mangal,Rashid Khan,23
+Rahmat Shah,Naveen-ul-Haq,35.25
+Ibrahim Zadran,Rahmat Shah,12
+Rahmat Shah,Sharafuddin Ashraf,38.75
+Rahmat Shah,Yamin Ahmadzai,30.33333333
+Rahmat Shah,Dawlat Zadran,44.63888889
+Rahmat Shah,Gulbadin Naib,52.55813953
+Rahmat Shah,Mohammad Nabi,52.90909091
+Rahmat Shah,Shapoor Zadran,42.4
+Rahmat Shah,Aftab Alam,29.92307692
+Rahmat Shah,Shafiqullah,64.125
+Rahmat Shah,Mohammad Shahzad,65.05128205
+Rahmat Shah,Noor Ali Zadran,51.375
+Rahmat Shah,Hashmatullah Shahidi,58.11111111
+Rahmat Shah,Mujeeb Ur Rahman,37.68571429
+Rahmat Shah,Sayed Shirzad,87
+Rahmat Shah,Nawroz Mangal,39.5
+Ibrahim Zadran,Naveen-ul-Haq,0
+Sharafuddin Ashraf,Naveen-ul-Haq,21
+Naveen-ul-Haq,Yamin Ahmadzai,0
+Dawlat Zadran,Naveen-ul-Haq,3
+Naveen-ul-Haq,Gulbadin Naib,18
+Mohammad Nabi,Naveen-ul-Haq,30.25
+Naveen-ul-Haq,Shapoor Zadran,0
+Aftab Alam,Naveen-ul-Haq,0
+Naveen-ul-Haq,Shafiqullah,0
+Naveen-ul-Haq,Mohammad Shahzad,33
+Naveen-ul-Haq,Noor Ali Zadran,0
+Naveen-ul-Haq,Hashmatullah Shahidi,43
+Naveen-ul-Haq,Mujeeb Ur Rahman,4.5
+Naveen-ul-Haq,Sayed Shirzad,0
+Naveen-ul-Haq,Nawroz Mangal,10
+Ibrahim Zadran,Sharafuddin Ashraf,2
+Ibrahim Zadran,Yamin Ahmadzai,2
+Ibrahim Zadran,Dawlat Zadran,0
+Ibrahim Zadran,Gulbadin Naib,0
+Ibrahim Zadran,Mohammad Nabi,52
+Ibrahim Zadran,Shapoor Zadran,0
+Ibrahim Zadran,Aftab Alam,0
+Ibrahim Zadran,Shafiqullah,0
+Ibrahim Zadran,Mohammad Shahzad,0
+Ibrahim Zadran,Noor Ali Zadran,0
+Ibrahim Zadran,Hashmatullah Shahidi,0
+Ibrahim Zadran,Mujeeb Ur Rahman,2
+Ibrahim Zadran,Sayed Shirzad,0
+Ibrahim Zadran,Nawroz Mangal,0
+Sharafuddin Ashraf,Yamin Ahmadzai,0
+Dawlat Zadran,Sharafuddin Ashraf,3.4
+Sharafuddin Ashraf,Gulbadin Naib,25.33333333
+Mohammad Nabi,Sharafuddin Ashraf,31.625
+Sharafuddin Ashraf,Shapoor Zadran,14
+Aftab Alam,Sharafuddin Ashraf,0
+Sharafuddin Ashraf,Shafiqullah,0
+Sharafuddin Ashraf,Mohammad Shahzad,45.83333333
+Sharafuddin Ashraf,Noor Ali Zadran,0
+Sharafuddin Ashraf,Hashmatullah Shahidi,0
+Sharafuddin Ashraf,Mujeeb Ur Rahman,5.625
+Sharafuddin Ashraf,Sayed Shirzad,0
+Sharafuddin Ashraf,Nawroz Mangal,0
+Dawlat Zadran,Yamin Ahmadzai,11.66666667
+Yamin Ahmadzai,Gulbadin Naib,5
+Mohammad Nabi,Yamin Ahmadzai,36.25
+Yamin Ahmadzai,Shapoor Zadran,0
+Aftab Alam,Yamin Ahmadzai,0
+Yamin Ahmadzai,Shafiqullah,0
+Yamin Ahmadzai,Mohammad Shahzad,12.33333333
+Yamin Ahmadzai,Noor Ali Zadran,36.5
+Yamin Ahmadzai,Hashmatullah Shahidi,0
+Yamin Ahmadzai,Mujeeb Ur Rahman,0
+Yamin Ahmadzai,Sayed Shirzad,0
+Yamin Ahmadzai,Nawroz Mangal,4
+Dawlat Zadran,Gulbadin Naib,26.32142857
+Dawlat Zadran,Mohammad Nabi,27.26
+Dawlat Zadran,Shapoor Zadran,8.428571429
+Dawlat Zadran,Aftab Alam,9.857142857
+Dawlat Zadran,Shafiqullah,33.36363636
+Dawlat Zadran,Mohammad Shahzad,40.5
+Dawlat Zadran,Noor Ali Zadran,32.05
+Dawlat Zadran,Hashmatullah Shahidi,28
+Dawlat Zadran,Mujeeb Ur Rahman,6.421052632
+Dawlat Zadran,Sayed Shirzad,26
+Dawlat Zadran,Nawroz Mangal,16.5
+Mohammad Nabi,Gulbadin Naib,35.41860465
+Shapoor Zadran,Gulbadin Naib,15
+Aftab Alam,Gulbadin Naib,18.46153846
+Shafiqullah,Gulbadin Naib,40.75
+Mohammad Shahzad,Gulbadin Naib,42.17241379
+Noor Ali Zadran,Gulbadin Naib,39.375
+Hashmatullah Shahidi,Gulbadin Naib,51.33333333
+Mujeeb Ur Rahman,Gulbadin Naib,20.25
+Sayed Shirzad,Gulbadin Naib,30
+Nawroz Mangal,Gulbadin Naib,84
+Mohammad Nabi,Shapoor Zadran,18.41666667
+Mohammad Nabi,Aftab Alam,28
+Mohammad Nabi,Shafiqullah,34.57142857
+Mohammad Nabi,Mohammad Shahzad,52.04166667
+Mohammad Nabi,Noor Ali Zadran,50.12
+Mohammad Nabi,Hashmatullah Shahidi,44.55172414
+Mohammad Nabi,Mujeeb Ur Rahman,19.82352941
+Mohammad Nabi,Sayed Shirzad,27
+Mohammad Nabi,Nawroz Mangal,39.92857143
+Aftab Alam,Shapoor Zadran,5.666666667
+Shapoor Zadran,Shafiqullah,11.33333333
+Shapoor Zadran,Mohammad Shahzad,35
+Shapoor Zadran,Noor Ali Zadran,13.66666667
+Shapoor Zadran,Hashmatullah Shahidi,0
+Shapoor Zadran,Mujeeb Ur Rahman,3.75
+Shapoor Zadran,Sayed Shirzad,0
+Shapoor Zadran,Nawroz Mangal,16.85714286
+Aftab Alam,Shafiqullah,20.33333333
+Aftab Alam,Mohammad Shahzad,35.58333333
+Aftab Alam,Noor Ali Zadran,30
+Aftab Alam,Hashmatullah Shahidi,46.08333333
+Aftab Alam,Mujeeb Ur Rahman,5.090909091
+Aftab Alam,Sayed Shirzad,0
+Aftab Alam,Nawroz Mangal,11.2
+Shafiqullah,Mohammad Shahzad,52.66666667
+Shafiqullah,Noor Ali Zadran,38
+Shafiqullah,Hashmatullah Shahidi,41.5
+Shafiqullah,Mujeeb Ur Rahman,13.75
+Shafiqullah,Sayed Shirzad,0
+Shafiqullah,Nawroz Mangal,26.33333333
+Mohammad Shahzad,Noor Ali Zadran,67.68421053
+Hashmatullah Shahidi,Mohammad Shahzad,53.7826087
+Mujeeb Ur Rahman,Mohammad Shahzad,29.95454545
+Mohammad Shahzad,Sayed Shirzad,0
+Nawroz Mangal,Mohammad Shahzad,46.33333333
+Hashmatullah Shahidi,Noor Ali Zadran,51.7
+Mujeeb Ur Rahman,Noor Ali Zadran,7
+Sayed Shirzad,Noor Ali Zadran,0
+Nawroz Mangal,Noor Ali Zadran,42.85714286
+Hashmatullah Shahidi,Mujeeb Ur Rahman,35.23529412
+Hashmatullah Shahidi,Sayed Shirzad,0
+Hashmatullah Shahidi,Nawroz Mangal,30.33333333
+Mujeeb Ur Rahman,Sayed Shirzad,32
+Nawroz Mangal,Mujeeb Ur Rahman,0
+Nawroz Mangal,Sayed Shirzad,0
