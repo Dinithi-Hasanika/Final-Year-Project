@@ -1,0 +1,211 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+5599,"frozenset({'A Ranatunga', 'H D P K Dharmasena', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+5025,"frozenset({'A Ranatunga', 'M Muralitharan', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+5096,"frozenset({'A Ranatunga', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+5151,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+5194,"frozenset({'A Ranatunga', 'R S Mahanama', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+5221,"frozenset({'A Ranatunga', 'G P Wickramasinghe', 'S T Jayasuriya'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+5236,"frozenset({'A Ranatunga', 'G P Wickramasinghe', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+5346,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+5445,"frozenset({'A Ranatunga', 'H D P K Dharmasena', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+5528,"frozenset({'A Ranatunga', 'M Muralitharan', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+5654,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4843,"frozenset({'A Ranatunga', 'H D P K Dharmasena', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+5697,"frozenset({'A Ranatunga', 'H D P K Dharmasena', 'R S Mahanama'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+5725,"frozenset({'A Ranatunga', 'H D P K Dharmasena', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+5739,"frozenset({'A Ranatunga', 'H D P K Dharmasena', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+5837,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+5920,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'M Muralitharan'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+5991,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6046,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'H P Tillakaratne'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6089,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'R S Mahanama'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6117,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4941,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+4732,"frozenset({'A P Gurusinha', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6215,"frozenset({'A Ranatunga', 'M Muralitharan', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+4408,"frozenset({'R S Mahanama', 'A P Gurusinha', 'M Muralitharan'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3947,"frozenset({'H P Tillakaratne', 'A P Gurusinha', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4031,"frozenset({'M Muralitharan', 'A P Gurusinha', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+4101,"frozenset({'A P Gurusinha', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+4157,"frozenset({'R S Kaluwitharana', 'A P Gurusinha', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+4199,"frozenset({'R S Mahanama', 'A P Gurusinha', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+4228,"frozenset({'A P Gurusinha', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+4242,"frozenset({'A P Gurusinha', 'W P U J C Vaas', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+4311,"frozenset({'M Muralitharan', 'A P Gurusinha', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4366,"frozenset({'R S Kaluwitharana', 'M Muralitharan', 'A P Gurusinha'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4437,"frozenset({'M Muralitharan', 'A P Gurusinha', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4717,"frozenset({'R S Mahanama', 'A P Gurusinha', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4451,"frozenset({'M Muralitharan', 'A P Gurusinha', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4507,"frozenset({'R S Kaluwitharana', 'A P Gurusinha', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4549,"frozenset({'R S Mahanama', 'A P Gurusinha', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4578,"frozenset({'A P Gurusinha', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4591,"frozenset({'A P Gurusinha', 'W P U J C Vaas', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4632,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'A P Gurusinha'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4661,"frozenset({'R S Kaluwitharana', 'A P Gurusinha', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4675,"frozenset({'R S Kaluwitharana', 'A P Gurusinha', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+4703,"frozenset({'R S Mahanama', 'A P Gurusinha', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6131,"frozenset({'A Ranatunga', 'H P Tillakaratne', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6285,"frozenset({'A Ranatunga', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8092,"frozenset({'G P Wickramasinghe', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7769,"frozenset({'R S Mahanama', 'M Muralitharan', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7308,"frozenset({'H D P K Dharmasena', 'G P Wickramasinghe', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7391,"frozenset({'H P Tillakaratne', 'M Muralitharan', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7462,"frozenset({'H P Tillakaratne', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7517,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7559,"frozenset({'R S Mahanama', 'H P Tillakaratne', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7587,"frozenset({'H P Tillakaratne', 'G P Wickramasinghe', 'S T Jayasuriya'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7602,"frozenset({'H P Tillakaratne', 'G P Wickramasinghe', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7672,"frozenset({'M Muralitharan', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7727,"frozenset({'R S Kaluwitharana', 'M Muralitharan', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7797,"frozenset({'M Muralitharan', 'G P Wickramasinghe', 'S T Jayasuriya'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7265,"frozenset({'R S Mahanama', 'H D P K Dharmasena', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7812,"frozenset({'M Muralitharan', 'G P Wickramasinghe', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7868,"frozenset({'R S Kaluwitharana', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7910,"frozenset({'R S Mahanama', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7938,"frozenset({'G P Wickramasinghe', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7952,"frozenset({'W P U J C Vaas', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7993,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+8022,"frozenset({'R S Kaluwitharana', 'G P Wickramasinghe', 'S T Jayasuriya'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+8036,"frozenset({'R S Kaluwitharana', 'G P Wickramasinghe', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+8063,"frozenset({'R S Mahanama', 'G P Wickramasinghe', 'S T Jayasuriya'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7293,"frozenset({'S T Jayasuriya', 'H D P K Dharmasena', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7223,"frozenset({'R S Kaluwitharana', 'H D P K Dharmasena', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+6341,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+6733,"frozenset({'A Ranatunga', 'R S Mahanama', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6383,"frozenset({'A Ranatunga', 'R S Mahanama', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+6412,"frozenset({'A Ranatunga', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+6426,"frozenset({'A Ranatunga', 'W P U J C Vaas', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+6495,"frozenset({'A Ranatunga', 'M Muralitharan', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6550,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'M Muralitharan'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6593,"frozenset({'A Ranatunga', 'M Muralitharan', 'R S Mahanama'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6621,"frozenset({'A Ranatunga', 'M Muralitharan', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6635,"frozenset({'A Ranatunga', 'M Muralitharan', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6691,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6762,"frozenset({'A Ranatunga', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+7168,"frozenset({'H D P K Dharmasena', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+6775,"frozenset({'A Ranatunga', 'W P U J C Vaas', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6817,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'R S Mahanama'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6845,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6859,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6888,"frozenset({'A Ranatunga', 'R S Mahanama', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6901,"frozenset({'A Ranatunga', 'R S Mahanama', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+6916,"frozenset({'A Ranatunga', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+7013,"frozenset({'H P Tillakaratne', 'H D P K Dharmasena', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+7097,"frozenset({'M Muralitharan', 'H D P K Dharmasena', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+3933,"frozenset({'H P Tillakaratne', 'A P Gurusinha', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3905,"frozenset({'R S Mahanama', 'A P Gurusinha', 'H P Tillakaratne'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3862,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'A P Gurusinha'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3807,"frozenset({'H P Tillakaratne', 'A P Gurusinha', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3052,"frozenset({'A P Gurusinha', 'G P Wickramasinghe', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+2533,"frozenset({'A Ranatunga', 'A P Gurusinha', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2547,"frozenset({'A Ranatunga', 'A P Gurusinha', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2659,"frozenset({'A P Gurusinha', 'H D P K Dharmasena', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+2757,"frozenset({'H P Tillakaratne', 'A P Gurusinha', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+2841,"frozenset({'M Muralitharan', 'A P Gurusinha', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+2912,"frozenset({'A P Gurusinha', 'G P Wickramasinghe', 'P A de Silva'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+2967,"frozenset({'R S Kaluwitharana', 'A P Gurusinha', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+3009,"frozenset({'R S Mahanama', 'A P Gurusinha', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+3037,"frozenset({'A P Gurusinha', 'G P Wickramasinghe', 'S T Jayasuriya'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+3162,"frozenset({'H P Tillakaratne', 'H D P K Dharmasena', 'A P Gurusinha'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3261,"frozenset({'A P Gurusinha', 'H D P K Dharmasena', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+3344,"frozenset({'M Muralitharan', 'H D P K Dharmasena', 'A P Gurusinha'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3415,"frozenset({'A P Gurusinha', 'H D P K Dharmasena', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3470,"frozenset({'R S Kaluwitharana', 'A P Gurusinha', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3512,"frozenset({'R S Mahanama', 'A P Gurusinha', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3541,"frozenset({'A P Gurusinha', 'H D P K Dharmasena', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3555,"frozenset({'A P Gurusinha', 'H D P K Dharmasena', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+3653,"frozenset({'H P Tillakaratne', 'A P Gurusinha', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+3736,"frozenset({'M Muralitharan', 'H P Tillakaratne', 'A P Gurusinha'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2505,"frozenset({'A Ranatunga', 'A P Gurusinha', 'R S Mahanama'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2462,"frozenset({'R S Kaluwitharana', 'A Ranatunga', 'A P Gurusinha'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2407,"frozenset({'A Ranatunga', 'A P Gurusinha', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2336,"frozenset({'A Ranatunga', 'A P Gurusinha', 'M Muralitharan'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+1917,"frozenset({'A Ranatunga', 'A P Gurusinha', 'G P Wickramasinghe'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+2042,"frozenset({'A Ranatunga', 'A P Gurusinha', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2155,"frozenset({'A Ranatunga', 'A P Gurusinha', 'H P Tillakaratne'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+2253,"frozenset({'A Ranatunga', 'A P Gurusinha', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8078,"frozenset({'R S Mahanama', 'G P Wickramasinghe', 'W P U J C Vaas'})",frozenset({'won'}),0.6666666666666666,1.0,0.6666666666666666,1.0,1.0,0.0,inf
+8189,"frozenset({'H P Tillakaratne', 'H D P K Dharmasena', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8272,"frozenset({'H P Tillakaratne', 'M Muralitharan', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9686,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'M Muralitharan'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9253,"frozenset({'R S Mahanama', 'H D P K Dharmasena', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9268,"frozenset({'H D P K Dharmasena', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9351,"frozenset({'H P Tillakaratne', 'M Muralitharan', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+9421,"frozenset({'H P Tillakaratne', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+9477,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+9519,"frozenset({'R S Mahanama', 'H P Tillakaratne', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+9548,"frozenset({'H P Tillakaratne', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+9562,"frozenset({'H P Tillakaratne', 'W P U J C Vaas', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+9631,"frozenset({'H P Tillakaratne', 'M Muralitharan', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9728,"frozenset({'R S Mahanama', 'H P Tillakaratne', 'M Muralitharan'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9211,"frozenset({'R S Kaluwitharana', 'H D P K Dharmasena', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9757,"frozenset({'H P Tillakaratne', 'M Muralitharan', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9771,"frozenset({'H P Tillakaratne', 'M Muralitharan', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9827,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9869,"frozenset({'R S Mahanama', 'H P Tillakaratne', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9898,"frozenset({'H P Tillakaratne', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9911,"frozenset({'H P Tillakaratne', 'W P U J C Vaas', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9952,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'H P Tillakaratne'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9981,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9995,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9239,"frozenset({'R S Mahanama', 'H D P K Dharmasena', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9197,"frozenset({'R S Kaluwitharana', 'H D P K Dharmasena', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8764,"frozenset({'H D P K Dharmasena', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8343,"frozenset({'H P Tillakaratne', 'H D P K Dharmasena', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8398,"frozenset({'R S Kaluwitharana', 'H P Tillakaratne', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8440,"frozenset({'R S Mahanama', 'H P Tillakaratne', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8469,"frozenset({'H P Tillakaratne', 'H D P K Dharmasena', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8483,"frozenset({'H P Tillakaratne', 'H D P K Dharmasena', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8567,"frozenset({'M Muralitharan', 'H D P K Dharmasena', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8637,"frozenset({'H D P K Dharmasena', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8693,"frozenset({'R S Kaluwitharana', 'H D P K Dharmasena', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8735,"frozenset({'R S Mahanama', 'H D P K Dharmasena', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+8778,"frozenset({'H D P K Dharmasena', 'W P U J C Vaas', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+9168,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8847,"frozenset({'M Muralitharan', 'H D P K Dharmasena', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8902,"frozenset({'R S Kaluwitharana', 'M Muralitharan', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8944,"frozenset({'R S Mahanama', 'M Muralitharan', 'H D P K Dharmasena'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8973,"frozenset({'M Muralitharan', 'H D P K Dharmasena', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+8987,"frozenset({'M Muralitharan', 'H D P K Dharmasena', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9043,"frozenset({'R S Kaluwitharana', 'H D P K Dharmasena', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9085,"frozenset({'R S Mahanama', 'H D P K Dharmasena', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9114,"frozenset({'H D P K Dharmasena', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+9127,"frozenset({'H D P K Dharmasena', 'W P U J C Vaas', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10023,"frozenset({'R S Mahanama', 'H P Tillakaratne', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10037,"frozenset({'R S Mahanama', 'H P Tillakaratne', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10052,"frozenset({'H P Tillakaratne', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+11018,"frozenset({'R S Kaluwitharana', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10822,"frozenset({'M Muralitharan', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10863,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10892,"frozenset({'R S Kaluwitharana', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10906,"frozenset({'R S Kaluwitharana', 'W P U J C Vaas', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10934,"frozenset({'R S Mahanama', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10947,"frozenset({'R S Mahanama', 'W P U J C Vaas', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10962,"frozenset({'W P U J C Vaas', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10989,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+11003,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+11032,"frozenset({'R S Mahanama', 'S T Jayasuriya', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10121,"frozenset({'M Muralitharan', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10807,"frozenset({'R S Mahanama', 'M Muralitharan', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10793,"frozenset({'R S Mahanama', 'M Muralitharan', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10765,"frozenset({'R S Kaluwitharana', 'M Muralitharan', 'W P U J C Vaas'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10751,"frozenset({'R S Kaluwitharana', 'M Muralitharan', 'S T Jayasuriya'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10177,"frozenset({'R S Kaluwitharana', 'M Muralitharan', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10219,"frozenset({'R S Mahanama', 'M Muralitharan', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10248,"frozenset({'M Muralitharan', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10262,"frozenset({'M Muralitharan', 'W P U J C Vaas', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10318,"frozenset({'R S Kaluwitharana', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10359,"frozenset({'R S Mahanama', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10388,"frozenset({'K R Pushpakumara', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10402,"frozenset({'W P U J C Vaas', 'K R Pushpakumara', 'P A de Silva'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10443,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10472,"frozenset({'R S Kaluwitharana', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10486,"frozenset({'R S Kaluwitharana', 'W P U J C Vaas', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10514,"frozenset({'R S Mahanama', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10528,"frozenset({'R S Mahanama', 'W P U J C Vaas', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10542,"frozenset({'W P U J C Vaas', 'S T Jayasuriya', 'K R Pushpakumara'})",frozenset({'won'}),0.3333333333333333,1.0,0.3333333333333333,1.0,1.0,0.0,inf
+10597,"frozenset({'R S Kaluwitharana', 'M Muralitharan', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10639,"frozenset({'R S Mahanama', 'M Muralitharan', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10668,"frozenset({'M Muralitharan', 'S T Jayasuriya', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10681,"frozenset({'M Muralitharan', 'W P U J C Vaas', 'P A de Silva'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
+10722,"frozenset({'R S Kaluwitharana', 'R S Mahanama', 'M Muralitharan'})",frozenset({'won'}),1.0,1.0,1.0,1.0,1.0,0.0,inf
