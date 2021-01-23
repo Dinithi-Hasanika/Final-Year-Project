@@ -1,0 +1,103 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+D,won,1,2,lost,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,TWM Latham,GD Elliott,CJ Anderson,L Ronchi,NL McCullum,AF Milne,MJ McClenaghan,TA Boult
+DN,lost,1,1,won,v Sri Lanka,MJ Guptill,BB McCullum,TWM Latham,LRPL Taylor,DL Vettori,CJ Anderson,L Ronchi,NL McCullum,AF Milne,MJ Henry,TA Boult
+D,won,1,2,lost,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,TG Southee,AF Milne,MJ McClenaghan
+D,won,1,1,lost,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,NL McCullum,TG Southee,MJ McClenaghan,TA Boult
+D,won,1,1,won,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,CJ Anderson,L Ronchi,GD Elliott,DL Vettori,KD Mills,TA Boult,MJ McClenaghan
+DN,lost,1,2,lost,v Sri Lanka,MJ Guptill,TWM Latham,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,KD Mills,TG Southee,MJ McClenaghan
+DN,won,1,2,won,v Pakistan,MJ Guptill,BB McCullum,TWM Latham,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,NL McCullum,KD Mills,AF Milne,TA Boult
+DN,won,1,1,won,v Pakistan,MJ Guptill,BB McCullum,TWM Latham,LRPL Taylor,GD Elliott,L Ronchi,NL McCullum,DL Vettori,TG Southee,AF Milne,TA Boult
+D,won,1,1,lost,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,TG Southee,AF Milne,TA Boult
+DN,won,1,2,lost,v England,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,AF Milne,TG Southee,TA Boult
+DN,won,1,2,lost,v Australia,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,AF Milne,TG Southee,TA Boult
+D,won,1,2,lost,v Afghanistan,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,AF Milne
+DN,won,1,2,won,v Bangladesh,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,MJ McClenaghan
+DN,won,1,1,won,v West Indies,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,AF Milne
+DN,won,1,2,lost,v South Africa,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,MJ Henry
+DN,lost,0,1,won,v Australia,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,MJ Henry
+DN,lost,0,2,won,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,TA Boult,MJ Henry
+DN,won,0,1,won,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,TA Boult,TG Southee
+D,won,0,2,lost,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,BM Wheeler,MJ McClenaghan,GD Elliott,MJ Henry,TG Southee
+DN,lost,0,1,won,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,BM Wheeler,MJ McClenaghan,GD Elliott,MJ Henry,TG Southee
+D,lost,0,1,lost,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,BM Wheeler,AW Mathieson,GD Elliott,MJ Henry,TG Southee
+D,lost,0,1,lost,v Zimbabwe,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,MJ Henry
+D,won,0,2,lost,v Zimbabwe,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,C Munro,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,MJ Henry
+D,won,1,1,lost,v Zimbabwe,KS Williamson,MJ Guptill,JDS Neesham,TWM Latham,C Munro,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,BM Wheeler
+DN,lost,0,2,won,v South Africa,KS Williamson,MJ Guptill,JDS Neesham,TWM Latham,C Munro,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,AF Milne
+D,won,0,2,lost,v South Africa,KS Williamson,MJ Guptill,GH Worker,TWM Latham,C Munro,L Ronchi,DAJ Bracewell,AF Milne,GD Elliott,IS Sodhi,BM Wheeler
+DN,lost,0,2,lost,v South Africa,KS Williamson,MJ Guptill,GH Worker,TWM Latham,C Munro,L Ronchi,DAJ Bracewell,AF Milne,GD Elliott,IS Sodhi,BM Wheeler
+D,won,1,2,lost,v Sri Lanka,BB McCullum,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,DAJ Bracewell,AF Milne,MJ McClenaghan,MJ Santner,MJ Henry
+D,won,1,2,lost,v Sri Lanka,BB McCullum,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,DAJ Bracewell,IS Sodhi,MJ McClenaghan,MJ Santner,MJ Henry
+D,lost,1,1,won,v Sri Lanka,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,DAJ Bracewell,AF Milne,MJ McClenaghan,MJ Santner,TG Southee
+D,won,1,1,lost,v Sri Lanka,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,IS Sodhi
+D,won,1,1,lost,v Pakistan,KS Williamson,MJ Guptill,GD Elliott,TWM Latham,HM Nicholls,L Ronchi,MJ Henry,MJ McClenaghan,TA Boult,MJ Santner,CJ Anderson
+D,won,1,2,lost,v Pakistan,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,CJ Anderson
+DN,won,1,1,lost,v Australia,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,CJ Anderson
+DN,lost,1,1,won,v Australia,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,CJ Anderson
+DN,won,1,1,lost,v Australia,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,DAJ Bracewell,IS Sodhi,CJ Anderson
+DN,lost,0,1,lost,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,L Ronchi,MJ Santner,TG Southee,DAJ Bracewell,IS Sodhi,CJ Anderson
+DN,won,0,1,lost,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,AP Devcich,L Ronchi,MJ Santner,TG Southee,MJ Henry,TA Boult,CJ Anderson
+DN,lost,0,1,lost,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,L Ronchi,MJ Santner,TG Southee,MJ Henry,TA Boult,CJ Anderson
+DN,won,0,1,won,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,BJ Watling,MJ Santner,TG Southee,IS Sodhi,TA Boult,AP Devcich
+DN,lost,0,2,lost,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,BJ Watling,MJ Santner,TG Southee,IS Sodhi,TA Boult,CJ Anderson
+DN,lost,0,2,lost,v Australia,MJ Guptill,TWM Latham,KS Williamson,JDS Neesham,BJ Watling,C Munro,MJ Santner,C de Grandhomme,MJ Henry,LH Ferguson,TA Boult
+DN,lost,0,2,won,v Australia,MJ Guptill,TWM Latham,KS Williamson,JDS Neesham,C Munro,C de Grandhomme,MJ Santner,BJ Watling,TG Southee,MJ Henry,TA Boult
+DN,lost,0,2,lost,v Australia,MJ Guptill,TWM Latham,KS Williamson,HM Nicholls,C Munro,BJ Watling,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+D,won,1,1,won,v Bangladesh,MJ Guptill,TWM Latham,KS Williamson,NT Broom,JDS Neesham,C Munro,L Ronchi,MJ Santner,TG Southee,LH Ferguson,TA Boult
+D,won,1,1,lost,v Bangladesh,MJ Guptill,TWM Latham,KS Williamson,NT Broom,JDS Neesham,C Munro,L Ronchi,MJ Santner,TG Southee,LH Ferguson,TA Boult
+D,won,1,2,lost,v Bangladesh,MJ Guptill,TWM Latham,KS Williamson,NT Broom,JDS Neesham,C Munro,L Ronchi,MJ Santner,TG Southee,MJ Henry,JS Patel
+D,won,1,1,lost,v Australia,MJ Guptill,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,C Munro,JDS Neesham,MJ Santner,TG Southee,LH Ferguson,TA Boult
+D,won,1,1,won,v Australia,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,C Munro,JDS Neesham,MJ Santner,TG Southee,LH Ferguson,TA Boult
+DN,lost,1,1,lost,v South Africa,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,IS Sodhi,TA Boult
+D,won,1,1,lost,v South Africa,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,MJ Santner,C de Grandhomme,IS Sodhi,TG Southee,TA Boult
+DN,lost,1,2,lost,v South Africa,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,LH Ferguson,TA Boult
+DN,won,1,2,lost,v South Africa,MJ Guptill,DG Brownlie,KS Williamson,LRPL Taylor,L Ronchi,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,JS Patel,TA Boult
+DN,lost,1,1,lost,v South Africa,MJ Guptill,DG Brownlie,KS Williamson,LRPL Taylor,L Ronchi,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,JS Patel,TA Boult
+D,won,0,1,lost,v Ireland,L Ronchi,TWM Latham,GH Worker,LRPL Taylor,NT Broom,JDS Neesham,C Munro,SC Kuggeleijn,MJ Santner,SHA Rance,IS Sodhi
+D,won,0,2,won,v Bangladesh,TWM Latham,L Ronchi,GH Worker,LRPL Taylor,NT Broom,JDS Neesham,C Munro,MJ Santner,SHA Rance,IS Sodhi,HK Bennett
+D,won,0,1,lost,v Ireland,L Ronchi,TWM Latham,NT Broom,LRPL Taylor,CJ Anderson,MJ Santner,C Munro,AF Milne,SC Kuggeleijn,IS Sodhi,MJ Henry
+D,lost,0,1,lost,v Bangladesh,TWM Latham,L Ronchi,NT Broom,LRPL Taylor,CJ Anderson,JDS Neesham,MJ Santner,C Munro,MJ Henry,JS Patel,HK Bennett
+D,lost,0,2,won,v England,MJ Guptill,L Ronchi,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,CJ Anderson,MJ Santner,AF Milne,TG Southee,TA Boult
+D,lost,0,1,won,v Bangladesh,MJ Guptill,L Ronchi,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,CJ Anderson,MJ Santner,AF Milne,TG Southee,TA Boult
+DN,won,0,2,lost,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,AF Milne,TG Southee,TA Boult
+DN,lost,0,1,won,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,AF Milne,TG Southee,TA Boult
+DN,lost,0,2,won,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,AF Milne,TA Boult
+D,won,1,2,won,v West Indies,GH Worker,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,TD Astle,DAJ Bracewell,TG Southee,LH Ferguson,TA Boult
+D,won,1,1,lost,v West Indies,GH Worker,C Munro,NT Broom,LRPL Taylor,TWM Latham,HM Nicholls,TD Astle,DAJ Bracewell,MJ Henry,LH Ferguson,TA Boult
+D,won,1,1,won,v West Indies,GH Worker,C Munro,NT Broom,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TD Astle,MJ Henry,LH Ferguson,TA Boult
+D,won,1,1,lost,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TG Southee,TD Astle,LH Ferguson,TA Boult
+D,won,1,2,lost,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TD Astle,TG Southee,LH Ferguson,TA Boult
+D,won,1,1,won,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TD Astle,TG Southee,LH Ferguson,TA Boult
+DN,won,1,2,lost,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+D,won,1,1,won,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,C de Grandhomme,HM Nicholls,TWM Latham,MJ Santner,TG Southee,MJ Henry,LH Ferguson
+DN,won,1,2,won,v England,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,IS Sodhi,TA Boult
+DN,lost,1,1,lost,v England,MJ Guptill,C Munro,MS Chapman,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+DN,lost,1,2,won,v England,MJ Guptill,C Munro,KS Williamson,MS Chapman,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,IS Sodhi,TA Boult
+D,won,1,2,won,v England,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,HM Nicholls,MJ Santner,TG Southee,IS Sodhi,TA Boult
+D,lost,1,1,lost,v England,MJ Guptill,C Munro,KS Williamson,TWM Latham,MS Chapman,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,IS Sodhi,TA Boult
+DN,won,0,1,won,v Pakistan,GH Worker,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,TG Southee,IS Sodhi,LH Ferguson,TA Boult
+DN,lost,0,1,won,v Pakistan,GH Worker,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,TG Southee,IS Sodhi,TA Boult,LH Ferguson
+DN,won,1,1,won,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,HM Nicholls,TL Seifert,JDS Neesham,MJ Henry,IS Sodhi,LH Ferguson,TA Boult
+DN,won,1,1,won,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,HM Nicholls,JDS Neesham,TL Seifert,TG Southee,MJ Henry,IS Sodhi,TA Boult
+D,won,1,1,lost,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,HM Nicholls,JDS Neesham,TL Seifert,TG Southee,MJ Henry,IS Sodhi,LH Ferguson
+DN,lost,1,1,won,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,DAJ Bracewell,TG Southee,LH Ferguson,TA Boult
+DN,lost,1,2,lost,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,DAJ Bracewell,IS Sodhi,LH Ferguson,TA Boult
+DN,lost,1,1,won,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,DAJ Bracewell,IS Sodhi,TA Boult,LH Ferguson
+DN,won,1,2,won,v India,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,MJ Santner,C de Grandhomme,TD Astle,MJ Henry,TA Boult
+DN,lost,1,2,lost,v India,C Munro,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TD Astle,MJ Henry,TA Boult
+DN,won,1,2,lost,v Bangladesh,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,JDS Neesham,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+D,won,1,2,won,v Bangladesh,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,JDS Neesham,MJ Henry,TD Astle,LH Ferguson,TA Boult
+D,won,1,1,lost,v Bangladesh,MJ Guptill,C Munro,HM Nicholls,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+D,won,0,2,won,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+DN,won,0,2,won,v Bangladesh,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+DN,won,0,2,won,v Afghanistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+D,won,0,2,won,v South Africa,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+DN,won,0,1,lost,v West Indies,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+D,lost,0,1,won,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+DN,lost,0,2,lost,v Australia,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,JDS Neesham,MJ Santner,IS Sodhi,LH Ferguson,TA Boult
+D,lost,0,2,lost,v England,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TG Southee,MJ Henry,TA Boult
+D,won,0,1,won,v India,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,JDS Neesham,C de Grandhomme,TWM Latham,MJ Santner,MJ Henry,TA Boult,LH Ferguson
+DN,won,1,2,won,v India,MJ Guptill,HM Nicholls,TA Blundell,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,IS Sodhi,TG Southee,HK Bennett
+DN,won,1,1,lost,v India,MJ Guptill,HM Nicholls,TA Blundell,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MS Chapman,TG Southee,KA Jamieson,HK Bennett
+DN,won,1,2,won,v India,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TG Southee,KA Jamieson,HK Bennett
+DN,lost,0,2,lost,v Australia,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,IS Sodhi,LH Ferguson,TA Boult

@@ -1,0 +1,109 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,lost,0,1,won,v Australia,IR Bell,MM Ali,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,CJ Jordan,SCJ Broad,ST Finn
+DN,won,0,2,lost,v India,IR Bell,MM Ali,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,SCJ Broad,JM Anderson,ST Finn
+DN,lost,0,1,lost,v Australia,MM Ali,IR Bell,JWA Taylor,JE Root,EJG Morgan,JC Buttler,RS Bopara,CR Woakes,SCJ Broad,JM Anderson,ST Finn
+D,won,0,2,won,v India,IR Bell,MM Ali,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,SCJ Broad,JM Anderson,ST Finn
+D,lost,0,2,won,v Australia,MM Ali,IR Bell,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+D,lost,0,2,won,v Australia,MM Ali,IR Bell,GS Ballance,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+DN,lost,0,1,won,v New Zealand,IR Bell,MM Ali,GS Ballance,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+D,lost,0,1,won,v Sri Lanka,MM Ali,IR Bell,GS Ballance,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+DN,lost,0,2,won,v Bangladesh,MM Ali,IR Bell,AD Hales,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,CJ Jordan,SCJ Broad,JM Anderson
+DN,won,0,2,won,v Afghanistan,AD Hales,IR Bell,JWA Taylor,JE Root,EJG Morgan,JC Buttler,RS Bopara,CJ Jordan,JC Tredwell,SCJ Broad,JM Anderson
+DN,won,1,1,lost,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,CJ Jordan,LE Plunkett,ST Finn
+DN,lost,1,2,lost,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,LE Plunkett,CJ Jordan,ST Finn
+D,lost,1,1,won,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,DJ Willey,MA Wood,ST Finn
+DN,won,1,2,lost,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,DJ Willey,MA Wood,ST Finn
+D,won,1,2,won,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JM Bairstow,SW Billings,DJ Willey,AU Rashid,MA Wood,ST Finn
+DN,lost,1,2,lost,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,MA Wood,ST Finn
+D,lost,1,2,won,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,ST Finn
+DN,won,1,1,won,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,LE Plunkett,CR Woakes,AU Rashid,ST Finn
+D,won,1,2,lost,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,LE Plunkett,DJ Willey,AU Rashid,MA Wood
+D,lost,1,1,won,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,DJ Willey,AU Rashid,MA Wood,RJW Topley
+DN,lost,0,1,won,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,JWA Taylor,JC Buttler,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+DN,won,0,1,won,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,JC Buttler,JWA Taylor,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+DN,won,0,2,lost,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,JWA Taylor,JC Buttler,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+DN,won,0,1,won,v Pakistan,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,JWA Taylor,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+DN,won,0,1,won,v South Africa,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CJ Jordan,AU Rashid,DJ Willey,RJW Topley
+D,won,0,2,lost,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CJ Jordan,AU Rashid,DJ Willey,RJW Topley
+DN,lost,0,1,won,v South Africa,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CJ Jordan,DJ Willey,AU Rashid,RJW Topley
+DN,lost,0,1,lost,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,SCJ Broad,RJW Topley
+D,lost,0,1,lost,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,SCJ Broad,RJW Topley
+DN,won,1,2,lost,v Sri Lanka,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,JC Buttler,MM Ali,CR Woakes,DJ Willey,LE Plunkett,AU Rashid
+DN,won,1,2,won,v Sri Lanka,JJ Roy,MM Ali,JE Root,EJG Morgan,JM Bairstow,JC Buttler,AD Hales,CR Woakes,DJ Willey,AU Rashid,LE Plunkett
+D,won,1,1,lost,v Sri Lanka,JJ Roy,JM Vince,JE Root,EJG Morgan,JM Bairstow,JC Buttler,CR Woakes,LE Plunkett,CJ Jordan,DJ Willey,AU Rashid
+DN,won,1,2,lost,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+D,won,1,2,lost,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+DN,won,1,1,won,v Pakistan,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+DN,won,1,2,lost,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,DJ Willey,LE Plunkett,AU Rashid,CJ Jordan
+D,lost,1,1,lost,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JM Bairstow,LA Dawson,CR Woakes,DJ Willey,CJ Jordan,MA Wood
+DN,won,0,1,won,v Bangladesh,JJ Roy,JM Vince,BM Duckett,JM Bairstow,BA Stokes,JC Buttler,MM Ali,CR Woakes,DJ Willey,AU Rashid,JT Ball
+DN,lost,0,2,won,v Bangladesh,JJ Roy,JM Vince,BM Duckett,JM Bairstow,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,DJ Willey,JT Ball
+DN,won,0,2,won,v Bangladesh,JM Vince,SW Billings,BM Duckett,JM Bairstow,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,JT Ball
+DN,lost,0,1,lost,v India,JJ Roy,AD Hales,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,DJ Willey,AU Rashid,JT Ball
+DN,lost,0,2,won,v India,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,DJ Willey,JT Ball
+DN,won,0,1,lost,v India,JJ Roy,SW Billings,JM Bairstow,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,LE Plunkett,DJ Willey,JT Ball
+D,won,0,1,lost,v West Indies,JJ Roy,SW Billings,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,AU Rashid,LE Plunkett,ST Finn
+D,won,0,2,lost,v West Indies,JJ Roy,SW Billings,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,ST Finn
+D,won,0,1,lost,v West Indies,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CR Woakes,LE Plunkett,AU Rashid,ST Finn
+D,won,1,2,lost,v Ireland,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,SW Billings,AU Rashid,DJ Willey,LE Plunkett,JT Ball,MA Wood
+D,won,1,1,lost,v Ireland,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,SW Billings,AU Rashid,DJ Willey,LE Plunkett,JT Ball,MA Wood
+DN,won,1,1,lost,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+D,won,1,1,lost,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+D,lost,1,1,lost,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,JC Buttler,AU Rashid,DJ Willey,TS Roland-Jones,JT Ball,ST Finn
+D,won,1,2,won,v Bangladesh,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,MA Wood,JT Ball
+D,won,1,1,lost,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+D,won,1,2,won,v Australia,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+D,lost,1,1,lost,v Pakistan,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+DN,won,1,2,lost,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,CR Woakes,DJ Willey,LE Plunkett
+D,won,1,1,lost,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,DJ Willey,AU Rashid
+DN,won,1,2,won,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,MM Ali,CR Woakes,AU Rashid,LE Plunkett,JT Ball
+DN,won,1,2,won,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,MM Ali,TK Curran,AU Rashid,LE Plunkett,JT Ball
+DN,won,0,2,won,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+DN,won,0,2,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+DN,won,0,1,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+DN,lost,0,1,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+D,won,0,1,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,AU Rashid,DJ Willey,TK Curran,JT Ball
+DN,lost,0,1,lost,v New Zealand,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,DJ Willey,TK Curran,AU Rashid
+DN,won,0,2,won,v New Zealand,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,DJ Willey,TK Curran,AU Rashid
+DN,won,0,1,lost,v New Zealand,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+D,lost,0,1,lost,v New Zealand,JJ Roy,JM Bairstow,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+D,won,0,2,won,v New Zealand,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+DN,won,1,2,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+D,won,1,1,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,JC Buttler,SW Billings,MM Ali,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+DN,won,1,1,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JC Buttler,EJG Morgan,MM Ali,JE Root,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+DN,won,1,2,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,DJ Willey,C Overton,AU Rashid,MA Wood
+D,won,1,2,lost,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,SM Curran,LE Plunkett,AU Rashid,JT Ball
+D,lost,1,1,lost,v India,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,DJ Willey,AU Rashid,LE Plunkett,MA Wood
+D,won,1,1,won,v India,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,DJ Willey,AU Rashid,LE Plunkett,MA Wood
+D,won,1,2,won,v India,JM Vince,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+D,won,0,1,lost,v Sri Lanka,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LA Dawson,AU Rashid,OP Stone
+DN,won,0,2,won,v Sri Lanka,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,TK Curran,AU Rashid,OP Stone
+D,won,0,2,won,v Sri Lanka,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,TK Curran,AU Rashid,OP Stone
+DN,lost,0,2,lost,v Sri Lanka,JJ Roy,AD Hales,JE Root,JC Buttler,BA Stokes,MM Ali,SM Curran,AU Rashid,LE Plunkett,TK Curran,MA Wood
+DN,won,0,2,lost,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,AU Rashid,MA Wood
+DN,lost,0,2,won,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,TK Curran,AU Rashid,LE Plunkett,MA Wood
+D,won,1,1,lost,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+DN,lost,0,1,lost,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,TK Curran,AU Rashid,MA Wood
+D,won,0,2,won,v Ireland,JM Vince,DJ Malan,JE Root,EJG Morgan,JL Denly,BT Foakes,DJ Willey,TK Curran,AU Rashid,LE Plunkett,JC Archer
+D,won,1,1,lost,v Pakistan,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,DJ Willey,AU Rashid,CR Woakes,LE Plunkett
+DN,won,1,2,won,v Pakistan,JJ Roy,JM Bairstow,JE Root,BA Stokes,MM Ali,EJG Morgan,JL Denly,TK Curran,CR Woakes,DJ Willey,LE Plunkett
+DN,won,1,2,won,v Pakistan,JJ Roy,JM Vince,JE Root,BA Stokes,JC Buttler,MM Ali,JL Denly,TK Curran,AU Rashid,JC Archer,MA Wood
+D,won,1,1,won,v Pakistan,JM Vince,JM Bairstow,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,DJ Willey,TK Curran,AU Rashid
+D,won,1,1,lost,v South Africa,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,JC Archer,AU Rashid
+D,lost,1,2,won,v Pakistan,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,JC Archer,AU Rashid,MA Wood
+D,won,1,1,lost,v Bangladesh,JJ Roy,JM Bairstow,JE Root,JC Buttler,EJG Morgan,BA Stokes,CR Woakes,LE Plunkett,JC Archer,AU Rashid,MA Wood
+D,won,1,2,won,v West Indies,JM Bairstow,JE Root,CR Woakes,BA Stokes,JJ Roy,EJG Morgan,JC Buttler,LE Plunkett,JC Archer,AU Rashid,MA Wood
+D,won,1,1,won,v Afghanistan,JM Vince,JM Bairstow,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,JC Archer,AU Rashid,MA Wood
+D,lost,1,2,lost,v Sri Lanka,JM Vince,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,JC Archer,MA Wood
+D,lost,1,2,won,v Australia,JM Vince,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,CR Woakes,MM Ali,AU Rashid,JC Archer,MA Wood
+D,won,1,1,won,v India,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,CR Woakes,LE Plunkett,JC Archer,AU Rashid,MA Wood
+D,won,1,1,won,v New Zealand,JJ Roy,JM Bairstow,JE Root,JC Buttler,EJG Morgan,BA Stokes,CR Woakes,LE Plunkett,AU Rashid,JC Archer,MA Wood
+D,won,1,2,lost,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,CR Woakes,LE Plunkett,AU Rashid,JC Archer,MA Wood
+DN,lost,0,1,lost,v South Africa,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JL Denly,T Banton,SM Curran,CR Woakes,TK Curran,CJ Jordan,MW Parkinson
+D,won,0,2,won,v South Africa,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JL Denly,T Banton,MM Ali,TK Curran,AU Rashid,CJ Jordan,S Mahmood
+DN,won,1,2,won,v Ireland,JJ Roy,JM Bairstow,JM Vince,T Banton,SW Billings,EJG Morgan,MM Ali,DJ Willey,AU Rashid,TK Curran,S Mahmood
+DN,won,1,2,lost,v Ireland,JJ Roy,JM Bairstow,JM Vince,T Banton,SW Billings,EJG Morgan,MM Ali,DJ Willey,AU Rashid,RJW Topley,S Mahmood
+DN,lost,1,1,lost,v Ireland,JJ Roy,JM Bairstow,JM Vince,EJG Morgan,T Banton,SW Billings,MM Ali,DJ Willey,TK Curran,AU Rashid,S Mahmood
+DN,lost,1,2,won,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,MM Ali,CR Woakes,AU Rashid,JC Archer,MA Wood
+DN,won,1,1,won,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,CR Woakes,SM Curran,TK Curran,AU Rashid,JC Archer
+DN,lost,1,1,won,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,CR Woakes,TK Curran,AU Rashid,JC Archer,MA Wood

@@ -1,0 +1,78 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+DN,lost,0,2,won,v South Africa,CJ Chibhabha,Sikandar Raza,H Masakadza,BRM Taylor,SC Williams,CR Ervine,E Chigumbura,SF Mire,T Panyangara,TL Chatara,TP Kamungozi
+DN,lost,0,2,lost,v West Indies,Sikandar Raza,RW Chakabva,H Masakadza,BRM Taylor,BRM Taylor,SC Williams,E Chigumbura,E Chigumbura,T Panyangara,TL Chatara,TL Chatara
+DN,lost,0,2,lost,v Pakistan,CJ Chibhabha,Sikandar Raza,H Masakadza,BRM Taylor,SC Williams,CR Ervine,SF Mire,E Chigumbura,T Mupariwa,T Panyangara,T Panyangara
+DN,lost,0,2,won,v Ireland,CJ Chibhabha,Sikandar Raza,SF Mire,H Masakadza,BRM Taylor,SC Williams,CR Ervine,RW Chakabva,T Panyangara,T Mupariwa,TL Chatara
+DN,lost,0,1,lost,v India,CJ Chibhabha,H Masakadza,SF Mire,BRM Taylor,SC Williams,CR Ervine,Sikandar Raza,RW Chakabva,T Panyangara,T Mupariwa,TL Chatara
+DN,lost,0,2,lost,v Pakistan,V Sibanda,Sikandar Raza,H Masakadza,E Chigumbura,SC Williams,R Mutumbami,P Utseya,CR Ervine,CB Mpofu,T Panyangara,BV Vitori
+DN,lost,0,1,lost,v Pakistan,V Sibanda,CJ Chibhabha,H Masakadza,SC Williams,Sikandar Raza,R Mutumbami,CK Coventry,AG Cremer,T Panyangara,T Mupariwa,BV Vitori
+D,lost,1,2,won,v India,V Sibanda,CJ Chibhabha,H Masakadza,E Chigumbura,SC Williams,Sikandar Raza,R Mutumbami,AG Cremer,DT Tiripano,BV Vitori,T Panyangara
+D,lost,1,2,won,v India,V Sibanda,CJ Chibhabha,H Masakadza,E Chigumbura,SC Williams,Sikandar Raza,R Mutumbami,AG Cremer,N Madziva,DT Tiripano,BV Vitori
+D,lost,1,2,won,v India,H Masakadza,CJ Chibhabha,RW Chakabva,E Chigumbura,R Mutumbami,Sikandar Raza,MN Waller,AG Cremer,P Utseya,DT Tiripano,N Madziva
+D,won,1,2,won,v New Zealand,H Masakadza,CJ Chibhabha,CR Ervine,E Chigumbura,SC Williams,RW Chakabva,Sikandar Raza,AG Cremer,P Utseya,T Panyangara,CB Mpofu
+D,lost,1,1,won,v New Zealand,H Masakadza,CJ Chibhabha,CR Ervine,RW Chakabva,E Chigumbura,SC Williams,Sikandar Raza,AG Cremer,P Utseya,T Panyangara,CB Mpofu
+D,lost,1,2,won,v New Zealand,H Masakadza,CJ Chibhabha,CR Ervine,E Chigumbura,SC Williams,Sikandar Raza,RW Chakabva,AG Cremer,N Madziva,T Panyangara,J Nyumbu
+D,lost,1,2,won,v Pakistan,BB Chari,CJ Chibhabha,H Masakadza,SC Williams,Sikandar Raza,E Chigumbura,R Mutumbami,LM Jongwe,AG Cremer,T Panyangara,J Nyumbu
+D,won,1,1,lost,v Pakistan,H Masakadza,CJ Chibhabha,BB Chari,SC Williams,E Chigumbura,Sikandar Raza,R Mutumbami,LM Jongwe,AG Cremer,T Panyangara,J Nyumbu
+D,lost,1,1,lost,v Pakistan,CJ Chibhabha,R Mutumbami,BB Chari,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,MN Waller,LM Jongwe,T Panyangara,J Nyumbu
+D,won,1,2,won,v Ireland,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,WP Masakadza,T Panyangara,J Nyumbu
+D,won,1,2,won,v Ireland,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,CT Mutombodzi,Sikandar Raza,E Chigumbura,J Nyumbu,WP Masakadza,T Panyangara,LM Jongwe
+D,lost,1,1,lost,v Ireland,CJ Chibhabha,R Mutumbami,BB Chari,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,WP Masakadza,J Nyumbu,LM Jongwe,T Muzarabani
+D,won,1,2,lost,v Afghanistan,R Mutumbami,CJ Chibhabha,CR Ervine,CT Mutombodzi,E Chigumbura,Sikandar Raza,LM Jongwe,TS Chisoro,WP Masakadza,T Panyangara,J Nyumbu
+D,lost,1,2,lost,v Afghanistan,CJ Chibhabha,R Mutumbami,CR Ervine,CT Mutombodzi,E Chigumbura,Sikandar Raza,TS Chisoro,LM Jongwe,WP Masakadza,T Panyangara,J Nyumbu
+D,won,1,2,lost,v Afghanistan,R Mutumbami,CJ Chibhabha,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,TS Chisoro,LM Jongwe,WP Masakadza,T Panyangara
+D,lost,1,1,won,v Afghanistan,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,LM Jongwe,TS Chisoro,T Panyangara,WP Masakadza
+D,lost,1,2,won,v Afghanistan,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,CT Mutombodzi,Sikandar Raza,E Chigumbura,TS Chisoro,LM Jongwe,WP Masakadza,T Panyangara
+DN,lost,0,2,won,v Bangladesh,CJ Chibhabha,LM Jongwe,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,MN Waller,AG Cremer,T Panyangara,CT Mutombodzi,R Mutumbami
+DN,lost,0,2,won,v Bangladesh,CJ Chibhabha,RW Chakabva,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,T Panyangara,T Muzarabani
+DN,lost,0,2,lost,v Bangladesh,CJ Chibhabha,RW Chakabva,CR Ervine,SC Williams,E Chigumbura,MN Waller,Sikandar Raza,LM Jongwe,AG Cremer,T Panyangara,T Muzarabani
+DN,lost,0,2,lost,v Afghanistan,PJ Moor,CJ Chibhabha,CR Ervine,R Mutumbami,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,WP Masakadza,T Muzarabani
+DN,lost,0,1,won,v Afghanistan,PJ Moor,R Mutumbami,H Masakadza,CR Ervine,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,WP Masakadza,T Muzarabani
+DN,won,0,1,won,v Afghanistan,PJ Moor,CJ Chibhabha,H Masakadza,R Mutumbami,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,N Madziva,TS Chisoro
+DN,won,0,1,won,v Afghanistan,PJ Moor,CJ Chibhabha,MN Waller,H Masakadza,R Mutumbami,E Chigumbura,Sikandar Raza,LM Jongwe,AG Cremer,N Madziva,TS Chisoro
+DN,lost,0,1,won,v Afghanistan,PJ Moor,CJ Chibhabha,H Masakadza,R Mutumbami,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,N Madziva,TS Chisoro
+D,lost,1,1,lost,v India,PJ Moor,CJ Chibhabha,H Masakadza,CR Ervine,V Sibanda,Sikandar Raza,E Chigumbura,R Mutumbami,AG Cremer,TL Chatara,T Muzarabani
+D,lost,1,1,lost,v India,H Masakadza,CJ Chibhabha,PJ Moor,V Sibanda,Sikandar Raza,E Chigumbura,R Mutumbami,AG Cremer,TL Chatara,T Muzarabani,SC Williams
+D,lost,1,1,won,v India,H Masakadza,CJ Chibhabha,V Sibanda,T Maruma,MN Waller,E Chigumbura,R Mutumbami,AG Cremer,N Madziva,T Mupariwa,DT Tiripano
+D,lost,1,1,lost,v Sri Lanka,BB Chari,CJ Chibhabha,CR Ervine,Sikandar Raza,SC Williams,PJ Moor,E Chigumbura,AG Cremer,DT Tiripano,CT Mumba,T Panyangara
+D,won,1,1,won,v West Indies,BB Chari,CJ Chibhabha,H Masakadza,CR Ervine,Sikandar Raza,SC Williams,PJ Moor,AG Cremer,DT Tiripano,TS Chisoro,CB Mpofu
+D,lost,1,1,won,v Sri Lanka,H Masakadza,PJ Moor,TK Musakanda,CR Ervine,Sikandar Raza,SC Williams,MN Waller,AG Cremer,DT Tiripano,TS Chisoro,BV Vitori
+D,lost,1,2,lost,v Afghanistan,PJ Moor,SF Mire,CR Ervine,Sikandar Raza,RP Burl,TK Musakanda,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+D,lost,1,2,lost,v Afghanistan,SF Mire,PJ Moor,CR Ervine,H Masakadza,RP Burl,TK Musakanda,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+D,won,1,1,won,v Afghanistan,PJ Moor,SF Mire,TK Musakanda,CR Ervine,SC Williams,RP Burl,MN Waller,AG Cremer,TL Chatara,R Ngarava,CB Mpofu
+D,won,1,2,lost,v Afghanistan,SF Mire,PJ Moor,TK Musakanda,CR Ervine,SC Williams,RP Burl,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+D,lost,1,2,lost,v Afghanistan,PJ Moor,SF Mire,TK Musakanda,CR Ervine,SC Williams,RP Burl,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+D,won,0,2,lost,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,SC Williams,Sikandar Raza,MN Waller,PJ Moor,RP Burl,AG Cremer,DT Tiripano,TL Chatara
+D,lost,0,1,lost,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,SC Williams,Sikandar Raza,RP Burl,MN Waller,PJ Moor,AG Cremer,DT Tiripano,TL Chatara
+D,lost,0,1,lost,v Sri Lanka,H Masakadza,SF Mire,TK Musakanda,CR Ervine,SC Williams,MN Waller,Sikandar Raza,PJ Moor,AG Cremer,CT Mumba,TL Chatara
+D,won,0,2,lost,v Sri Lanka,H Masakadza,SF Mire,TK Musakanda,CR Ervine,SC Williams,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,CB Mpofu,TL Chatara
+D,won,0,2,won,v Sri Lanka,H Masakadza,SF Mire,TK Musakanda,CR Ervine,SC Williams,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,CB Mpofu,TL Chatara
+DN,lost,0,1,lost,v Bangladesh,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+DN,won,0,1,lost,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+DN,lost,0,1,won,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+DN,lost,0,2,lost,v Bangladesh,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,PJ Moor,MN Waller,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+DN,lost,0,2,lost,v Afghanistan,H Masakadza,SF Mire,BRM Taylor,CR Ervine,Sikandar Raza,RP Burl,MN Waller,AG Cremer,KM Jarvis,TL Chatara,BV Vitori
+DN,won,0,1,won,v Afghanistan,SF Mire,H Masakadza,BRM Taylor,CR Ervine,Sikandar Raza,MN Waller,RP Burl,AG Cremer,B Muzarabani,BV Vitori,TL Chatara
+DN,lost,0,1,won,v Afghanistan,H Masakadza,SF Mire,BRM Taylor,CR Ervine,Sikandar Raza,RP Burl,MN Waller,AG Cremer,TL Chatara,BV Vitori,B Muzarabani
+DN,lost,0,1,won,v Afghanistan,SF Mire,H Masakadza,TK Musakanda,BRM Taylor,CR Ervine,Sikandar Raza,RP Burl,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+DN,lost,0,2,lost,v Afghanistan,H Masakadza,TK Musakanda,BRM Taylor,CR Ervine,Sikandar Raza,MN Waller,SF Mire,AG Cremer,TS Chisoro,TL Chatara,B Muzarabani
+D,won,1,1,won,v Afghanistan,SF Mire,C Zhuwao,H Masakadza,BRM Taylor,CR Ervine,Sikandar Raza,AG Cremer,MN Waller,TL Chatara,BV Vitori,B Muzarabani
+D,won,1,1,lost,v Ireland,C Zhuwao,SF Mire,H Masakadza,BRM Taylor,SC Williams,CR Ervine,Sikandar Raza,AG Cremer,TS Chisoro,KM Jarvis,B Muzarabani
+D,lost,1,1,won,v West Indies,SF Mire,C Zhuwao,H Masakadza,BRM Taylor,CR Ervine,SC Williams,Sikandar Raza,AG Cremer,TS Chisoro,KM Jarvis,B Muzarabani
+D,lost,1,2,won,v Pakistan,BB Chari,CJ Chibhabha,H Masakadza,TK Musakanda,PJ Moor,R Murray,DT Tiripano,LN Roche,WP Masakadza,TL Chatara,B Muzarabani
+D,lost,1,1,won,v Pakistan,BB Chari,CJ Chibhabha,H Masakadza,TK Musakanda,PJ Moor,R Murray,DT Tiripano,LN Roche,WP Masakadza,TL Chatara,B Muzarabani
+D,lost,1,1,won,v Pakistan,PS Masvaure,CJ Chibhabha,H Masakadza,TK Musakanda,PJ Moor,R Murray,E Chigumbura,TS Chisoro,WP Masakadza,B Muzarabani,R Ngarava
+D,lost,1,2,lost,v Pakistan,H Masakadza,TS Kamunhukamwe,TK Musakanda,R Murray,PJ Moor,E Chigumbura,DT Tiripano,WP Masakadza,TS Chisoro,B Muzarabani,R Ngarava
+D,lost,1,2,lost,v Pakistan,H Masakadza,TS Kamunhukamwe,PS Masvaure,R Murray,PJ Moor,E Chigumbura,DT Tiripano,LN Roche,WP Masakadza,CB Mpofu,TL Chatara
+D,lost,0,1,lost,v South Africa,H Masakadza,SF Mire,CR Ervine,BRM Taylor,SC Williams,PJ Moor,E Chigumbura,WP Masakadza,B Mavuta,KM Jarvis,TL Chatara
+DN,lost,0,2,lost,v South Africa,SF Mire,H Masakadza,CR Ervine,BRM Taylor,SC Williams,PJ Moor,E Chigumbura,DT Tiripano,B Mavuta,KM Jarvis,TL Chatara
+DN,lost,0,1,won,v South Africa,H Masakadza,SF Mire,CR Ervine,BRM Taylor,SC Williams,PJ Moor,E Chigumbura,DT Tiripano,B Mavuta,KM Jarvis,TL Chatara
+DN,lost,0,2,lost,v Bangladesh,H Masakadza,C Zhuwao,BRM Taylor,CR Ervine,Sikandar Raza,SC Williams,PJ Moor,DT Tiripano,B Mavuta,KM Jarvis,TL Chatara
+DN,lost,0,1,lost,v Bangladesh,H Masakadza,C Zhuwao,BRM Taylor,SC Williams,Sikandar Raza,PJ Moor,E Chigumbura,B Mavuta,DT Tiripano,KM Jarvis,TL Chatara
+DN,lost,0,1,lost,v Bangladesh,H Masakadza,C Zhuwao,BRM Taylor,SC Williams,Sikandar Raza,PJ Moor,E Chigumbura,KM Jarvis,DT Tiripano,R Ngarava,WP Masakadza
+D,lost,0,1,lost,v Ireland,H Masakadza,TS Kamunhukamwe,CR Ervine,BRM Taylor,SC Williams,Sikandar Raza,PJ Moor,RP Burl,DT Tiripano,KM Jarvis,TL Chatara
+D,lost,0,2,won,v Ireland,H Masakadza,SF Mire,CR Ervine,BRM Taylor,SC Williams,Sikandar Raza,RP Burl,R Mutumbami,DT Tiripano,KM Jarvis,TL Chatara
+D,lost,0,1,won,v Ireland,H Masakadza,RP Burl,CR Ervine,BRM Taylor,SC Williams,Sikandar Raza,SF Mire,R Mutumbami,KM Jarvis,CB Mpofu,TL Chatara
+DN,lost,0,2,lost,v Bangladesh,Liton Das,Tamim Iqbal,Najmul Hossain Shanto,Mushfiqur Rahim,Mahmudullah,Mohammad Mithun,Mohammad Saifuddin,ehidy Hasan Miraz,Mashrafe Mortaza,Taijul Islam,Mustafizur Rahman
+DN,lost,0,2,lost,v Bangladesh,TS Kamunhukamwe,RW Chakabva,BRM Taylor,SC Williams,W Madhevere,Sikandar Raza,R Mutumbami,CT Mutombodzi,DT Tiripano,CT Mumba,CK Tshuma
+DN,lost,0,2,won,v Bangladesh,TS Kamunhukamwe,RW Chakabva,BRM Taylor,SC Williams,W Madhevere,Sikandar Raza,R Mutumbami,CT Mutombodzi,DT Tiripano,CT Mumba,CK Tshuma
