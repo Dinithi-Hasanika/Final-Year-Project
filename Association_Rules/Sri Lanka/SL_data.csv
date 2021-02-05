@@ -1,0 +1,106 @@
+Day_Night,Result,Home,Bat,Toss,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+D,lost,0,1,won,v New Zealand,FDM Karunaratne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,HDRL Thirimanne,BMAJ Mendis,NLTC Perera,KMDN Kulasekara,SMSM Senanayake,RMS Eranga
+DN,won,0,2,lost,v New Zealand,FDM Karunaratne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,HDRL Thirimanne,BMAJ Mendis,NLTC Perera,KMDN Kulasekara,SMSM Senanayake,HMRKB Herath
+D,lost,0,1,won,v New Zealand,FDM Karunaratne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,HDRL Thirimanne,NLTC Perera,BMAJ Mendis,KMDN Kulasekara,SMSM Senanayake,HMRKB Herath
+D,lost,0,2,won,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,KMDN Kulasekara,BMAJ Mendis,LD Chandimal,NLTC Perera,FDM Karunaratne,SMSM Senanayake,RAS Lakmal
+D,lost,0,2,lost,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,FDM Karunaratne,LD Chandimal,BMAJ Mendis,NLTC Perera,KTGD Prasad,HMRKB Herath,RAS Lakmal
+DN,won,0,1,won,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,S Prasanna,LD Chandimal,NLTC Perera,KMDN Kulasekara,FDM Karunaratne,RMS Eranga,PVD Chameera
+D,lost,0,2,won,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,FDM Karunaratne,AD Mathews,BMAJ Mendis,KMDN Kulasekara,HMRKB Herath,SL Malinga,RAS Lakmal
+D,won,0,2,won,v Afghanistan,HDRL Thirimanne,TM Dilshan,KC Sangakkara,FDM Karunaratne,DPMD Jayawardene,AD Mathews,BMAJ Mendis,NLTC Perera,HMRKB Herath,SL Malinga,RAS Lakmal
+DN,won,0,1,won,v Bangladesh,HDRL Thirimanne,TM Dilshan,KC Sangakkara,FDM Karunaratne,DPMD Jayawardene,AD Mathews,LD Chandimal,NLTC Perera,HMRKB Herath,SL Malinga,RAS Lakmal
+D,won,0,2,lost,v England,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,FDM Karunaratne,LD Chandimal,NLTC Perera,HMRKB Herath,SL Malinga,RAS Lakmal
+DN,lost,0,2,lost,v Australia,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,LD Chandimal,NLTC Perera,WU Tharanga,S Prasanna,SMSM Senanayake,SL Malinga
+DN,lost,0,1,won,v South Africa,MDKJ Perera,TM Dilshan,KC Sangakkara,HDRL Thirimanne,DPMD Jayawardene,AD Mathews,NLTC Perera,KMDN Kulasekara,PHT Kaushal,PVD Chameera,SL Malinga
+D,lost,1,1,lost,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,WU Tharanga,AD Mathews,LD Chandimal,NLTC Perera,TAM Siriwardana,S Prasanna,SL Malinga,RAS Lakmal
+DN,won,1,2,lost,v Pakistan,MDKJ Perera,TM Dilshan,WU Tharanga,AD Mathews,HDRL Thirimanne,LD Chandimal,TAM Siriwardana,SS Pathirana,NLTC Perera,SL Malinga,N Pradeep
+DN,lost,1,2,lost,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,WU Tharanga,AD Mathews,LD Chandimal,NLTC Perera,TAM Siriwardana,SS Pathirana,SL Malinga,N Pradeep
+DN,lost,1,1,won,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,AD Mathews,LD Chandimal,SMA Priyanjan,TAM Siriwardana,SS Pathirana,SL Malinga,RAS Lakmal,N Pradeep
+DN,won,1,1,won,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,NLTC Perera,SMA Priyanjan,SMSM Senanayake,RAS Lakmal,PLS Gamage
+DN,won,1,2,won,v West Indies,MDKJ Perera,TM Dilshan,HDRL Thirimanne,AD Mathews,MD Gunathilaka,TAM Siriwardana,GSNFG Jayasuriya,SMSM Senanayake,BAW Mendis,SL Malinga,RAS Lakmal
+DN,won,1,2,lost,v West Indies,MDKJ Perera,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,GSNFG Jayasuriya,SMSM Senanayake,BAW Mendis,SL Malinga,RAS Lakmal
+DN,won,1,2,won,v West Indies,MDKJ Perera,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,GSNFG Jayasuriya,SMSM Senanayake,BAW Mendis,SL Malinga,RAS Lakmal
+D,lost,0,1,won,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,BAW Mendis,PVD Chameera,RAS Lakmal
+D,lost,0,1,won,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,SMSM Senanayake,PVD Chameera,JDF Vandersay
+D,won,0,2,lost,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,PVD Chameera,N Pradeep,JDF Vandersay
+D,lost,0,2,won,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,NLTC Perera,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,PVD Chameera,N Pradeep
+D,won,0,1,lost,v Ireland,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,MD Shanaka,S Prasanna,WU Tharanga,DM de Silva,RMS Eranga,N Pradeep
+D,won,0,1,lost,v Ireland,MDKJ Perera,MD Gunathilaka,S Prasanna,MD Shanaka,MF Maharoof,AD Mathews,LD Chandimal,WU Tharanga,BKG Mendis,WU Tharanga,RMS Eranga
+DN,lost,0,1,won,v England,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,S Prasanna,WU Tharanga,MF Maharoof,S Randiv,RAS Lakmal,N Pradeep
+DN,lost,0,1,lost,v England,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,S Prasanna,MD Shanaka,WU Tharanga,MF Maharoof,N Pradeep,RAS Lakmal
+D,lost,0,2,won,v England,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,WU Tharanga,MD Shanaka,S Prasanna,RAS Lakmal,N Pradeep,KMC Bandara
+DN,lost,1,1,lost,v Australia,MDKJ Perera,TM Dilshan,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,TAM Siriwardana,NLTC Perera,MDK Perera,MA Aponso,PADLR Sandakan
+DN,won,1,1,won,v Australia,MD Gunathilaka,TM Dilshan,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,MDKJ Perera,NLTC Perera,S Prasanna,MDK Perera,MA Aponso
+DN,lost,1,1,won,v Australia,MD Gunathilaka,TM Dilshan,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,MDKJ Perera,NLTC Perera,S Prasanna,MDK Perera,MA Aponso
+DN,lost,1,1,won,v Australia,DM de Silva,WIA Fernando,BKG Mendis,LD Chandimal,AD Mathews,AK Perera,MDKJ Perera,NLTC Perera,SS Pathirana,MDK Perera,MA Aponso
+DN,lost,1,1,won,v Australia,DM de Silva,MD Gunathilaka,BKG Mendis,LD Chandimal,WU Tharanga,MDKJ Perera,MD Shanaka,SS Pathirana,MDK Perera,RAS Lakmal,MA Aponso
+D,won,0,2,won,v Zimbabwe,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,WU Tharanga,GSNFG Jayasuriya,DAS Gunaratne,SS Pathirana,KMDN Kulasekara,RAS Lakmal,N Pradeep
+D,lost,0,2,won,v West Indies,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,WU Tharanga,DAS Gunaratne,GSNFG Jayasuriya,SS Pathirana,KMDN Kulasekara,RAS Lakmal,N Pradeep
+D,won,0,1,lost,v West Indies,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,GSNFG Jayasuriya,WU Tharanga,DAS Gunaratne,SS Pathirana,KMDN Kulasekara,N Pradeep,RAS Lakmal
+D,won,0,2,lost,v Zimbabwe,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,WU Tharanga,DAS Gunaratne,MD Shanaka,SS Pathirana,KMDN Kulasekara,JDF Vandersay,RAS Lakmal
+D,lost,0,1,lost,v South Africa,N Dickwella,DS Weerakkody,BKG Mendis,LD Chandimal,WU Tharanga,DM de Silva,DAS Gunaratne,KMDN Kulasekara,JDF Vandersay,RAS Lakmal,PADLR Sandakan
+DN,lost,0,2,won,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,LD Chandimal,DM de Silva,DAS Gunaratne,PC de Silva,SS Pathirana,KMDN Kulasekara,RAS Lakmal,PADLR Sandakan
+DN,lost,0,1,lost,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,LD Chandimal,DM de Silva,DAS Gunaratne,SS Pathirana,LD Madushanka,RAS Lakmal,CBRLS Kumara,PADLR Sandakan
+DN,lost,0,2,lost,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,DS Weerakkody,DM de Silva,DAS Gunaratne,KMDN Kulasekara,SS Pathirana,LD Madushanka,CBRLS Kumara,PADLR Sandakan
+DN,lost,0,2,won,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,DS Weerakkody,DM de Silva,DAS Gunaratne,SS Pathirana,LD Madushanka,JDF Vandersay,RAS Lakmal,CBRLS Kumara
+DN,lost,1,2,won,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,LD Chandimal,DAS Gunaratne,TAM Siriwardana,SS Pathirana,NLTC Perera,RAS Lakmal,PADLR Sandakan,CBRLS Kumara
+D,won,1,1,lost,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,LD Chandimal,TAM Siriwardana,DAS Gunaratne,NLTC Perera,S Prasanna,MDK Perera,KMDN Kulasekara,RAS Lakmal
+D,lost,0,2,won,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,LD Chandimal,CK Kapugedera,MDKJ Perera,DAS Gunaratne,S Prasanna,RAS Lakmal,SL Malinga,N Pradeep
+D,won,0,2,won,v India,N Dickwella,MD Gunathilaka,BKG Mendis,MDKJ Perera,AD Mathews,DAS Gunaratne,LD Chandimal,NLTC Perera,RAS Lakmal,SL Malinga,N Pradeep
+D,lost,0,1,lost,v Pakistan,N Dickwella,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,DAS Gunaratne,NLTC Perera,RAS Lakmal,SL Malinga,N Pradeep
+D,lost,1,1,won,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,LD Madushanka,SL Malinga,N Pradeep,MA Aponso,A Dananjaya
+D,won,1,2,won,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,PWH de Silva,SL Malinga,N Pradeep,PVD Chameera,PADLR Sandakan
+D,won,1,2,won,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,PWH de Silva,PVD Chameera,PADLR Sandakan,SL Malinga,N Pradeep
+D,lost,1,1,won,v Zimbabwe,N Dickwella,MD Gunathilaka,AD Mathews,WU Tharanga,DAS Gunaratne,BKG Mendis,PWH de Silva,SL Malinga,AM Fernando,PVD Chameera,PADLR Sandakan
+D,lost,1,1,lost,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,PWH de Silva,KMDN Kulasekara,A Dananjaya,PVD Chameera,SL Malinga
+DN,lost,1,1,lost,v India,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,CK Kapugedera,PWH de Silva,NLTC Perera,PADLR Sandakan,SL Malinga,MVT Fernando
+DN,lost,1,1,lost,v India,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,TAM Siriwardana,CK Kapugedera,A Dananjaya,PVD Chameera,MVT Fernando,SL Malinga
+DN,lost,1,1,won,v India,N Dickwella,LD Chandimal,BKG Mendis,HDRL Thirimanne,AD Mathews,CK Kapugedera,TAM Siriwardana,A Dananjaya,PVD Chameera,MVT Fernando,SL Malinga
+DN,lost,1,2,lost,v India,N Dickwella,EMDY Munaweera,BKG Mendis,HDRL Thirimanne,AD Mathews,TAM Siriwardana,PWH de Silva,A Dananjaya,PM Pushpakumara,MVT Fernando,SL Malinga
+DN,lost,1,1,won,v India,N Dickwella,WU Tharanga,EMDY Munaweera,HDRL Thirimanne,AD Mathews,TAM Siriwardana,PWH de Silva,A Dananjaya,PM Pushpakumara,MVT Fernando,SL Malinga
+DN,lost,0,2,won,v Pakistan,N Dickwella,WU Tharanga,LD Chandimal,HDRL Thirimanne,BKG Mendis,TAM Siriwardana,NLTC Perera,A Dananjaya,JDF Vandersay,RAS Lakmal,PLS Gamage
+DN,lost,0,2,lost,v Pakistan,N Dickwella,WU Tharanga,BKG Mendis,HDRL Thirimanne,LD Chandimal,TAM Siriwardana,NLTC Perera,A Dananjaya,JDF Vandersay,RAS Lakmal,PLS Gamage
+DN,lost,0,1,won,v Pakistan,N Dickwella,WU Tharanga,LD Chandimal,CK Kapugedera,HDRL Thirimanne,TAM Siriwardana,JDF Vandersay,NLTC Perera,A Dananjaya,PVD Chameera,PLS Gamage
+DN,lost,0,1,won,v Pakistan,N Dickwella,WU Tharanga,LD Chandimal,HDRL Thirimanne,S Samarawickrama,TAM Siriwardana,S Prasanna,NLTC Perera,A Dananjaya,RAS Lakmal,PLS Gamage
+DN,lost,0,1,won,v Pakistan,WU Tharanga,S Samarawickrama,LD Chandimal,HDRL Thirimanne,N Dickwella,TAM Siriwardana,S Prasanna,NLTC Perera,JDF Vandersay,PVD Chameera,MVT Fernando
+DN,won,0,2,won,v India,MD Gunathilaka,WU Tharanga,HDRL Thirimanne,AD Mathews,N Dickwella,DAS Gunaratne,NLTC Perera,SS Pathirana,RAS Lakmal,A Dananjaya,N Pradeep
+DN,lost,0,2,won,v India,MD Gunathilaka,WU Tharanga,HDRL Thirimanne,AD Mathews,N Dickwella,DAS Gunaratne,NLTC Perera,SS Pathirana,A Dananjaya,RAS Lakmal,N Pradeep
+DN,lost,0,1,lost,v India,MD Gunathilaka,WU Tharanga,S Samarawickrama,AD Mathews,N Dickwella,DAS Gunaratne,NLTC Perera,SS Pathirana,A Dananjaya,RAS Lakmal,N Pradeep
+DN,lost,0,2,won,v Zimbabwe,MDKJ Perera,WU Tharanga,BKG Mendis,AD Mathews,LD Chandimal,DAS Gunaratne,NLTC Perera,PWH de Silva,A Dananjaya,RAS Lakmal,PVD Chameera
+DN,lost,0,2,lost,v Bangladesh,MDKJ Perera,WU Tharanga,BKG Mendis,N Dickwella,LD Chandimal,DAS Gunaratne,NLTC Perera,PWH de Silva,A Dananjaya,RAS Lakmal,N Pradeep
+DN,won,0,2,lost,v Zimbabwe,MDKJ Perera,WU Tharanga,BKG Mendis,N Dickwella,LD Chandimal,DAS Gunaratne,NLTC Perera,PADLR Sandakan,A Dananjaya,RAS Lakmal,N Pradeep
+DN,won,0,2,lost,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,LD Chandimal,DAS Gunaratne,N Dickwella,NLTC Perera,RAS Lakmal,PADLR Sandakan,A Dananjaya,PVD Chameera
+DN,won,0,1,won,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,N Dickwella,LD Chandimal,NLTC Perera,DAS Gunaratne,A Dananjaya,DSK Madushanka,RAS Lakmal,PVD Chameera
+D,lost,1,1,won,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,MDKJ Perera,AD Mathews,GSNFG Jayasuriya,NLTC Perera,A Dananjaya,RAS Lakmal,PADLR Sandakan,CBRLS Kumara
+DN,lost,1,1,won,v South Africa,WU Tharanga,N Dickwella,BKG Mendis,MDKJ Perera,AD Mathews,GSNFG Jayasuriya,NLTC Perera,A Dananjaya,RAS Lakmal,NGRP Jayasuriya,CAK Rajitha
+D,lost,1,2,won,v South Africa,WU Tharanga,N Dickwella,MDKJ Perera,BKG Mendis,NLTC Perera,AD Mathews,DM de Silva,A Dananjaya,RAS Lakmal,NGRP Jayasuriya,CBRLS Kumara
+DN,won,1,1,lost,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,MDKJ Perera,AD Mathews,DM de Silva,NLTC Perera,MD Shanaka,A Dananjaya,RAS Lakmal,CBRLS Kumara
+DN,won,1,1,won,v South Africa,N Dickwella,WU Tharanga,MDKJ Perera,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,MD Shanaka,A Dananjaya,RAS Lakmal,CBRLS Kumara
+DN,lost,0,2,lost,v Bangladesh,WU Tharanga,BKG Mendis,MDKJ Perera,DM de Silva,AD Mathews,MD Shanaka,NLTC Perera,MDK Perera,RAS Lakmal,MA Aponso,SL Malinga
+DN,lost,0,2,lost,v Afghanistan,BKG Mendis,WU Tharanga,DM de Silva,MDKJ Perera,AD Mathews,GSNFG Jayasuriya,NLTC Perera,MD Shanaka,A Dananjaya,SL Malinga,PVD Chameera
+D,lost,1,2,won,v England,N Dickwella,WU Tharanga,LD Chandimal,MDKJ Perera,MD Shanaka,DM de Silva,NLTC Perera,A Dananjaya,PADLR Sandakan,SL Malinga,N Pradeep
+DN,lost,1,1,lost,v England,N Dickwella,S Samarawickrama,BKG Mendis,LD Chandimal,NLTC Perera,DM de Silva,MD Shanaka,A Dananjaya,SL Malinga,MA Aponso,N Pradeep
+D,lost,1,1,lost,v England,N Dickwella,S Samarawickrama,LD Chandimal,BKG Mendis,DM de Silva,MD Shanaka,NLTC Perera,A Dananjaya,SL Malinga,MA Aponso,CAK Rajitha
+DN,won,1,1,won,v England,N Dickwella,S Samarawickrama,LD Chandimal,BKG Mendis,MD Shanaka,NLTC Perera,DM de Silva,A Dananjaya,PVD Chameera,CAK Rajitha,PADLR Sandakan
+DN,lost,0,2,lost,v New Zealand,N Dickwella,MD Gunathilaka,MDKJ Perera,BKG Mendis,LD Chandimal,DAS Gunaratne,NLTC Perera,S Prasanna,SL Malinga,PADLR Sandakan,N Pradeep
+DN,lost,0,2,lost,v New Zealand,N Dickwella,MD Gunathilaka,MDKJ Perera,BKG Mendis,LD Chandimal,DAS Gunaratne,NLTC Perera,S Prasanna,SL Malinga,PADLR Sandakan,N Pradeep
+D,lost,0,2,won,v New Zealand,N Dickwella,DM de Silva,MDKJ Perera,BKG Mendis,MD Shanaka,NLTC Perera,MD Gunathilaka,PVD Chameera,SL Malinga,PADLR Sandakan,N Pradeep
+D,lost,0,1,lost,v South Africa,N Dickwella,WU Tharanga,MDKJ Perera,BOP Fernando,BKG Mendis,DM de Silva,NLTC Perera,A Dananjaya,SL Malinga,PADLR Sandakan,MVT Fernando
+DN,lost,0,2,won,v South Africa,N Dickwella,WIA Fernando,MDKJ Perera,BOP Fernando,BKG Mendis,DM de Silva,NLTC Perera,A Dananjaya,CAK Rajitha,SL Malinga,MVT Fernando
+D,lost,0,2,won,v South Africa,WIA Fernando,N Dickwella,BOP Fernando,BKG Mendis,NLTC Perera,PHKD Mendis,I Udana,MDKJ Perera,A Dananjaya,CAK Rajitha,SL Malinga
+DN,lost,0,1,lost,v South Africa,WIA Fernando,WU Tharanga,BOP Fernando,BKG Mendis,PARP Perera,PHKD Mendis,DM de Silva,NLTC Perera,I Udana,SL Malinga,CAK Rajitha
+DN,lost,0,1,won,v South Africa,WIA Fernando,WU Tharanga,BOP Fernando,BKG Mendis,AK Perera,PARP Perera,NLTC Perera,DM de Silva,I Udana,A Dananjaya,SL Malinga
+D,lost,0,1,lost,v New Zealand,HDRL Thirimanne,FDM Karunaratne,MDKJ Perera,BKG Mendis,DM de Silva,AD Mathews,BMAJ Mendis,NLTC Perera,I Udana,RAS Lakmal,SL Malinga
+D,won,0,1,lost,v Afghanistan,FDM Karunaratne,MDKJ Perera,HDRL Thirimanne,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,I Udana,RAS Lakmal,SL Malinga,N Pradeep
+D,lost,0,2,won,v Australia,FDM Karunaratne,MDKJ Perera,HDRL Thirimanne,BKG Mendis,AD Mathews,TAM Siriwardana,NLTC Perera,DM de Silva,I Udana,SL Malinga,N Pradeep
+D,won,0,1,won,v England,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,BMAJ Mendis,DM de Silva,NLTC Perera,I Udana,SL Malinga,N Pradeep
+D,lost,0,1,lost,v South Africa,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,DM de Silva,BMAJ Mendis,NLTC Perera,I Udana,RAS Lakmal,SL Malinga
+D,won,0,1,lost,v West Indies,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,HDRL Thirimanne,I Udana,DM de Silva,JDF Vandersay,CAK Rajitha,SL Malinga
+D,lost,0,1,won,v India,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,HDRL Thirimanne,DM de Silva,NLTC Perera,I Udana,CAK Rajitha,SL Malinga
+DN,won,1,1,won,v Bangladesh,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,HDRL Thirimanne,NLTC Perera,DM de Silva,SL Malinga,N Pradeep,CBRLS Kumara
+DN,won,1,2,lost,v Bangladesh,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,HDRL Thirimanne,DM de Silva,A Dananjaya,I Udana,N Pradeep,CBRLS Kumara
+DN,won,1,1,won,v Bangladesh,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,MD Shanaka,GSNFG Jayasuriya,PWH de Silva,A Dananjaya,CAK Rajitha,CBRLS Kumara
+DN,lost,0,2,lost,v Pakistan,MD Gunathilaka,S Samarawickrama,WIA Fernando,BOP Fernando,HDRL Thirimanne,GSNFG Jayasuriya,MD Shanaka,PWH de Silva,I Udana,CBRLS Kumara,N Pradeep
+DN,lost,0,1,won,v Pakistan,MD Gunathilaka,WIA Fernando,HDRL Thirimanne,AK Perera,M Bhanuka,GSNFG Jayasuriya,MD Shanaka,PWH de Silva,PADLR Sandakan,N Pradeep,CBRLS Kumara
+DN,won,1,2,won,v West Indies,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,PWH de Silva,I Udana,PADLR Sandakan,N Pradeep
+DN,won,1,1,lost,v West Indies,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,NLTC Perera,AD Mathews,DM de Silva,PWH de Silva,I Udana,PADLR Sandakan,N Pradeep
+DN,won,1,1,won,v West Indies,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,PWH de Silva,I Udana,PADLR Sandakan,N Pradeep
