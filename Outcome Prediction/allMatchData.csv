@@ -1,0 +1,1101 @@
+Innings ID,Team,Day_Night,Home,Ground,Result,Toss,Bat,Opposition,p1,p2,p3,p4,p5,p6,p7,p8,p9,p10,p11
+1016,Afghanistan,DN,0,Dubai (DSC),lost,lost,1st,v Ireland,Javed Ahmadi,Usman Ghani,Afsar Zazai,Nasir Jamal,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Mirwais Ashraf,Dawlat Zadran,Hamid Hassan,Aftab Alam
+1025,Afghanistan,D,0,Dubai (DSC),won,lost,1st,v Ireland,Javed Ahmadi,Usman Ghani,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Afsar Zazai,Mirwais Ashraf,Dawlat Zadran,Aftab Alam,Hamid Hassan
+1068,Afghanistan,DN,0,Canberra,lost,lost,2nd,v Bangladesh,Javed Ahmadi,Afsar Zazai,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Mirwais Ashraf,Aftab Alam,Hamid Hassan,Shapoor Zadran
+1074,Afghanistan,D,0,Dunedin,lost,lost,1st,v Sri Lanka,Javed Ahmadi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Afsar Zazai,Mirwais Ashraf,Dawlat Zadran,Hamid Hassan,Shapoor Zadran
+1092,Afghanistan,DN,0,Perth,lost,won,2nd,v Australia,Javed Ahmadi,Usman Ghani,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Afsar Zazai,Dawlat Zadran,Hamid Hassan,Shapoor Zadran
+1100,Afghanistan,D,0,Napier,lost,won,1st,v New Zealand,Javed Ahmadi,Usman Ghani,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Afsar Zazai,Najibullah Zadran,Dawlat Zadran,Hamid Hassan,Shapoor Zadran
+1110,Afghanistan,DN,0,Sydney,lost,lost,1st,v England,Javed Ahmadi,Nawroz Mangal,Afsar Zazai,Nasir Jamal,Samiullah Shinwari,Shafiqullah,Mohammad Nabi,Najibullah Zadran,Hamid Hassan,Dawlat Zadran,Shapoor Zadran
+1218,Afghanistan,D,0,Bulawayo,lost,won,1st,v Zimbabwe,Noor Ali Zadran,Nawroz Mangal,Mohammad Shahzad,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Amir Hamza,Dawlat Zadran,Aftab Alam,Shapoor Zadran
+1219,Afghanistan,D,0,Bulawayo,won,won,1st,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Najibullah Zadran,Samiullah Shinwari,Rashid Khan,Dawlat Zadran,Aftab Alam,Amir Hamza
+1224,Afghanistan,D,0,Bulawayo,lost,won,1st,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Shafiqullah,Rashid Khan,Dawlat Zadran,Aftab Alam,Amir Hamza
+1225,Afghanistan,D,0,Bulawayo,won,lost,2nd,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Shafiqullah,Rashid Khan,Mirwais Ashraf,Aftab Alam,Shapoor Zadran
+1229,Afghanistan,D,0,Bulawayo,won,lost,1st,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Asghar Afghan,Samiullah Shinwari,Najibullah Zadran,Shafiqullah,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Amir Hamza
+1253,Afghanistan,DN,0,Sharjah,won,won,1st,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Najibullah Zadran,Mirwais Ashraf,Dawlat Zadran,Amir Hamza,Yamin Ahmadzai
+1259,Afghanistan,DN,0,Sharjah,won,lost,2nd,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Nawroz Mangal,Asghar Afghan,Samiullah Shinwari,Najibullah Zadran,Mirwais Ashraf,Rokhan Barakzai,Amir Hamza,Dawlat Zadran
+1264,Afghanistan,DN,0,Sharjah,lost,lost,2nd,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Mohammad Nabi,Asghar Afghan,Hashmatullah Shahidi,Mirwais Ashraf,Samiullah Shinwari,Shafiqullah,Rashid Khan,Dawlat Zadran,Amir Hamza
+1266,Afghanistan,DN,0,Sharjah,lost,lost,2nd,v Zimbabwe,Noor Ali Zadran,Mohammad Shahzad,Asghar Afghan,Rashid Khan,Mohammad Nabi,Hashmatullah Shahidi,Karim Sadiq,Shafiqullah,Mirwais Ashraf,Dawlat Zadran,Amir Hamza
+1269,Afghanistan,DN,0,Sharjah,won,lost,2nd,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Nawroz Mangal,Hashmatullah Shahidi,Mohammad Nabi,Asghar Afghan,Gulbadin Naib,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Amir Hamza
+1335,Afghanistan,D,0,Belfast,won,lost,1st,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Dawlat Zadran,Mirwais Ashraf,Rashid Khan,Shapoor Zadran
+1338,Afghanistan,D,0,Belfast,lost,won,1st,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Mirwais Ashraf,Rashid Khan,Dawlat Zadran,Hamid Hassan
+1339,Afghanistan,D,0,Belfast,won,won,1st,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Yamin Ahmadzai
+1342,Afghanistan,D,0,Belfast,lost,won,2nd,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Gulbadin Naib,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Yamin Ahmadzai
+1368,Afghanistan,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,Shabir Noori,Mohammad Shahzad,Rahmat Shah,Hashmatullah Shahidi,Mohammad Nabi,Najibullah Zadran,Asghar Afghan,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Naveen-ul-Haq
+1371,Afghanistan,DN,0,Dhaka,won,won,2nd,v Bangladesh,Mohammad Shahzad,Nawroz Mangal,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mirwais Ashraf,Dawlat Zadran,Naveen-ul-Haq
+1378,Afghanistan,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,Mohammad Shahzad,Nawroz Mangal,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mirwais Ashraf,Dawlat Zadran
+1459,Afghanistan,D,0,Harare,won,won,1st,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Amir Hamza
+1463,Afghanistan,D,0,Harare,won,won,1st,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Hashmatullah Shahidi,Amir Hamza
+1466,Afghanistan,D,0,Harare,lost,lost,2nd,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Gulbadin Naib,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Amir Hamza,Fareed Ahmad
+1470,Afghanistan,D,0,Harare,lost,won,1st,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Karim Janat,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Fareed Ahmad
+1473,Afghanistan,D,0,Harare,won,won,1st,v Zimbabwe,Mohammad Shahzad,Noor Ali Zadran,Gulbadin Naib,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Amir Hamza
+1485,Afghanistan,D,0,Greater Noida,won,won,1st,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Dawlat Zadran,Amir Hamza,Rashid Khan
+1487,Afghanistan,D,0,Greater Noida,won,won,1st,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Shafiqullah,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Amir Hamza
+1490,Afghanistan,D,0,Greater Noida,lost,won,1st,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Dawlat Zadran,Amir Hamza
+1492,Afghanistan,D,0,Greater Noida,lost,won,1st,v Ireland,Mohammad Shahzad,Usman Ghani,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Gulbadin Naib,Mohammad Nabi,Rashid Khan,Shafiqullah,Dawlat Zadran,Amir Hamza
+1493,Afghanistan,D,0,Greater Noida,won,lost,2nd,v Ireland,Mohammad Shahzad,Najeeb Tarakai,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Rashid Khan,Gulbadin Naib,Dawlat Zadran,Fareed Ahmad,Mohammad Nabi,Shafiqullah
+1539,Afghanistan,DN,0,Gros Islet,won,won,1st,v West Indies,Noor Ali Zadran,Javed Ahmadi,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Afsar Zazai,Gulbadin Naib,Rashid Khan,Amir Hamza,Dawlat Zadran
+1546,Afghanistan,DN,0,Gros Islet,lost,won,1st,v West Indies,Noor Ali Zadran,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Mohammad Nabi,Afsar Zazai,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Amir Hamza
+1623,Afghanistan,DN,0,Sharjah,won,lost,1st,v Ireland,Javed Ahmadi,Ihsanullah,Rahmat Shah,Nasir Jamal,Asghar Afghan,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Dawlat Zadran,Mujeeb Ur Rahman
+1626,Afghanistan,DN,0,Sharjah,lost,lost,2nd,v Ireland,Javed Ahmadi,Ihsanullah,Rahmat Shah,Asghar Afghan,Nasir Jamal,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Dawlat Zadran,Mujeeb Ur Rahman
+1630,Afghanistan,DN,0,Sharjah,lost,won,1st,v Ireland,Javed Ahmadi,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Nasir Jamal,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Shafiqullah,Shapoor Zadran,Mujeeb Ur Rahman
+1681,Afghanistan,DN,0,Sharjah,won,won,1st,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Nasir Jamal,Najibullah Zadran,Dawlat Zadran,Mujeeb Ur Rahman,Gulbadin Naib,Mohammad Nabi,Rashid Khan
+1686,Afghanistan,DN,0,Sharjah,lost,lost,2nd,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Nasir Jamal,Najibullah Zadran,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman
+1687,Afghanistan,DN,0,Sharjah,won,lost,2nd,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Nasir Jamal,Mohammad Nabi,Najibullah Zadran,Dawlat Zadran,Mujeeb Ur Rahman,Gulbadin Naib,Asghar Afghan,Rashid Khan
+1691,Afghanistan,DN,0,Sharjah,won,lost,2nd,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Asghar Afghan,Mohammad Nabi,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman,Najibullah Zadran,Rahmat Shah,Nasir Jamal
+1695,Afghanistan,DN,0,Sharjah,won,won,1st,v Zimbabwe,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Asghar Afghan,Nasir Jamal,Mohammad Nabi,Sharafuddin Ashraf,Rashid Khan,Mujeeb Ur Rahman,Shapoor Zadran
+1704,Afghanistan,D,0,Bulawayo,lost,lost,2nd,v Zimbabwe,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Nasir Jamal,Mohammad Nabi,Najibullah Zadran,Sharafuddin Ashraf,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman,Shapoor Zadran
+1711,Afghanistan,D,0,Harare,won,lost,2nd,v West Indies,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman
+1717,Afghanistan,D,0,Harare,won,lost,2nd,v Ireland,Mohammad Shahzad,Gulbadin Naib,Rahmat Shah,Samiullah Shinwari,Mohammad Nabi,Asghar Afghan,Najibullah Zadran,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman
+1719,Afghanistan,D,0,Harare,won,lost,2nd,v West Indies,Mohammad Shahzad,Gulbadin Naib,Rahmat Shah,Samiullah Shinwari,Mohammad Nabi,Asghar Afghan,Najibullah Zadran,Rashid Khan,Sharafuddin Ashraf,Dawlat Zadran,Mujeeb Ur Rahman
+1763,Afghanistan,D,0,Belfast,won,lost,1st,v Ireland,Hazratullah Zazai,Ihsanullah,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Shafiqullah,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+1766,Afghanistan,D,0,Belfast,lost,won,1st,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+1767,Afghanistan,D,0,Belfast,won,lost,2nd,v Ireland,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Najibullah Zadran,Asghar Afghan,Gulbadin Naib,Mohammad Nabi,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+1771,Afghanistan,DN,0,Abu Dhabi,won,won,1st,v Sri Lanka,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+1775,Afghanistan,DN,0,Abu Dhabi,won,won,1st,v Bangladesh,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+1780,Afghanistan,DN,0,Abu Dhabi,lost,won,1st,v Pakistan,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Gulbadin Naib,Rashid Khan,Mujeeb Ur Rahman,Aftab Alam
+1784,Afghanistan,DN,0,Abu Dhabi,lost,lost,2nd,v Bangladesh,Mohammad Shahzad,Ihsanullah,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Samiullah Shinwari,Rashid Khan,Gulbadin Naib,Mujeeb Ur Rahman,Aftab Alam
+1877,Afghanistan,DN,0,Dehradun,won,lost,2nd,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Hashmatullah Shahidi,Gulbadin Naib,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Mujeeb Ur Rahman,Dawlat Zadran
+1886,Afghanistan,DN,0,Dehradun,lost,won,1st,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Samiullah Shinwari,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman
+1891,Afghanistan,DN,0,Dehradun,won,lost,1st,v Ireland,Hazratullah Zazai,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Ikram Alikhil,Gulbadin Naib,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Aftab Alam,Mujeeb Ur Rahman
+1896,Afghanistan,DN,0,Dehradun,lost,lost,1st,v Ireland,Mohammad Shahzad,Javed Ahmadi,Rahmat Shah,Asghar Afghan,Samiullah Shinwari,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Mujeeb Ur Rahman,Zahir Khan,Shapoor Zadran
+1938,Afghanistan,D,0,Belfast,lost,won,2nd,v Ireland,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Dawlat Zadran,Aftab Alam,Mujeeb Ur Rahman
+1941,Afghanistan,D,0,Belfast,won,lost,1st,v Ireland,Mohammad Shahzad,Noor Ali Zadran,Rahmat Shah,Asghar Afghan,Hashmatullah Shahidi,Gulbadin Naib,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Aftab Alam,Mujeeb Ur Rahman
+1950,Afghanistan,DN,0,Bristol,lost,won,1st,v Australia,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Hashmatullah Shahidi,Mohammad Nabi,Gulbadin Naib,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman,Hamid Hassan
+1956,Afghanistan,D,0,Cardiff,lost,won,2nd,v Sri Lanka,Mohammad Shahzad,Hazratullah Zazai,Rahmat Shah,Hashmatullah Shahidi,Mohammad Nabi,Gulbadin Naib,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Hamid Hassan,Mujeeb Ur Rahman
+1966,Afghanistan,DN,0,Taunton,lost,lost,1st,v New Zealand,Hazratullah Zazai,Noor Ali Zadran,Rahmat Shah,Hashmatullah Shahidi,Gulbadin Naib,Mohammad Nabi,Najibullah Zadran,Ikram Alikhil,Rashid Khan,Aftab Alam,Hamid Hassan
+1976,Afghanistan,DN,0,Cardiff,lost,lost,1st,v South Africa,Hazratullah Zazai,Noor Ali Zadran,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Ikram Alikhil,Gulbadin Naib,Rashid Khan,Hamid Hassan,Aftab Alam
+1982,Afghanistan,D,0,Manchester,lost,lost,2nd,v England,Noor Ali Zadran,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Ikram Alikhil,Dawlat Zadran,Mujeeb Ur Rahman
+1990,Afghanistan,D,0,Southampton,lost,lost,2nd,v India,Hazratullah Zazai,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Rashid Khan,Ikram Alikhil,Aftab Alam,Mujeeb Ur Rahman
+1996,Afghanistan,D,0,Southampton,lost,won,2nd,v Bangladesh,Gulbadin Naib,Rahmat Shah,Hashmatullah Shahidi,Asghar Afghan,Mohammad Nabi,Samiullah Shinwari,Ikram Alikhil,Najibullah Zadran,Rashid Khan,Dawlat Zadran,Mujeeb Ur Rahman
+2006,Afghanistan,D,0,Leeds,lost,won,1st,v Pakistan,Rahmat Shah,Gulbadin Naib,Hashmatullah Shahidi,Ikram Alikhil,Asghar Afghan,Mohammad Nabi,Najibullah Zadran,Samiullah Shinwari,Rashid Khan,Hamid Hassan,Mujeeb Ur Rahman
+2020,Afghanistan,D,0,Leeds,lost,lost,2nd,v West Indies,Gulbadin Naib,Rahmat Shah,Ikram Alikhil,Najibullah Zadran,Asghar Afghan,Mohammad Nabi,Samiullah Shinwari,Rashid Khan,Dawlat Zadran,Sayed Shirzad,Mujeeb Ur Rahman
+2050,Afghanistan,DN,0,Lucknow,lost,lost,1st,v West Indies,Hazratullah Zazai,Javed Ahmadi,Rahmat Shah,Ikram Alikhil,Najibullah Zadran,Asghar Afghan,Mohammad Nabi,Gulbadin Naib,Rashid Khan,Naveen-ul-Haq,Mujeeb Ur Rahman
+2052,Afghanistan,DN,0,Lucknow,lost,won,2nd,v West Indies,Hazratullah Zazai,Javed Ahmadi,Rahmat Shah,Ikram Alikhil,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Sharafuddin Ashraf,Mujeeb Ur Rahman,Naveen-ul-Haq
+2054,Afghanistan,DN,0,Lucknow,lost,lost,1st,v West Indies,Hazratullah Zazai,Ibrahim Zadran,Rahmat Shah,Ikram Alikhil,Asghar Afghan,Najibullah Zadran,Mohammad Nabi,Rashid Khan,Sharafuddin Ashraf,Mujeeb Ur Rahman,Yamin Ahmadzai
+1021,Australia,DN,1,Sydney,won,lost,2nd,v England,DA Warner,AJ Finch,SR Watson,SPD Smith,GJ Bailey,GJ Maxwell,BJ Haddin,JP Faulkner,MA Starc,PJ Cummins,XJ Doherty
+1027,Australia,DN,1,Melbourne,won,lost,2nd,v India,AJ Finch,DA Warner,SR Watson,SPD Smith,GJ Maxwell,GJ Bailey,BJ Haddin,JP Faulkner,MA Starc,PJ Cummins,GS Sandhu
+1039,Australia,DN,1,Hobart,won,won,2nd,v England,AJ Finch,SE Marsh,SPD Smith,CL White,GJ Maxwell,JP Faulkner,BJ Haddin,MC Henriques,MA Starc,PJ Cummins,GS Sandhu
+1053,Australia,D,1,Perth,won,lost,1st,v England,AJ Finch,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,BJ Haddin,JP Faulkner,MG Johnson,MA Starc,JR Hazlewood
+1059,Australia,D,1,Melbourne,won,lost,1st,v England,DA Warner,AJ Finch,SR Watson,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,BJ Haddin,MG Johnson,MA Starc,JR Hazlewood
+1084,Australia,DN,0,Auckland,lost,won,1st,v New Zealand,AJ Finch,DA Warner,SR Watson,MJ Clarke,SPD Smith,GJ Maxwell,MR Marsh,BJ Haddin,MG Johnson,MA Starc,PJ Cummins
+1091,Australia,DN,1,Perth,won,lost,1st,v Afghanistan,DA Warner,AJ Finch,SPD Smith,GJ Maxwell,JP Faulkner,MR Marsh,BJ Haddin,MJ Clarke,MA Starc,MG Johnson,JR Hazlewood
+1101,Australia,DN,1,Sydney,won,won,1st,v Sri Lanka,AJ Finch,DA Warner,SPD Smith,MJ Clarke,GJ Maxwell,SR Watson,JP Faulkner,BJ Haddin,MG Johnson,MA Starc,XJ Doherty
+1119,Australia,DN,1,Adelaide,won,lost,2nd,v Pakistan,DA Warner,AJ Finch,SPD Smith,MJ Clarke,SR Watson,GJ Maxwell,BJ Haddin,JP Faulkner,MA Starc,MG Johnson,JR Hazlewood
+1125,Australia,DN,1,Sydney,won,won,1st,v India,AJ Finch,DA Warner,SPD Smith,GJ Maxwell,SR Watson,MJ Clarke,JP Faulkner,BJ Haddin,MG Johnson,MA Starc,JR Hazlewood
+1127,Australia,DN,1,Melbourne,won,lost,2nd,v New Zealand,DA Warner,AJ Finch,SPD Smith,MJ Clarke,SR Watson,GJ Maxwell,BJ Haddin,JP Faulkner,MA Starc,MG Johnson,JR Hazlewood
+1189,Australia,D,0,Belfast,won,won,1st,v Ireland,JA Burns,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,SR Watson,MR Marsh,MS Wade,MA Starc,PJ Cummins,NM Coulter-Nile
+1191,Australia,DN,0,Southampton,won,won,1st,v England,JA Burns,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,SR Watson,MS Wade,MR Marsh,MA Starc,PJ Cummins,NM Coulter-Nile
+1193,Australia,D,0,Lord's,won,lost,1st,v England,JA Burns,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,SR Watson,MR Marsh,MS Wade,NM Coulter-Nile,PJ Cummins,MA Starc
+1196,Australia,DN,0,Manchester,lost,lost,2nd,v England,JA Burns,AJ Finch,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,AC Agar,MA Starc,PJ Cummins,JL Pattinson
+1198,Australia,D,0,Leeds,lost,won,1st,v England,JA Burns,AJ Finch,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,MP Stoinis,JW Hastings,PJ Cummins,JL Pattinson
+1199,Australia,D,0,Manchester,won,lost,2nd,v England,JA Burns,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,GJ Maxwell,MS Wade,AC Agar,MA Starc,PJ Cummins,JW Hastings
+1271,Australia,D,1,Perth,won,lost,2nd,v India,AJ Finch,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,JP Faulkner,MS Wade,SM Boland,JS Paris,JR Hazlewood
+1273,Australia,DN,1,Brisbane,won,lost,2nd,v India,AJ Finch,SE Marsh,SPD Smith,GJ Bailey,GJ Maxwell,MS Wade,KW Richardson,JP Faulkner,SM Boland,JS Paris,JW Hastings
+1275,Australia,DN,1,Melbourne,won,won,2nd,v India,SE Marsh,AJ Finch,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JP Faulkner,JW Hastings,SM Boland,KW Richardson
+1277,Australia,DN,1,Canberra,won,won,1st,v India,DA Warner,AJ Finch,MR Marsh,SPD Smith,GJ Maxwell,GJ Bailey,JP Faulkner,MS Wade,JW Hastings,KW Richardson,NM Lyon
+1280,Australia,DN,1,Sydney,lost,lost,1st,v India,AJ Finch,DA Warner,SPD Smith,GJ Bailey,SE Marsh,MR Marsh,MS Wade,JP Faulkner,JW Hastings,SM Boland,NM Lyon
+1286,Australia,DN,0,Auckland,lost,won,2nd,v New Zealand,SE Marsh,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JP Faulkner,JW Hastings,KW Richardson,JR Hazlewood
+1289,Australia,DN,0,Wellington,won,lost,2nd,v New Zealand,UT Khawaja,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JW Hastings,A Zampa,JR Hazlewood,SM Boland
+1294,Australia,DN,0,Hamilton,lost,won,2nd,v New Zealand,UT Khawaja,DA Warner,SPD Smith,GJ Bailey,GJ Maxwell,MR Marsh,MS Wade,JW Hastings,A Zampa,JR Hazlewood,SM Boland
+1303,Australia,DN,0,Providence,won,won,2nd,v West Indies,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Maxwell,MR Marsh,MS Wade,A Zampa,MA Starc,JR Hazlewood,NM Lyon
+1306,Australia,DN,0,Providence,lost,lost,2nd,v South Africa,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Maxwell,MR Marsh,MS Wade,NM Coulter-Nile,A Zampa,NM Lyon,JR Hazlewood
+1309,Australia,DN,0,Basseterre,won,won,1st,v South Africa,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Bailey,MR Marsh,MS Wade,JP Faulkner,MA Starc,A Zampa,JR Hazlewood
+1314,Australia,DN,0,Basseterre,lost,lost,1st,v West Indies,UT Khawaja,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JP Faulkner,NM Coulter-Nile,A Zampa,JR Hazlewood
+1323,Australia,DN,0,Bridgetown,won,won,2nd,v West Indies,UT Khawaja,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,GJ Maxwell,MS Wade,JP Faulkner,MA Starc,JR Hazlewood,SM Boland
+1329,Australia,DN,0,Bridgetown,won,won,1st,v West Indies,UT Khawaja,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,GJ Maxwell,MS Wade,MA Starc,NM Coulter-Nile,A Zampa,JR Hazlewood
+1345,Australia,DN,0,Colombo (RPS),won,won,2nd,v Sri Lanka,DA Warner,AJ Finch,SPD Smith,MS Wade,GJ Bailey,MC Henriques,TM Head,JP Faulkner,MA Starc,A Zampa,JR Hazlewood
+1348,Australia,DN,0,Colombo (RPS),lost,lost,2nd,v Sri Lanka,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MS Wade,MC Henriques,TM Head,JP Faulkner,MA Starc,A Zampa,NM Lyon
+1353,Australia,DN,0,Dambulla,won,lost,2nd,v Sri Lanka,DA Warner,AJ Finch,SE Marsh,GJ Bailey,TM Head,MS Wade,JP Faulkner,JW Hastings,MA Starc,A Zampa,JR Hazlewood
+1357,Australia,DN,0,Dambulla,won,lost,2nd,v Sri Lanka,DA Warner,AJ Finch,UT Khawaja,GJ Bailey,TM Head,MS Wade,JP Faulkner,JW Hastings,MA Starc,A Zampa,SM Boland
+1361,Australia,DN,0,Pallekele,won,lost,2nd,v Sri Lanka,DA Warner,MS Wade,UT Khawaja,GJ Bailey,TM Head,JP Faulkner,JW Hastings,AJ Finch,MA Starc,A Zampa,SM Boland
+1369,Australia,D,0,Benoni,won,lost,2nd,v Ireland,UT Khawaja,DA Warner,SPD Smith,MR Marsh,GJ Bailey,TM Head,MS Wade,JW Hastings,DJ Worrall,A Zampa,SM Boland
+1376,Australia,DN,0,Centurion,lost,lost,1st,v South Africa,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,A Zampa,DJ Worrall,SM Boland
+1380,Australia,D,0,Johannesburg,lost,won,2nd,v South Africa,AJ Finch,DA Warner,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,JM Mennie,A Zampa,CP Tremain
+1386,Australia,DN,0,Durban,lost,won,1st,v South Africa,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,A Zampa,CP Tremain,DJ Worrall
+1390,Australia,D,0,Port Elizabeth,lost,won,1st,v South Africa,AJ Finch,DA Warner,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JW Hastings,A Zampa,CP Tremain,SM Boland
+1396,Australia,DN,0,Cape Town,lost,lost,2nd,v South Africa,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JM Mennie,CP Tremain,A Zampa,SM Boland
+1417,Australia,DN,1,Sydney,won,won,1st,v New Zealand,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+1419,Australia,DN,1,Canberra,won,lost,1st,v New Zealand,DA Warner,AJ Finch,SPD Smith,TM Head,MR Marsh,MS Wade,GJ Bailey,PJ Cummins,MA Starc,JP Faulkner,JR Hazlewood
+1421,Australia,DN,1,Melbourne,won,won,1st,v New Zealand,DA Warner,AJ Finch,SPD Smith,GJ Bailey,MR Marsh,TM Head,MS Wade,JP Faulkner,MA Starc,PJ Cummins,JR Hazlewood
+1429,Australia,DN,1,Brisbane,won,won,1st,v Pakistan,DA Warner,TM Head,SPD Smith,CA Lynn,MR Marsh,GJ Maxwell,MS Wade,JP Faulkner,PJ Cummins,MA Starc,B Stanlake
+1432,Australia,DN,1,Melbourne,lost,won,1st,v Pakistan,UT Khawaja,DA Warner,SPD Smith,MR Marsh,TM Head,GJ Maxwell,MS Wade,JP Faulkner,MA Starc,PJ Cummins,JR Hazlewood
+1435,Australia,DN,1,Perth,won,won,2nd,v Pakistan,DA Warner,UT Khawaja,SPD Smith,PSP Handscomb,TM Head,GJ Maxwell,MS Wade,JP Faulkner,PJ Cummins,JR Hazlewood,B Stanlake
+1439,Australia,DN,1,Sydney,won,won,1st,v Pakistan,UT Khawaja,DA Warner,SPD Smith,TM Head,GJ Maxwell,MS Wade,MA Starc,PSP Handscomb,PJ Cummins,A Zampa,JR Hazlewood
+1443,Australia,DN,1,Adelaide,won,won,1st,v Pakistan,DA Warner,TM Head,SPD Smith,GJ Maxwell,MS Wade,PSP Handscomb,JP Faulkner,MA Starc,PJ Cummins,A Zampa,JR Hazlewood
+1448,Australia,D,0,Auckland,lost,won,2nd,v New Zealand,AJ Finch,TM Head,SE Marsh,PSP Handscomb,GJ Maxwell,SD Heazlett,MP Stoinis,JP Faulkner,PJ Cummins,MA Starc,JR Hazlewood
+1454,Australia,D,0,Hamilton,lost,lost,2nd,v New Zealand,AJ Finch,SE Marsh,PSP Handscomb,TM Head,GJ Maxwell,MP Stoinis,JP Faulkner,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+1542,Australia,D,0,Birmingham,lost,lost,1st,v England,DA Warner,AJ Finch,SPD Smith,MC Henriques,TM Head,GJ Maxwell,MS Wade,MA Starc,PJ Cummins,A Zampa,JR Hazlewood
+1584,Australia,DN,0,Chennai,lost,lost,2nd,v India,DA Warner,HWR Cartwright,SPD Smith,TM Head,GJ Maxwell,MP Stoinis,MS Wade,JP Faulkner,PJ Cummins,NM Coulter-Nile,A Zampa
+1588,Australia,DN,0,Kolkata,lost,lost,2nd,v India,HWR Cartwright,DA Warner,SPD Smith,TM Head,GJ Maxwell,MP Stoinis,MS Wade,AC Agar,PJ Cummins,NM Coulter-Nile,KW Richardson
+1590,Australia,DN,0,Indore,lost,won,1st,v India,DA Warner,AJ Finch,SPD Smith,GJ Maxwell,TM Head,MP Stoinis,PSP Handscomb,AC Agar,PJ Cummins,NM Coulter-Nile,KW Richardson
+1595,Australia,DN,0,Bengaluru,won,won,1st,v India,AJ Finch,DA Warner,TM Head,SPD Smith,PSP Handscomb,MP Stoinis,MS Wade,PJ Cummins,NM Coulter-Nile,A Zampa,KW Richardson
+1600,Australia,DN,0,Nagpur,lost,won,1st,v India,DA Warner,AJ Finch,SPD Smith,PSP Handscomb,TM Head,MP Stoinis,MS Wade,JP Faulkner,PJ Cummins,NM Coulter-Nile,A Zampa
+1648,Australia,DN,1,Melbourne,lost,lost,1st,v England,AJ Finch,DA Warner,SPD Smith,TM Head,MR Marsh,MP Stoinis,TD Paine,PJ Cummins,MA Starc,AJ Tye,A Zampa
+1658,Australia,DN,1,Brisbane,lost,won,1st,v England,DA Warner,AJ Finch,SPD Smith,TM Head,MR Marsh,MP Stoinis,CL White,AT Carey,MA Starc,AJ Tye,JA Richardson
+1662,Australia,DN,1,Sydney,lost,won,2nd,v England,AJ Finch,DA Warner,CL White,SPD Smith,MR Marsh,MP Stoinis,TD Paine,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+1669,Australia,DN,1,Adelaide,won,won,2nd,v England,DA Warner,TM Head,CL White,SPD Smith,MR Marsh,MP Stoinis,TD Paine,PJ Cummins,AJ Tye,A Zampa,JR Hazlewood
+1674,Australia,D,1,Perth,lost,won,2nd,v England,DA Warner,TM Head,MP Stoinis,SPD Smith,MR Marsh,GJ Maxwell,TD Paine,MA Starc,AJ Tye,A Zampa,JR Hazlewood
+1722,Australia,DN,0,The Oval,lost,won,1st,v England,AJ Finch,TM Head,SE Marsh,MP Stoinis,TD Paine,GJ Maxwell,AC Agar,MG Neser,AJ Tye,KW Richardson,B Stanlake
+1724,Australia,D,0,Cardiff,lost,won,2nd,v England,TM Head,DJM Short,SE Marsh,MP Stoinis,AJ Finch,GJ Maxwell,AC Agar,TD Paine,AJ Tye,JA Richardson,KW Richardson
+1726,Australia,DN,0,Nottingham,lost,won,2nd,v England,DJM Short,TM Head,SE Marsh,MP Stoinis,AJ Finch,GJ Maxwell,TD Paine,AC Agar,JA Richardson,AJ Tye,B Stanlake
+1728,Australia,DN,0,Chester-le-Street,lost,won,1st,v England,AJ Finch,TM Head,SE Marsh,MP Stoinis,AC Agar,AT Carey,TD Paine,MG Neser,JA Richardson,NM Lyon,B Stanlake
+1730,Australia,D,0,Manchester,lost,won,1st,v England,AJ Finch,TM Head,MP Stoinis,SE Marsh,AT Carey,TD Paine,DJM Short,AC Agar,KW Richardson,NM Lyon,B Stanlake
+1818,Australia,D,1,Perth,lost,lost,1st,v South Africa,TM Head,AJ Finch,DJM Short,CA Lynn,AT Carey,GJ Maxwell,MP Stoinis,PJ Cummins,NM Coulter-Nile,MA Starc,JR Hazlewood
+1821,Australia,DN,1,Adelaide,won,lost,1st,v South Africa,AJ Finch,TM Head,SE Marsh,CA Lynn,AT Carey,GJ Maxwell,MP Stoinis,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+1826,Australia,DN,1,Hobart,lost,won,2nd,v South Africa,CA Lynn,AJ Finch,SE Marsh,TM Head,MP Stoinis,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+1839,Australia,DN,1,Sydney,won,won,1st,v India,AT Carey,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,JA Richardson,NM Lyon,PM Siddle,JP Behrendorff
+1842,Australia,DN,1,Adelaide,lost,won,1st,v India,AT Carey,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,JA Richardson,NM Lyon,PM Siddle,JP Behrendorff
+1844,Australia,DN,1,Melbourne,lost,lost,1st,v India,AT Carey,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,JA Richardson,A Zampa,PM Siddle,B Stanlake
+1880,Australia,DN,0,Hyderabad (Deccan),lost,won,1st,v India,UT Khawaja,AJ Finch,MP Stoinis,PSP Handscomb,GJ Maxwell,AJ Turner,AT Carey,NM Coulter-Nile,PJ Cummins,JP Behrendorff,A Zampa
+1888,Australia,DN,0,Nagpur,lost,won,2nd,v India,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,NM Lyon,A Zampa
+1893,Australia,DN,0,Ranchi,won,lost,1st,v India,AJ Finch,UT Khawaja,GJ Maxwell,SE Marsh,MP Stoinis,PSP Handscomb,AT Carey,JA Richardson,PJ Cummins,NM Lyon,A Zampa
+1897,Australia,DN,0,Mohali,won,lost,2nd,v India,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,SE Marsh,PSP Handscomb,AJ Turner,AT Carey,JA Richardson,JP Behrendorff,A Zampa
+1901,Australia,DN,0,Delhi,won,won,1st,v India,UT Khawaja,AJ Finch,PSP Handscomb,GJ Maxwell,MP Stoinis,AJ Turner,AT Carey,JA Richardson,PJ Cummins,NM Lyon,A Zampa
+1907,Australia,DN,0,Sharjah,won,lost,2nd,v Pakistan,UT Khawaja,AJ Finch,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,AT Carey,NM Coulter-Nile,JA Richardson,NM Lyon,A Zampa
+1909,Australia,DN,0,Sharjah,won,lost,2nd,v Pakistan,UT Khawaja,AJ Finch,GJ Maxwell,SE Marsh,MP Stoinis,PSP Handscomb,AT Carey,NM Coulter-Nile,JA Richardson,NM Lyon,A Zampa
+1911,Australia,DN,0,Abu Dhabi,won,won,1st,v Pakistan,UT Khawaja,AJ Finch,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,AT Carey,PJ Cummins,NM Lyon,A Zampa,JP Behrendorff
+1913,Australia,DN,0,Dubai (DSC),won,lost,1st,v Pakistan,AJ Finch,UT Khawaja,SE Marsh,PSP Handscomb,MP Stoinis,GJ Maxwell,AT Carey,NM Coulter-Nile,KW Richardson,NM Lyon,A Zampa
+1915,Australia,DN,0,Dubai (DSC),won,lost,1st,v Pakistan,UT Khawaja,AJ Finch,SE Marsh,GJ Maxwell,MP Stoinis,PSP Handscomb,AT Carey,JP Behrendorff,KW Richardson,NM Lyon,A Zampa
+1949,Australia,DN,0,Bristol,won,lost,2nd,v Afghanistan,AJ Finch,DA Warner,UT Khawaja,SPD Smith,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+1961,Australia,D,0,Nottingham,won,lost,1st,v West Indies,DA Warner,AJ Finch,UT Khawaja,SPD Smith,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+1968,Australia,D,0,The Oval,lost,lost,2nd,v India,DA Warner,AJ Finch,SPD Smith,UT Khawaja,GJ Maxwell,MP Stoinis,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+1969,Australia,D,0,Taunton,won,lost,1st,v Pakistan,AJ Finch,DA Warner,SPD Smith,GJ Maxwell,SE Marsh,UT Khawaja,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,KW Richardson
+1973,Australia,D,0,The Oval,won,lost,1st,v Sri Lanka,AJ Finch,DA Warner,UT Khawaja,SPD Smith,GJ Maxwell,SE Marsh,AT Carey,PJ Cummins,MA Starc,JP Behrendorff,KW Richardson
+1985,Australia,D,0,Nottingham,won,won,1st,v Bangladesh,DA Warner,AJ Finch,UT Khawaja,GJ Maxwell,MP Stoinis,SPD Smith,AT Carey,NM Coulter-Nile,PJ Cummins,MA Starc,A Zampa
+1997,Australia,D,0,Lord's,won,lost,1st,v England,AJ Finch,DA Warner,UT Khawaja,SPD Smith,GJ Maxwell,MP Stoinis,AT Carey,PJ Cummins,MA Starc,NM Lyon,JP Behrendorff
+2007,Australia,DN,0,Lord's,won,won,1st,v New Zealand,DA Warner,AJ Finch,UT Khawaja,SPD Smith,MP Stoinis,GJ Maxwell,AT Carey,PJ Cummins,MA Starc,JP Behrendorff,NM Lyon
+2028,Australia,DN,0,Manchester,lost,lost,2nd,v South Africa,DA Warner,AJ Finch,UT Khawaja,SPD Smith,MP Stoinis,GJ Maxwell,AT Carey,PJ Cummins,MA Starc,JP Behrendorff,NM Lyon
+2034,Australia,D,0,Birmingham,lost,won,1st,v England,DA Warner,AJ Finch,SPD Smith,PSP Handscomb,AT Carey,MP Stoinis,GJ Maxwell,PJ Cummins,MA Starc,JP Behrendorff,NM Lyon
+2067,Australia,D,0,Mumbai,won,won,2nd,v India,DA Warner,AJ Finch,M Labuschagne,SPD Smith,AT Carey,AJ Turner,AC Agar,PJ Cummins,MA Starc,KW Richardson,A Zampa
+2070,Australia,D,0,Rajkot,lost,won,2nd,v India,DA Warner,AJ Finch,SPD Smith,M Labuschagne,AT Carey,AJ Turner,AC Agar,PJ Cummins,MA Starc,KW Richardson,A Zampa
+2072,Australia,D,0,Bengaluru,lost,won,1st,v India,DA Warner,AJ Finch,SPD Smith,M Labuschagne,MA Starc,AT Carey,AJ Turner,AC Agar,PJ Cummins,A Zampa,JR Hazlewood
+2088,Australia,DN,0,Paarl,lost,lost,2nd,v South Africa,DA Warner,AJ Finch,SPD Smith,M Labuschagne,MR Marsh,AT Carey,DJM Short,MA Starc,PJ Cummins,A Zampa,JR Hazlewood
+2096,Australia,DN,0,Bloemfontein,lost,won,1st,v South Africa,DA Warner,AJ Finch,SPD Smith,M Labuschagne,DJM Short,MR Marsh,AT Carey,AC Agar,PJ Cummins,MA Starc,A Zampa
+2100,Australia,D,0,Potchefstroom,lost,lost,1st,v South Africa,DA Warner,AJ Finch,SPD Smith,M Labuschagne,DJM Short,MR Marsh,AT Carey,JA Richardson,KW Richardson,A Zampa,JR Hazlewood
+2101,Australia,DN,1,Sydney,won,won,1st,v New Zealand,DA Warner,AJ Finch,SPD Smith,DJM Short,M Labuschagne,MR Marsh,AT Carey,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+2109,Australia,DN,0,Manchester,won,lost,1st,v England,DA Warner,AJ Finch,MP Stoinis,M Labuschagne,MR Marsh,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+2112,Australia,DN,0,Manchester,lost,lost,2nd,v England,DA Warner,AJ Finch,MP Stoinis,M Labuschagne,MR Marsh,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+2113,Australia,DN,0,Manchester,won,lost,2nd,v England,DA Warner,AJ Finch,MP Stoinis,M Labuschagne,MR Marsh,AT Carey,GJ Maxwell,PJ Cummins,MA Starc,A Zampa,JR Hazlewood
+1067,Bangladesh,DN,0,Canberra,won,won,1st,v Afghanistan,Anamul Haque,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Mushfiqur Rahim,Rubel Hossain,Taskin Ahmed
+1080,Bangladesh,DN,0,Melbourne,lost,lost,2nd,v Sri Lanka,Tamim Iqbal,Anamul Haque,Soumya Sarkar,Mominul Haque,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Rubel Hossain,Taskin Ahmed
+1103,Bangladesh,DN,0,Adelaide,won,lost,1st,v England,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+1108,Bangladesh,DN,0,Hamilton,lost,lost,1st,v New Zealand,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Rubel Hossain,Taijul Islam,Taskin Ahmed
+1118,Bangladesh,DN,0,Melbourne,lost,lost,2nd,v India,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Rubel Hossain,Taskin Ahmed
+1129,Bangladesh,DN,1,Dhaka,won,won,1st,v Pakistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Abul Hasan,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+1131,Bangladesh,DN,1,Dhaka,won,lost,2nd,v Pakistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Nasir Hossain,Sabbir Rahman,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+1133,Bangladesh,DN,1,Dhaka,won,lost,2nd,v Pakistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Shakib Al Hasan,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Taskin Ahmed
+1147,Bangladesh,DN,1,Dhaka,won,won,1st,v India,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Rubel Hossain,Taskin Ahmed,Mustafizur Rahman
+1151,Bangladesh,DN,1,Dhaka,won,lost,2nd,v India,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain,Taskin Ahmed
+1154,Bangladesh,DN,1,Dhaka,lost,won,2nd,v India,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Rubel Hossain,Mustafizur Rahman
+1158,Bangladesh,DN,1,Dhaka,lost,won,1st,v South Africa,Tamim Iqbal,Soumya Sarkar,Liton Das,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Jubair Hossain,Mustafizur Rahman
+1163,Bangladesh,DN,1,Dhaka,won,lost,2nd,v South Africa,Tamim Iqbal,Soumya Sarkar,Liton Das,Mahmudullah,Shakib Al Hasan,Nasir Hossain,Sabbir Rahman,Mushfiqur Rahim,Mustafizur Rahman,Mashrafe Mortaza,Rubel Hossain
+1167,Bangladesh,DN,1,Chattogram,won,lost,2nd,v South Africa,Tamim Iqbal,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Shakib Al Hasan,Mashrafe Mortaza,Mustafizur Rahman,Mahmudullah,Rubel Hossain
+1237,Bangladesh,DN,1,Dhaka,won,lost,1st,v Zimbabwe,Tamim Iqbal,Liton Das,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Al-Amin Hossain,Mustafizur Rahman
+1241,Bangladesh,DN,1,Dhaka,won,lost,1st,v Zimbabwe,Tamim Iqbal,Imrul Kayes,Liton Das,Mahmudullah,Mushfiqur Rahim,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Al-Amin Hossain,Mustafizur Rahman
+1243,Bangladesh,DN,1,Dhaka,won,won,1st,v Zimbabwe,Tamim Iqbal,Imrul Kayes,Mushfiqur Rahim,Liton Das,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Arafat Sunny,Mustafizur Rahman,Al-Amin Hossain
+1367,Bangladesh,DN,1,Dhaka,won,won,1st,v Afghanistan,Tamim Iqbal,Soumya Sarkar,Imrul Kayes,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mashrafe Mortaza,Taijul Islam,Taskin Ahmed,Rubel Hossain
+1372,Bangladesh,DN,1,Dhaka,lost,lost,1st,v Afghanistan,Tamim Iqbal,Soumya Sarkar,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Mosaddek Hossain,Mashrafe Mortaza,Taijul Islam,Taskin Ahmed,Rubel Hossain
+1377,Bangladesh,DN,1,Dhaka,won,won,1st,v Afghanistan,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Mosaddek Hossain,Mosharraf Hossain,Mashrafe Mortaza,Shafiul Islam,Taskin Ahmed
+1388,Bangladesh,DN,1,Dhaka,lost,lost,2nd,v England,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Mashrafe Mortaza,Mosharraf Hossain,Shafiul Islam,Taskin Ahmed
+1391,Bangladesh,DN,1,Dhaka,won,lost,1st,v England,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Nasir Hossain,Mashrafe Mortaza,Shafiul Islam,Taskin Ahmed
+1394,Bangladesh,DN,1,Chattogram,lost,lost,1st,v England,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Mushfiqur Rahim,Shakib Al Hasan,Nasir Hossain,Mosaddek Hossain,Mashrafe Mortaza,Taskin Ahmed,Shafiul Islam
+1424,Bangladesh,D,0,Christchurch,lost,lost,2nd,v New Zealand,Tamim Iqbal,Imrul Kayes,Soumya Sarkar,Mahmudullah,Shakib Al Hasan,Mushfiqur Rahim,Sabbir Rahman,Mosaddek Hossain,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+1426,Bangladesh,D,0,Nelson,lost,won,2nd,v New Zealand,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Shakib Al Hasan,Mosaddek Hossain,Tanbir Hayder,Nurul Hasan,Mashrafe Mortaza,Taskin Ahmed,Subashis Roy
+1428,Bangladesh,D,0,Nelson,lost,won,1st,v New Zealand,Tamim Iqbal,Imrul Kayes,Sabbir Rahman,Mahmudullah,Shakib Al Hasan,Mosaddek Hossain,Nurul Hasan,Tanbir Hayder,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+1495,Bangladesh,DN,0,Dambulla,won,lost,1st,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+1498,Bangladesh,D,0,Colombo (SSC),lost,won,2nd,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mosaddek Hossain,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Taskin Ahmed,Mustafizur Rahman
+1512,Bangladesh,D,0,Dublin,lost,lost,1st,v New Zealand,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+1513,Bangladesh,D,0,Dublin (Malahide),won,won,2nd,v Ireland,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Sunzamul Islam,Mosaddek Hossain,Rubel Hossain,Mashrafe Mortaza,Mustafizur Rahman
+1517,Bangladesh,D,0,Dublin,won,won,2nd,v New Zealand,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mosaddek Hossain,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Nasir Hossain,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain
+1526,Bangladesh,D,0,The Oval,lost,lost,1st,v England,Tamim Iqbal,Soumya Sarkar,Imrul Kayes,Mushfiqur Rahim,Shakib Al Hasan,Sabbir Rahman,Mahmudullah,Mosaddek Hossain,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain
+1537,Bangladesh,D,0,Cardiff,won,lost,2nd,v New Zealand,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Mosaddek Hossain,Taskin Ahmed,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+1552,Bangladesh,D,0,Birmingham,lost,lost,1st,v India,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Mosaddek Hossain,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain,Mustafizur Rahman
+1604,Bangladesh,D,0,Kimberley,lost,won,1st,v South Africa,Imrul Kayes,Liton Das,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mohammad Saifuddin,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain
+1608,Bangladesh,D,0,Paarl,lost,won,2nd,v South Africa,Tamim Iqbal,Imrul Kayes,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain
+1616,Bangladesh,D,0,East London,lost,lost,2nd,v South Africa,Imrul Kayes,Soumya Sarkar,Liton Das,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mashrafe Mortaza,Taskin Ahmed,Rubel Hossain
+1649,Bangladesh,DN,1,Dhaka,won,won,2nd,v Zimbabwe,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Nasir Hossain,Sabbir Rahman,Mashrafe Mortaza,Sunzamul Islam,Mustafizur Rahman,Rubel Hossain
+1659,Bangladesh,DN,1,Dhaka,won,won,1st,v Sri Lanka,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mashrafe Mortaza,Nasir Hossain,Mohammad Saifuddin,Rubel Hossain,Mustafizur Rahman
+1665,Bangladesh,DN,1,Dhaka,won,won,1st,v Zimbabwe,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Nasir Hossain,Mashrafe Mortaza,Sunzamul Islam,Mustafizur Rahman,Rubel Hossain
+1668,Bangladesh,DN,1,Dhaka,lost,won,1st,v Sri Lanka,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Abul Hasan,Nasir Hossain,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+1672,Bangladesh,DN,1,Dhaka,lost,lost,2nd,v Sri Lanka,Tamim Iqbal,Mohammad Mithun,Sabbir Rahman,Mushfiqur Rahim,Mahmudullah,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman,Shakib Al Hasan
+1747,Bangladesh,D,0,Providence,won,won,1st,v West Indies,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Sabbir Rahman,Mushfiqur Rahim,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+1750,Bangladesh,DN,0,Providence,lost,won,2nd,v West Indies,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mosaddek Hossain,Mashrafe Mortaza,Mehidy Hasan Miraz,Rubel Hossain,Mustafizur Rahman
+1751,Bangladesh,D,0,Basseterre,won,won,1st,v West Indies,Tamim Iqbal,Anamul Haque,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Mashrafe Mortaza,Sabbir Rahman,Mosaddek Hossain,Mehidy Hasan Miraz,Rubel Hossain,Mustafizur Rahman
+1769,Bangladesh,DN,0,Dubai (DSC),won,won,1st,v Sri Lanka,Tamim Iqbal,Liton Das,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+1776,Bangladesh,DN,0,Abu Dhabi,lost,lost,2nd,v Afghanistan,Liton Das,Najmul Hossain Shanto,Shakib Al Hasan,Mominul Haque,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mashrafe Mortaza,Abu Hider,Rubel Hossain
+1778,Bangladesh,DN,0,Dubai (DSC),lost,lost,1st,v India,Liton Das,Najmul Hossain Shanto,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman,Rubel Hossain
+1783,Bangladesh,DN,0,Abu Dhabi,won,won,1st,v Afghanistan,Liton Das,Najmul Hossain Shanto,Mohammad Mithun,Mushfiqur Rahim,Shakib Al Hasan,Imrul Kayes,Mahmudullah,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman,Nazmul Islam
+1785,Bangladesh,D,0,Abu Dhabi,won,won,1st,v Pakistan,Liton Das,Soumya Sarkar,Mominul Haque,Mushfiqur Rahim,Mohammad Mithun,Imrul Kayes,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+1788,Bangladesh,D,0,Dubai (DSC),lost,lost,1st,v India,Liton Das,Mehidy Hasan Miraz,Imrul Kayes,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Soumya Sarkar,Mashrafe Mortaza,Nazmul Islam,Mustafizur Rahman,Rubel Hossain
+1803,Bangladesh,DN,1,Dhaka,won,won,1st,v Zimbabwe,Liton Das,Imrul Kayes,Fazle Mahmud,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman,Nazmul Islam
+1807,Bangladesh,DN,1,Chattogram,won,won,2nd,v Zimbabwe,Liton Das,Imrul Kayes,Fazle Mahmud,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman,Nazmul Islam
+1809,Bangladesh,DN,1,Chattogram,won,won,2nd,v Zimbabwe,Liton Das,Imrul Kayes,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Ariful Haque,Nazmul Islam,Mashrafe Mortaza,Mohammad Saifuddin,Abu Hider
+1827,Bangladesh,DN,1,Dhaka,won,lost,2nd,v West Indies,Tamim Iqbal,Liton Das,Imrul Kayes,Mushfiqur Rahim,Shakib Al Hasan,Soumya Sarkar,Mahmudullah,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman,Rubel Hossain
+1830,Bangladesh,DN,1,Dhaka,lost,lost,1st,v West Indies,Tamim Iqbal,Liton Das,Imrul Kayes,Mushfiqur Rahim,Shakib Al Hasan,Mahmudullah,Soumya Sarkar,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman,Rubel Hossain
+1831,Bangladesh,DN,1,Sylhet,won,won,2nd,v West Indies,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Shakib Al Hasan,Mahmudullah,Mashrafe Mortaza,Mehidy Hasan Miraz,Mohammad Saifuddin,Mustafizur Rahman
+1866,Bangladesh,DN,0,Napier,lost,won,1st,v New Zealand,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman
+1868,Bangladesh,D,0,Christchurch,lost,lost,1st,v New Zealand,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman
+1870,Bangladesh,D,0,Dunedin,lost,won,2nd,v New Zealand,Tamim Iqbal,Liton Das,Soumya Sarkar,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mohammad Saifuddin,Mashrafe Mortaza,Mehidy Hasan Miraz,Rubel Hossain,Mustafizur Rahman
+1921,Bangladesh,D,0,Dublin,won,lost,2nd,v West Indies,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mohammad Saifuddin,Mashrafe Mortaza,Mehidy Hasan Miraz,Mustafizur Rahman
+1927,Bangladesh,D,0,Dublin (Malahide),won,lost,2nd,v West Indies,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Abu Jayed,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+1931,Bangladesh,D,0,Dublin,won,lost,2nd,v Ireland,Tamim Iqbal,Liton Das,Shakib Al Hasan,Mushfiqur Rahim,Mahmudullah,Mosaddek Hossain,Sabbir Rahman,Mashrafe Mortaza,Rubel Hossain,Abu Jayed,Mohammad Saifuddin
+1933,Bangladesh,D,0,Dublin (Malahide),won,won,2nd,v West Indies,Tamim Iqbal,Soumya Sarkar,Sabbir Rahman,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+1951,Bangladesh,D,0,The Oval,won,lost,1st,v South Africa,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mehidy Hasan Miraz,Mohammad Saifuddin,Mashrafe Mortaza,Mustafizur Rahman
+1960,Bangladesh,DN,0,The Oval,lost,lost,1st,v New Zealand,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+1964,Bangladesh,D,0,Cardiff,lost,won,2nd,v England,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+1979,Bangladesh,D,0,Taunton,won,won,2nd,v West Indies,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+1986,Bangladesh,D,0,Nottingham,lost,lost,2nd,v Australia,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+1995,Bangladesh,D,0,Southampton,won,lost,1st,v Afghanistan,Liton Das,Tamim Iqbal,Shakib Al Hasan,Mushfiqur Rahim,Soumya Sarkar,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+2016,Bangladesh,D,0,Birmingham,lost,lost,2nd,v India,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mosaddek Hossain,Sabbir Rahman,Mohammad Saifuddin,Mashrafe Mortaza,Rubel Hossain,Mustafizur Rahman
+2024,Bangladesh,D,0,Lord's,lost,lost,2nd,v Pakistan,Tamim Iqbal,Soumya Sarkar,Shakib Al Hasan,Mushfiqur Rahim,Liton Das,Mahmudullah,Mosaddek Hossain,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Mustafizur Rahman
+2036,Bangladesh,DN,0,Colombo (RPS),lost,lost,2nd,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Mohammad Mithun,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mosaddek Hossain,Mehidy Hasan Miraz,Shafiul Islam,Rubel Hossain,Mustafizur Rahman
+2038,Bangladesh,DN,0,Colombo (RPS),lost,won,1st,v Sri Lanka,Tamim Iqbal,Soumya Sarkar,Mohammad Mithun,Mushfiqur Rahim,Mahmudullah,Sabbir Rahman,Mosaddek Hossain,Mehidy Hasan Miraz,Taijul Islam,Mustafizur Rahman,Shafiul Islam
+2040,Bangladesh,DN,0,Colombo (RPS),lost,lost,2nd,v Sri Lanka,Anamul Haque,Tamim Iqbal,Soumya Sarkar,Mushfiqur Rahim,Mohammad Mithun,Mahmudullah,Sabbir Rahman,Mehidy Hasan Miraz,Taijul Islam,Shafiul Islam,Rubel Hossain
+2089,Bangladesh,DN,1,Sylhet,won,won,1st,v Zimbabwe,Liton Das,Tamim Iqbal,Najmul Hossain Shanto,Mushfiqur Rahim,Mahmudullah,Mohammad Mithun,Mohammad Saifuddin,Mehidy Hasan Miraz,Mashrafe Mortaza,Taijul Islam,Mustafizur Rahman
+2093,Bangladesh,DN,1,Sylhet,won,won,1st,v Zimbabwe,Tamim Iqbal,Liton Das,Najmul Hossain Shanto,Mushfiqur Rahim,Mahmudullah,Mohammad Mithun,Mehidy Hasan Miraz,Mashrafe Mortaza,Taijul Islam,Shafiul Islam,Al-Amin Hossain
+2097,Bangladesh,DN,1,Sylhet,won,lost,1st,v Zimbabwe,Tamim Iqbal,Liton Das,Mahmudullah,Afif Hossain,Mohammad Naim,Mohammad Mithun,Mehidy Hasan Miraz,Mashrafe Mortaza,Taijul Islam,Mohammad Saifuddin,Mustafizur Rahman
+1022,England,DN,0,Sydney,lost,won,1st,v Australia,IR Bell,MM Ali,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,CJ Jordan,SCJ Broad,ST Finn
+1033,England,DN,0,Brisbane,won,lost,2nd,v India,IR Bell,MM Ali,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,SCJ Broad,JM Anderson,ST Finn
+1040,England,DN,0,Hobart,lost,lost,1st,v Australia,MM Ali,IR Bell,JWA Taylor,JE Root,EJG Morgan,JC Buttler,RS Bopara,CR Woakes,SCJ Broad,JM Anderson,ST Finn
+1049,England,D,0,Perth,won,won,2nd,v India,IR Bell,MM Ali,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,SCJ Broad,JM Anderson,ST Finn
+1054,England,D,0,Perth,lost,won,2nd,v Australia,MM Ali,IR Bell,JWA Taylor,JE Root,EJG Morgan,RS Bopara,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+1060,England,D,0,Melbourne,lost,won,2nd,v Australia,MM Ali,IR Bell,GS Ballance,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+1070,England,DN,0,Wellington,lost,won,1st,v New Zealand,IR Bell,MM Ali,GS Ballance,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+1086,England,D,0,Wellington,lost,won,1st,v Sri Lanka,MM Ali,IR Bell,GS Ballance,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,SCJ Broad,ST Finn,JM Anderson
+1104,England,DN,0,Adelaide,lost,won,2nd,v Bangladesh,MM Ali,IR Bell,AD Hales,JE Root,EJG Morgan,JWA Taylor,JC Buttler,CR Woakes,CJ Jordan,SCJ Broad,JM Anderson
+1109,England,DN,0,Sydney,won,won,2nd,v Afghanistan,AD Hales,IR Bell,JWA Taylor,JE Root,EJG Morgan,JC Buttler,RS Bopara,CJ Jordan,JC Tredwell,SCJ Broad,JM Anderson
+1139,England,DN,1,Birmingham,won,lost,1st,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,CJ Jordan,LE Plunkett,ST Finn
+1142,England,DN,1,The Oval,lost,lost,2nd,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,LE Plunkett,CJ Jordan,ST Finn
+1144,England,D,1,Southampton,lost,won,1st,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,DJ Willey,MA Wood,ST Finn
+1145,England,DN,1,Nottingham,won,lost,2nd,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,SW Billings,AU Rashid,DJ Willey,MA Wood,ST Finn
+1149,England,D,1,Chester-le-Street,won,won,2nd,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JM Bairstow,SW Billings,DJ Willey,AU Rashid,MA Wood,ST Finn
+1192,England,DN,1,Southampton,lost,lost,2nd,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,MA Wood,ST Finn
+1194,England,D,1,Lord's,lost,won,2nd,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,ST Finn
+1195,England,DN,1,Manchester,won,won,1st,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,LE Plunkett,CR Woakes,AU Rashid,ST Finn
+1197,England,D,1,Leeds,won,lost,2nd,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,LE Plunkett,DJ Willey,AU Rashid,MA Wood
+1200,England,D,1,Manchester,lost,won,1st,v Australia,JJ Roy,AD Hales,JWA Taylor,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,DJ Willey,AU Rashid,MA Wood,RJW Topley
+1246,England,DN,0,Abu Dhabi,lost,won,1st,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,JWA Taylor,JC Buttler,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+1247,England,DN,0,Abu Dhabi,won,won,1st,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,JC Buttler,JWA Taylor,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+1249,England,DN,0,Sharjah,won,lost,2nd,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,JWA Taylor,JC Buttler,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+1251,England,DN,0,Dubai (DSC),won,won,1st,v Pakistan,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,JWA Taylor,MM Ali,CR Woakes,AU Rashid,DJ Willey,RJW Topley
+1287,England,DN,0,Bloemfontein,won,won,1st,v South Africa,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CJ Jordan,AU Rashid,DJ Willey,RJW Topley
+1291,England,D,0,Port Elizabeth,won,lost,2nd,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CJ Jordan,AU Rashid,DJ Willey,RJW Topley
+1296,England,DN,0,Centurion,lost,won,1st,v South Africa,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CJ Jordan,DJ Willey,AU Rashid,RJW Topley
+1298,England,DN,0,Johannesburg,lost,lost,1st,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,SCJ Broad,RJW Topley
+1300,England,D,0,Cape Town,lost,lost,1st,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,SCJ Broad,RJW Topley
+1325,England,DN,1,Birmingham,won,lost,2nd,v Sri Lanka,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,JC Buttler,MM Ali,CR Woakes,DJ Willey,LE Plunkett,AU Rashid
+1331,England,DN,1,The Oval,won,won,2nd,v Sri Lanka,JJ Roy,MM Ali,JE Root,EJG Morgan,JM Bairstow,JC Buttler,AD Hales,CR Woakes,DJ Willey,AU Rashid,LE Plunkett
+1333,England,D,1,Cardiff,won,lost,1st,v Sri Lanka,JJ Roy,JM Vince,JE Root,EJG Morgan,JM Bairstow,JC Buttler,CR Woakes,LE Plunkett,CJ Jordan,DJ Willey,AU Rashid
+1349,England,DN,1,Southampton,won,lost,2nd,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1351,England,D,1,Lord's,won,lost,2nd,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1355,England,DN,1,Nottingham,won,won,1st,v Pakistan,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1359,England,DN,1,Leeds,won,lost,2nd,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JM Bairstow,MM Ali,DJ Willey,LE Plunkett,AU Rashid,CJ Jordan
+1364,England,D,1,Cardiff,lost,lost,1st,v Pakistan,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JM Bairstow,LA Dawson,CR Woakes,DJ Willey,CJ Jordan,MA Wood
+1387,England,DN,0,Dhaka,won,won,1st,v Bangladesh,JJ Roy,JM Vince,BM Duckett,JM Bairstow,BA Stokes,JC Buttler,MM Ali,CR Woakes,DJ Willey,AU Rashid,JT Ball
+1392,England,DN,0,Dhaka,lost,won,2nd,v Bangladesh,JJ Roy,JM Vince,BM Duckett,JM Bairstow,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,DJ Willey,JT Ball
+1393,England,DN,0,Chattogram,won,won,2nd,v Bangladesh,JM Vince,SW Billings,BM Duckett,JM Bairstow,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,JT Ball
+1434,England,DN,0,Pune,lost,lost,1st,v India,JJ Roy,AD Hales,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,DJ Willey,AU Rashid,JT Ball
+1438,England,DN,0,Cuttack,lost,won,2nd,v India,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,DJ Willey,JT Ball
+1441,England,DN,0,Kolkata,won,lost,1st,v India,JJ Roy,SW Billings,JM Bairstow,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,LE Plunkett,DJ Willey,JT Ball
+1477,England,D,0,North Sound,won,lost,1st,v West Indies,JJ Roy,SW Billings,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,AU Rashid,LE Plunkett,ST Finn
+1481,England,D,0,North Sound,won,lost,2nd,v West Indies,JJ Roy,SW Billings,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,ST Finn
+1483,England,D,0,Bridgetown,won,lost,1st,v West Indies,JJ Roy,AD Hales,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CR Woakes,LE Plunkett,AU Rashid,ST Finn
+1505,England,D,1,Bristol,won,lost,2nd,v Ireland,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,SW Billings,AU Rashid,DJ Willey,LE Plunkett,JT Ball,MA Wood
+1507,England,D,1,Lord's,won,lost,1st,v Ireland,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,SW Billings,AU Rashid,DJ Willey,LE Plunkett,JT Ball,MA Wood
+1519,England,DN,1,Leeds,won,lost,1st,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1521,England,D,1,Southampton,won,lost,1st,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+1524,England,D,1,Lord's,lost,lost,1st,v South Africa,JJ Roy,AD Hales,JE Root,EJG Morgan,JM Bairstow,JC Buttler,AU Rashid,DJ Willey,TS Roland-Jones,JT Ball,ST Finn
+1525,England,D,1,The Oval,won,won,2nd,v Bangladesh,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,MA Wood,JT Ball
+1531,England,D,1,Cardiff,won,lost,1st,v New Zealand,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+1541,England,D,1,Birmingham,won,won,2nd,v Australia,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+1550,England,D,1,Cardiff,lost,lost,1st,v Pakistan,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,LE Plunkett,MA Wood,JT Ball
+1585,England,DN,1,Manchester,won,lost,2nd,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,AU Rashid,CR Woakes,DJ Willey,LE Plunkett
+1591,England,D,1,Bristol,won,lost,1st,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,DJ Willey,AU Rashid
+1593,England,DN,1,The Oval,won,won,2nd,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,MM Ali,CR Woakes,AU Rashid,LE Plunkett,JT Ball
+1597,England,DN,1,Southampton,won,won,2nd,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,MM Ali,TK Curran,AU Rashid,LE Plunkett,JT Ball
+1647,England,DN,0,Melbourne,won,won,2nd,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1657,England,DN,0,Brisbane,won,lost,2nd,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1661,England,DN,0,Sydney,won,lost,1st,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1670,England,DN,0,Adelaide,lost,lost,1st,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+1673,England,D,0,Perth,won,lost,1st,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,AU Rashid,DJ Willey,TK Curran,JT Ball
+1698,England,DN,0,Hamilton,lost,lost,1st,v New Zealand,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,DJ Willey,TK Curran,AU Rashid
+1699,England,DN,0,Mount Maunganui,won,won,2nd,v New Zealand,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,DJ Willey,TK Curran,AU Rashid
+1701,England,DN,0,Wellington,won,lost,1st,v New Zealand,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+1706,England,D,0,Dunedin,lost,lost,1st,v New Zealand,JJ Roy,JM Bairstow,JE Root,JC Buttler,EJG Morgan,BA Stokes,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+1707,England,D,0,Christchurch,won,won,2nd,v New Zealand,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,TK Curran,MA Wood
+1721,England,DN,1,The Oval,won,lost,2nd,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+1723,England,D,1,Cardiff,won,lost,1st,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,JC Buttler,SW Billings,MM Ali,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+1725,England,DN,1,Nottingham,won,lost,1st,v Australia,JJ Roy,JM Bairstow,AD Hales,JC Buttler,EJG Morgan,MM Ali,JE Root,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+1727,England,DN,1,Chester-le-Street,won,lost,2nd,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,DJ Willey,C Overton,AU Rashid,MA Wood
+1729,England,D,1,Manchester,won,lost,2nd,v Australia,JJ Roy,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,MM Ali,SM Curran,LE Plunkett,AU Rashid,JT Ball
+1732,England,D,1,Nottingham,lost,lost,1st,v India,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,DJ Willey,AU Rashid,LE Plunkett,MA Wood
+1735,England,D,1,Lord's,won,won,1st,v India,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,DJ Willey,AU Rashid,LE Plunkett,MA Wood
+1739,England,D,1,Leeds,won,won,2nd,v India,JM Vince,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,DJ Willey,LE Plunkett,AU Rashid,MA Wood
+1795,England,D,0,Dambulla,won,lost,1st,v Sri Lanka,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LA Dawson,AU Rashid,OP Stone
+1797,England,DN,0,Pallekele,won,won,2nd,v Sri Lanka,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,TK Curran,AU Rashid,OP Stone
+1799,England,D,0,Pallekele,won,won,2nd,v Sri Lanka,JJ Roy,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,TK Curran,AU Rashid,OP Stone
+1806,England,DN,0,Colombo (RPS),lost,lost,2nd,v Sri Lanka,JJ Roy,AD Hales,JE Root,JC Buttler,BA Stokes,MM Ali,SM Curran,AU Rashid,LE Plunkett,TK Curran,MA Wood
+1871,England,DN,0,Bridgetown,won,lost,2nd,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,AU Rashid,MA Wood
+1874,England,DN,0,Bridgetown,lost,won,2nd,v West Indies,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,TK Curran,AU Rashid,LE Plunkett,MA Wood
+1875,England,D,1,St George's,won,lost,1st,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,AU Rashid,LE Plunkett,MA Wood
+1882,England,DN,0,Gros Islet,lost,lost,1st,v West Indies,JM Bairstow,AD Hales,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,TK Curran,AU Rashid,MA Wood
+1917,England,D,0,Dublin (Malahide),won,won,2nd,v Ireland,JM Vince,DJ Malan,JE Root,EJG Morgan,JL Denly,BT Foakes,DJ Willey,TK Curran,AU Rashid,LE Plunkett,JC Archer
+1925,England,D,1,Southampton,won,lost,1st,v Pakistan,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,DJ Willey,AU Rashid,CR Woakes,LE Plunkett
+1929,England,DN,1,Bristol,won,won,2nd,v Pakistan,JJ Roy,JM Bairstow,JE Root,BA Stokes,MM Ali,EJG Morgan,JL Denly,TK Curran,CR Woakes,DJ Willey,LE Plunkett
+1935,England,DN,1,Nottingham,won,won,2nd,v Pakistan,JJ Roy,JM Vince,JE Root,BA Stokes,JC Buttler,MM Ali,JL Denly,TK Curran,AU Rashid,JC Archer,MA Wood
+1939,England,D,1,Leeds,won,won,1st,v Pakistan,JM Vince,JM Bairstow,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,DJ Willey,TK Curran,AU Rashid
+1943,England,D,1,The Oval,won,lost,1st,v South Africa,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,LE Plunkett,JC Archer,AU Rashid
+1954,England,D,1,Nottingham,lost,won,2nd,v Pakistan,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,JC Archer,AU Rashid,MA Wood
+1963,England,D,1,Cardiff,won,lost,1st,v Bangladesh,JJ Roy,JM Bairstow,JE Root,JC Buttler,EJG Morgan,BA Stokes,CR Woakes,LE Plunkett,JC Archer,AU Rashid,MA Wood
+1971,England,D,1,Southampton,won,won,2nd,v West Indies,JM Bairstow,JE Root,CR Woakes,BA Stokes,JJ Roy,EJG Morgan,JC Buttler,LE Plunkett,JC Archer,AU Rashid,MA Wood
+1981,England,D,1,Manchester,won,won,1st,v Afghanistan,JM Vince,JM Bairstow,JE Root,EJG Morgan,JC Buttler,BA Stokes,MM Ali,CR Woakes,JC Archer,AU Rashid,MA Wood
+1988,England,D,1,Leeds,lost,lost,2nd,v Sri Lanka,JM Vince,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,MM Ali,CR Woakes,AU Rashid,JC Archer,MA Wood
+1998,England,D,1,Lord's,lost,won,2nd,v Australia,JM Vince,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,CR Woakes,MM Ali,AU Rashid,JC Archer,MA Wood
+2009,England,D,1,Birmingham,won,won,1st,v India,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,CR Woakes,LE Plunkett,JC Archer,AU Rashid,MA Wood
+2017,England,D,1,Chester-le-Street,won,won,1st,v New Zealand,JJ Roy,JM Bairstow,JE Root,JC Buttler,EJG Morgan,BA Stokes,CR Woakes,LE Plunkett,AU Rashid,JC Archer,MA Wood
+2033,England,D,1,Birmingham,won,lost,2nd,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,BA Stokes,JC Buttler,CR Woakes,LE Plunkett,AU Rashid,JC Archer,MA Wood
+2074,England,DN,0,Cape Town,lost,lost,1st,v South Africa,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JL Denly,T Banton,SM Curran,CR Woakes,TK Curran,CJ Jordan,MW Parkinson
+2079,England,D,0,Johannesburg,won,won,2nd,v South Africa,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JL Denly,T Banton,MM Ali,TK Curran,AU Rashid,CJ Jordan,S Mahmood
+2103,England,DN,1,Southampton,won,won,2nd,v Ireland,JJ Roy,JM Bairstow,JM Vince,T Banton,SW Billings,EJG Morgan,MM Ali,DJ Willey,AU Rashid,TK Curran,S Mahmood
+2105,England,DN,1,Southampton,won,lost,2nd,v Ireland,JJ Roy,JM Bairstow,JM Vince,T Banton,SW Billings,EJG Morgan,MM Ali,DJ Willey,AU Rashid,RJW Topley,S Mahmood
+2108,England,DN,1,Southampton,lost,lost,1st,v Ireland,JJ Roy,JM Bairstow,JM Vince,EJG Morgan,T Banton,SW Billings,MM Ali,DJ Willey,TK Curran,AU Rashid,S Mahmood
+2110,England,DN,1,Manchester,lost,won,2nd,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,MM Ali,CR Woakes,AU Rashid,JC Archer,MA Wood
+2111,England,DN,1,Manchester,won,won,1st,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,CR Woakes,SM Curran,TK Curran,AU Rashid,JC Archer
+2114,England,DN,1,Manchester,lost,won,1st,v Australia,JJ Roy,JM Bairstow,JE Root,EJG Morgan,JC Buttler,SW Billings,CR Woakes,TK Curran,AU Rashid,JC Archer,MA Wood
+1028,India,DN,0,Melbourne,lost,won,1st,v Australia,RG Sharma,S Dhawan,AM Rahane,V Kohli,SK Raina,MS Dhoni,AR Patel,R Ashwin,B Kumar,Mohammed Shami,UT Yadav
+1034,India,DN,0,Brisbane,lost,won,1st,v England,AM Rahane,S Dhawan,AT Rayudu,V Kohli,SK Raina,MS Dhoni,STR Binny,AR Patel,B Kumar,Mohammed Shami,UT Yadav
+1050,India,D,0,Perth,lost,lost,1st,v England,AM Rahane,S Dhawan,V Kohli,SK Raina,AT Rayudu,MS Dhoni,STR Binny,RA Jadeja,AR Patel,MM Sharma,Mohammed Shami
+1063,India,DN,0,Adelaide,won,won,1st,v Pakistan,RG Sharma,S Dhawan,V Kohli,SK Raina,MS Dhoni,RA Jadeja,AM Rahane,R Ashwin,Mohammed Shami,UT Yadav,MM Sharma
+1075,India,DN,0,Melbourne,won,won,1st,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,UT Yadav,MM Sharma
+1093,India,DN,0,Perth,won,lost,2nd,v West Indies,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,MM Sharma,Mohammed Shami,UT Yadav
+1105,India,DN,0,Hamilton,won,lost,2nd,v Ireland,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+1111,India,DN,0,Auckland,won,won,2nd,v Zimbabwe,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,MM Sharma,Mohammed Shami,UT Yadav
+1117,India,DN,0,Melbourne,won,won,1st,v Bangladesh,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+1126,India,DN,0,Sydney,lost,lost,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,Mohammed Shami,MM Sharma,UT Yadav
+1148,India,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,RA Jadeja,R Ashwin,B Kumar,MM Sharma,UT Yadav
+1152,India,DN,0,Dhaka,lost,won,1st,v Bangladesh,RG Sharma,S Dhawan,V Kohli,MS Dhoni,AT Rayudu,SK Raina,RA Jadeja,AR Patel,R Ashwin,B Kumar,DS Kulkarni
+1153,India,DN,0,Dhaka,won,lost,1st,v Bangladesh,RG Sharma,S Dhawan,V Kohli,MS Dhoni,AT Rayudu,SK Raina,STR Binny,AR Patel,R Ashwin,DS Kulkarni,UT Yadav
+1155,India,D,0,Harare,won,lost,1st,v Zimbabwe,AM Rahane,M Vijay,AT Rayudu,MK Tiwary,RV Uthappa,KM Jadhav,STR Binny,AR Patel,Harbhajan Singh,B Kumar,DS Kulkarni
+1161,India,D,0,Harare,won,lost,1st,v Zimbabwe,AM Rahane,M Vijay,AT Rayudu,MK Tiwary,RV Uthappa,STR Binny,KM Jadhav,Harbhajan Singh,AR Patel,B Kumar,DS Kulkarni
+1165,India,D,0,Harare,won,lost,1st,v Zimbabwe,AM Rahane,M Vijay,RV Uthappa,MK Tiwary,MK Pandey,KM Jadhav,STR Binny,Harbhajan Singh,AR Patel,B Kumar,MM Sharma
+1210,India,D,1,Kanpur,lost,lost,2nd,v South Africa,RG Sharma,S Dhawan,AM Rahane,V Kohli,MS Dhoni,SK Raina,STR Binny,B Kumar,A Mishra,R Ashwin,UT Yadav
+1215,India,DN,1,Indore,won,won,1st,v South Africa,RG Sharma,S Dhawan,AM Rahane,V Kohli,MS Dhoni,SK Raina,AR Patel,B Kumar,Harbhajan Singh,UT Yadav,MM Sharma
+1222,India,DN,1,Rajkot,lost,lost,2nd,v South Africa,RG Sharma,S Dhawan,V Kohli,MS Dhoni,SK Raina,AM Rahane,AR Patel,Harbhajan Singh,B Kumar,MM Sharma,A Mishra
+1227,India,DN,1,Chennai,won,won,1st,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,Harbhajan Singh,AR Patel,B Kumar,MM Sharma,A Mishra
+1232,India,DN,1,Mumbai,lost,lost,2nd,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SK Raina,MS Dhoni,AR Patel,Harbhajan Singh,B Kumar,A Mishra,MM Sharma
+1272,India,D,0,Perth,lost,won,1st,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,RA Jadeja,AM Rahane,MK Pandey,R Ashwin,UT Yadav,B Kumar,BB Sran
+1274,India,DN,0,Brisbane,lost,won,1st,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,MK Pandey,RA Jadeja,R Ashwin,UT Yadav,I Sharma,BB Sran
+1276,India,DN,0,Melbourne,lost,lost,1st,v Australia,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,Gurkeerat Singh,RA Jadeja,R Dhawan,I Sharma,UT Yadav,BB Sran
+1278,India,DN,0,Canberra,lost,lost,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,Gurkeerat Singh,RA Jadeja,AM Rahane,R Dhawan,B Kumar,UT Yadav,I Sharma
+1279,India,DN,0,Sydney,won,won,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,MK Pandey,MS Dhoni,Gurkeerat Singh,RA Jadeja,R Dhawan,JJ Bumrah,UT Yadav,I Sharma
+1307,India,D,0,Harare,won,won,2nd,v Zimbabwe,KL Rahul,KK Nair,AT Rayudu,MK Pandey,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+1311,India,D,0,Harare,won,won,2nd,v Zimbabwe,KL Rahul,KK Nair,AT Rayudu,MK Pandey,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+1315,India,D,0,Harare,won,lost,2nd,v Zimbabwe,KL Rahul,FY Fazal,MK Pandey,AT Rayudu,KM Jadhav,MS Dhoni,AR Patel,DS Kulkarni,JJ Bumrah,BB Sran,YS Chahal
+1397,India,DN,1,Dharamsala,won,won,2nd,v New Zealand,RG Sharma,AM Rahane,V Kohli,MK Pandey,MS Dhoni,KM Jadhav,HH Pandya,AR Patel,A Mishra,JJ Bumrah,UT Yadav
+1400,India,DN,1,Delhi,lost,won,2nd,v New Zealand,RG Sharma,AM Rahane,V Kohli,MK Pandey,MS Dhoni,KM Jadhav,AR Patel,HH Pandya,A Mishra,UT Yadav,JJ Bumrah
+1401,India,DN,1,Mohali,won,won,2nd,v New Zealand,RG Sharma,AM Rahane,V Kohli,MS Dhoni,MK Pandey,KM Jadhav,AR Patel,HH Pandya,A Mishra,UT Yadav,JJ Bumrah
+1404,India,DN,1,Ranchi,lost,lost,2nd,v New Zealand,AM Rahane,RG Sharma,V Kohli,MS Dhoni,AR Patel,MK Pandey,KM Jadhav,HH Pandya,A Mishra,DS Kulkarni,UT Yadav
+1405,India,DN,1,Visakhapatnam,won,won,1st,v New Zealand,AM Rahane,RG Sharma,V Kohli,MS Dhoni,MK Pandey,KM Jadhav,AR Patel,J Yadav,A Mishra,UT Yadav,JJ Bumrah
+1433,India,DN,1,Pune,won,won,2nd,v England,KL Rahul,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,JJ Bumrah,UT Yadav
+1437,India,DN,1,Cuttack,won,lost,1st,v England,KL Rahul,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,JJ Bumrah,B Kumar
+1442,India,DN,1,Kolkata,lost,won,2nd,v England,AM Rahane,KL Rahul,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+1529,India,D,0,Birmingham,won,lost,1st,v Pakistan,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,HH Pandya,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,UT Yadav,JJ Bumrah
+1536,India,D,0,The Oval,lost,lost,1st,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,HH Pandya,KM Jadhav,RA Jadeja,B Kumar,UT Yadav,JJ Bumrah
+1543,India,D,0,The Oval,won,won,2nd,v South Africa,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,HH Pandya,KM Jadhav,RA Jadeja,B Kumar,R Ashwin,JJ Bumrah
+1551,India,D,0,Birmingham,won,won,2nd,v Bangladesh,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+1554,India,D,0,The Oval,lost,won,2nd,v Pakistan,RG Sharma,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,R Ashwin,B Kumar,JJ Bumrah
+1555,India,D,0,Port of Spain,won,lost,1st,v West Indies,AM Rahane,S Dhawan,V Kohli,HH Pandya,Yuvraj Singh,MS Dhoni,KM Jadhav,R Ashwin,Kuldeep Yadav,B Kumar,UT Yadav
+1559,India,D,0,North Sound,won,lost,1st,v West Indies,AM Rahane,S Dhawan,V Kohli,Yuvraj Singh,MS Dhoni,KM Jadhav,HH Pandya,R Ashwin,Kuldeep Yadav,B Kumar,UT Yadav
+1564,India,D,0,North Sound,lost,lost,2nd,v West Indies,AM Rahane,S Dhawan,V Kohli,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,Kuldeep Yadav,UT Yadav,Mohammed Shami
+1567,India,D,0,Kingston,won,lost,2nd,v West Indies,AM Rahane,S Dhawan,V Kohli,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,RA Jadeja,Kuldeep Yadav,UT Yadav,Mohammed Shami
+1573,India,DN,0,Dambulla,won,won,2nd,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,KL Rahul,MS Dhoni,KM Jadhav,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1575,India,DN,0,Pallekele,won,won,2nd,v Sri Lanka,RG Sharma,S Dhawan,KL Rahul,KM Jadhav,V Kohli,MS Dhoni,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1577,India,DN,0,Pallekele,won,lost,2nd,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,KL Rahul,KM Jadhav,MS Dhoni,HH Pandya,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1579,India,DN,0,Colombo (RPS),won,won,1st,v Sri Lanka,RG Sharma,S Dhawan,V Kohli,HH Pandya,KL Rahul,MK Pandey,MS Dhoni,AR Patel,Kuldeep Yadav,JJ Bumrah,SN Thakur
+1581,India,DN,0,Colombo (RPS),won,lost,2nd,v Sri Lanka,RG Sharma,AM Rahane,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,JJ Bumrah,YS Chahal,Kuldeep Yadav,B Kumar,SN Thakur
+1583,India,DN,1,Chennai,won,won,1st,v Australia,AM Rahane,RG Sharma,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1587,India,DN,1,Kolkata,won,won,1st,v Australia,AM Rahane,RG Sharma,V Kohli,MK Pandey,KM Jadhav,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1589,India,DN,1,Indore,won,lost,2nd,v Australia,AM Rahane,RG Sharma,V Kohli,HH Pandya,KM Jadhav,MK Pandey,MS Dhoni,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1596,India,DN,1,Bengaluru,lost,lost,2nd,v Australia,AM Rahane,RG Sharma,V Kohli,HH Pandya,KM Jadhav,MK Pandey,MS Dhoni,AR Patel,Mohammed Shami,UT Yadav,YS Chahal
+1599,India,DN,1,Nagpur,won,lost,2nd,v Australia,AM Rahane,RG Sharma,V Kohli,KM Jadhav,MK Pandey,HH Pandya,MS Dhoni,B Kumar,AR Patel,JJ Bumrah,Kuldeep Yadav
+1614,India,DN,1,Mumbai,lost,won,1st,v New Zealand,RG Sharma,S Dhawan,V Kohli,KM Jadhav,KD Karthik,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1619,India,DN,1,Pune,won,lost,2nd,v New Zealand,RG Sharma,S Dhawan,V Kohli,KD Karthik,HH Pandya,MS Dhoni,KM Jadhav,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1621,India,DN,1,Kanpur,won,lost,1st,v New Zealand,RG Sharma,S Dhawan,V Kohli,HH Pandya,MS Dhoni,KM Jadhav,KD Karthik,AR Patel,B Kumar,JJ Bumrah,YS Chahal
+1628,India,DN,1,Dharamsala,lost,lost,1st,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,KD Karthik,MK Pandey,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1631,India,DN,1,Mohali,won,lost,1st,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,MS Dhoni,HH Pandya,KD Karthik,MK Pandey,B Kumar,Washington Sundar,JJ Bumrah,YS Chahal
+1633,India,DN,1,Visakhapatnam,won,won,2nd,v Sri Lanka,RG Sharma,S Dhawan,SS Iyer,KD Karthik,MS Dhoni,HH Pandya,MK Pandey,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1675,India,DN,0,Durban,won,lost,2nd,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,HH Pandya,MS Dhoni,KM Jadhav,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1677,India,D,0,Centurion,won,won,2nd,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,MS Dhoni,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1679,India,DN,0,Cape Town,won,lost,1st,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,HH Pandya,MS Dhoni,KM Jadhav,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1684,India,DN,0,Johannesburg,lost,won,1st,v South Africa,RG Sharma,S Dhawan,V Kohli,AM Rahane,SS Iyer,MS Dhoni,HH Pandya,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1689,India,DN,0,Port Elizabeth,won,lost,1st,v South Africa,S Dhawan,RG Sharma,V Kohli,AM Rahane,SS Iyer,HH Pandya,MS Dhoni,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1693,India,DN,0,Centurion,won,won,2nd,v South Africa,S Dhawan,RG Sharma,V Kohli,AM Rahane,SS Iyer,MS Dhoni,HH Pandya,Kuldeep Yadav,SN Thakur,JJ Bumrah,YS Chahal
+1731,India,D,0,Nottingham,won,won,2nd,v England,RG Sharma,S Dhawan,V Kohli,KL Rahul,SK Raina,MS Dhoni,HH Pandya,S Kaul,Kuldeep Yadav,UT Yadav,YS Chahal
+1736,India,D,0,Lord's,lost,lost,2nd,v England,RG Sharma,S Dhawan,V Kohli,KL Rahul,SK Raina,MS Dhoni,HH Pandya,UT Yadav,Kuldeep Yadav,S Kaul,YS Chahal
+1740,India,D,0,Leeds,lost,lost,1st,v England,RG Sharma,S Dhawan,V Kohli,KD Karthik,MS Dhoni,SK Raina,HH Pandya,B Kumar,SN Thakur,Kuldeep Yadav,YS Chahal
+1773,India,DN,0,Dubai (DSC),won,lost,2nd,v Pakistan,RG Sharma,S Dhawan,AT Rayudu,KD Karthik,MS Dhoni,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1777,India,DN,0,Dubai (DSC),won,won,2nd,v Bangladesh,RG Sharma,S Dhawan,AT Rayudu,MS Dhoni,KD Karthik,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1781,India,DN,0,Dubai (DSC),won,lost,2nd,v Pakistan,RG Sharma,S Dhawan,AT Rayudu,KM Jadhav,MS Dhoni,KD Karthik,Kuldeep Yadav,RA Jadeja,YS Chahal,B Kumar,JJ Bumrah
+1787,India,D,0,Dubai (DSC),won,won,2nd,v Bangladesh,RG Sharma,S Dhawan,AT Rayudu,KD Karthik,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,JJ Bumrah,YS Chahal
+1801,India,DN,1,Guwahati,won,won,2nd,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,RR Pant,MS Dhoni,RA Jadeja,YS Chahal,UT Yadav,Mohammed Shami,KK Ahmed
+1812,India,DN,1,Pune,lost,won,2nd,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,RR Pant,MS Dhoni,B Kumar,Kuldeep Yadav,YS Chahal,KK Ahmed,JJ Bumrah
+1813,India,DN,1,Mumbai (BS),won,won,1st,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,RA Jadeja,B Kumar,Kuldeep Yadav,KK Ahmed,JJ Bumrah
+1815,India,DN,1,Thiruvananthapuram,won,lost,2nd,v West Indies,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KM Jadhav,MS Dhoni,RA Jadeja,B Kumar,Kuldeep Yadav,KK Ahmed,JJ Bumrah
+1840,India,DN,0,Sydney,lost,lost,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KD Karthik,RA Jadeja,B Kumar,Kuldeep Yadav,Mohammed Shami,KK Ahmed
+1841,India,DN,0,Adelaide,won,lost,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KD Karthik,RA Jadeja,Kuldeep Yadav,B Kumar,Mohammed Shami,Mohammed Siraj
+1843,India,DN,0,Melbourne,won,won,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,MS Dhoni,KM Jadhav,KD Karthik,V Shankar,RA Jadeja,B Kumar,Mohammed Shami,YS Chahal
+1849,India,DN,0,Napier,won,lost,2nd,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KM Jadhav,MS Dhoni,V Shankar,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+1853,India,DN,0,Mount Maunganui,won,won,1st,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+1857,India,DN,0,Mount Maunganui,won,lost,2nd,v New Zealand,RG Sharma,S Dhawan,V Kohli,AT Rayudu,KD Karthik,KM Jadhav,HH Pandya,Kuldeep Yadav,YS Chahal,B Kumar,Mohammed Shami
+1862,India,DN,0,Hamilton,lost,lost,1st,v New Zealand,RG Sharma,S Dhawan,Shubman Gill,AT Rayudu,KD Karthik,KM Jadhav,HH Pandya,B Kumar,Kuldeep Yadav,YS Chahal,KK Ahmed
+1863,India,DN,0,Wellington,won,won,1st,v New Zealand,RG Sharma,S Dhawan,Shubman Gill,AT Rayudu,MS Dhoni,V Shankar,KM Jadhav,HH Pandya,B Kumar,Mohammed Shami,YS Chahal
+1879,India,DN,1,Hyderabad (Deccan),won,lost,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+1887,India,DN,1,Nagpur,won,lost,1st,v Australia,RG Sharma,S Dhawan,V Kohli,AT Rayudu,V Shankar,KM Jadhav,MS Dhoni,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+1894,India,DN,1,Ranchi,lost,won,2nd,v Australia,S Dhawan,RG Sharma,V Kohli,AT Rayudu,MS Dhoni,KM Jadhav,V Shankar,RA Jadeja,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+1898,India,DN,1,Mohali,lost,won,1st,v Australia,RG Sharma,S Dhawan,KL Rahul,V Kohli,RR Pant,KM Jadhav,V Shankar,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1902,India,DN,1,Delhi,lost,lost,2nd,v Australia,RG Sharma,S Dhawan,V Kohli,RR Pant,V Shankar,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,Kuldeep Yadav,JJ Bumrah
+1957,India,D,0,Southampton,won,lost,2nd,v South Africa,S Dhawan,RG Sharma,V Kohli,KL Rahul,MS Dhoni,HH Pandya,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1967,India,D,0,The Oval,won,won,1st,v Australia,RG Sharma,S Dhawan,V Kohli,HH Pandya,MS Dhoni,KL Rahul,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1977,India,D,0,Manchester,won,lost,1st,v Pakistan,KL Rahul,RG Sharma,V Kohli,HH Pandya,MS Dhoni,V Shankar,KM Jadhav,B Kumar,Kuldeep Yadav,YS Chahal,JJ Bumrah
+1989,India,D,0,Southampton,won,won,1st,v Afghanistan,KL Rahul,RG Sharma,V Kohli,V Shankar,MS Dhoni,KM Jadhav,HH Pandya,Mohammed Shami,Kuldeep Yadav,JJ Bumrah,YS Chahal
+2001,India,D,0,Manchester,won,won,1st,v West Indies,KL Rahul,RG Sharma,V Kohli,V Shankar,KM Jadhav,MS Dhoni,HH Pandya,Mohammed Shami,Kuldeep Yadav,YS Chahal,JJ Bumrah
+2010,India,D,0,Birmingham,lost,lost,2nd,v England,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KM Jadhav,Kuldeep Yadav,Mohammed Shami,YS Chahal,JJ Bumrah
+2015,India,D,0,Birmingham,won,won,1st,v Bangladesh,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KD Karthik,B Kumar,Mohammed Shami,JJ Bumrah,YS Chahal
+2025,India,D,0,Leeds,won,lost,2nd,v Sri Lanka,KL Rahul,RG Sharma,V Kohli,RR Pant,HH Pandya,MS Dhoni,KD Karthik,RA Jadeja,B Kumar,JJ Bumrah,Kuldeep Yadav
+2032,India,D,0,Manchester,lost,lost,2nd,v New Zealand,KL Rahul,RG Sharma,V Kohli,RR Pant,KD Karthik,HH Pandya,MS Dhoni,RA Jadeja,B Kumar,YS Chahal,JJ Bumrah
+2041,India,D,0,Port of Spain,won,won,1st,v West Indies,S Dhawan,RG Sharma,V Kohli,RR Pant,SS Iyer,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,Kuldeep Yadav,KK Ahmed
+2043,India,D,0,Port of Spain,won,lost,2nd,v West Indies,RG Sharma,S Dhawan,V Kohli,RR Pant,SS Iyer,KM Jadhav,RA Jadeja,B Kumar,Mohammed Shami,KK Ahmed,YS Chahal
+2056,India,D,1,Chennai,lost,lost,1st,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,S Dube,DL Chahar,Mohammed Shami,Kuldeep Yadav
+2057,India,D,1,Visakhapatnam,won,lost,1st,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,DL Chahar,Mohammed Shami,SN Thakur,Kuldeep Yadav
+2059,India,D,1,Cuttack,won,won,2nd,v West Indies,RG Sharma,KL Rahul,V Kohli,SS Iyer,RR Pant,KM Jadhav,RA Jadeja,SN Thakur,Mohammed Shami,Kuldeep Yadav,NA Saini
+2068,India,D,1,Mumbai,lost,lost,1st,v Australia,RG Sharma,S Dhawan,KL Rahul,V Kohli,SS Iyer,RR Pant,RA Jadeja,SN Thakur,Mohammed Shami,Kuldeep Yadav,JJ Bumrah
+2069,India,D,1,Rajkot,won,lost,1st,v Australia,RG Sharma,S Dhawan,V Kohli,SS Iyer,KL Rahul,MK Pandey,RA Jadeja,Mohammed Shami,Kuldeep Yadav,NA Saini,JJ Bumrah
+2071,India,D,1,Bengaluru,won,lost,2nd,v Australia,RG Sharma,KL Rahul,V Kohli,SS Iyer,MK Pandey,S Dhawan,RA Jadeja,Mohammed Shami,Kuldeep Yadav,NA Saini,JJ Bumrah
+2076,India,DN,0,Hamilton,lost,lost,1st,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,KM Jadhav,RA Jadeja,SN Thakur,Kuldeep Yadav,Mohammed Shami,JJ Bumrah
+2078,India,DN,0,Auckland,lost,won,2nd,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,KM Jadhav,RA Jadeja,SN Thakur,NA Saini,YS Chahal,JJ Bumrah
+2082,India,DN,0,Mount Maunganui,lost,lost,1st,v New Zealand,PP Shaw,MA Agarwal,V Kohli,SS Iyer,KL Rahul,MK Pandey,RA Jadeja,SN Thakur,NA Saini,YS Chahal,JJ Bumrah
+1015,Ireland,DN,0,Dubai (DSC),won,won,2nd,v Afghanistan,WTS Porterfield,PR Stirling,EC Joyce,GC Wilson,NJ O'Brien,KJ O'Brien,A Balbirnie,JF Mooney,AR Cusack,CA Young,GH Dockrell
+1026,Ireland,D,0,Dubai (DSC),lost,won,2nd,v Afghanistan,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,GC Wilson,KJ O'Brien,A Balbirnie,JF Mooney,AR Cusack,GH Dockrell,CA Young
+1065,Ireland,D,0,Nelson,won,won,2nd,v West Indies,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,JF Mooney,MC Sorensen,GH Dockrell,AR McBrine
+1090,Ireland,DN,0,Canberra,lost,lost,2nd,v South Africa,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,JF Mooney,GH Dockrell,MC Sorensen,AR McBrine
+1097,Ireland,DN,0,Hobart,won,lost,1st,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,A Balbirnie,KJ O'Brien,GC Wilson,JF Mooney,NJ O'Brien,GH Dockrell,AR Cusack,AR McBrine
+1106,Ireland,DN,0,Hamilton,lost,won,1st,v India,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,KJ O'Brien,GC Wilson,SR Thompson,JF Mooney,GH Dockrell,AR Cusack
+1114,Ireland,DN,0,Adelaide,lost,won,1st,v Pakistan,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,SR Thompson,JF Mooney,GH Dockrell,AR Cusack
+1190,Ireland,D,1,Belfast,lost,lost,2nd,v Australia,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,JF Mooney,AR McBrine,TJ Murtagh,CA Young
+1208,Ireland,D,0,Harare,lost,lost,1st,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,A Balbirnie,GC Wilson,KJ O'Brien,SR Thompson,JF Mooney,GH Dockrell,AR McBrine,TJ Murtagh
+1212,Ireland,D,0,Harare,lost,lost,1st,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,NJ O'Brien,A Balbirnie,GC Wilson,KJ O'Brien,JF Mooney,GH Dockrell,AR McBrine,TJ Murtagh
+1213,Ireland,D,0,Harare,won,won,2nd,v Zimbabwe,WTS Porterfield,PR Stirling,EC Joyce,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,GH Dockrell,AR McBrine,TJ Murtagh,CA Young
+1320,Ireland,D,1,Dublin (Malahide),lost,won,2nd,v Sri Lanka,WTS Porterfield,PR Stirling,EC Joyce,J Anderson,KJ O'Brien,SW Poynter,GC Wilson,MC Sorensen,BJ McCarthy,TJ Murtagh,WB Rankin
+1322,Ireland,D,1,Dublin (Malahide),lost,won,2nd,v Sri Lanka,WTS Porterfield,PR Stirling,EC Joyce,J Anderson,KJ O'Brien,SW Poynter,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,WB Rankin
+1336,Ireland,D,1,Belfast,lost,won,2nd,v Afghanistan,WTS Porterfield,EC Joyce,J Anderson,SW Poynter,KJ O'Brien,PR Stirling,AR McBrine,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+1337,Ireland,D,1,Belfast,won,lost,2nd,v Afghanistan,WTS Porterfield,EC Joyce,SP Terry,SW Poynter,KJ O'Brien,PR Stirling,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,PKD Chase
+1340,Ireland,D,1,Belfast,lost,lost,2nd,v Afghanistan,WTS Porterfield,EC Joyce,SP Terry,SW Poynter,KJ O'Brien,PR Stirling,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,PKD Chase
+1341,Ireland,D,1,Belfast,won,lost,1st,v Afghanistan,WTS Porterfield,EC Joyce,SP Terry,GC Wilson,KJ O'Brien,PR Stirling,SW Poynter,AR McBrine,BJ McCarthy,TJ Murtagh,PKD Chase
+1344,Ireland,D,1,Dublin (Malahide),lost,won,2nd,v Pakistan,WTS Porterfield,PR Stirling,EC Joyce,J Anderson,KJ O'Brien,SW Poynter,GC Wilson,AR McBrine,BJ McCarthy,TJ Murtagh,WB Rankin
+1366,Ireland,D,0,Benoni,lost,won,2nd,v South Africa,WTS Porterfield,PR Stirling,J Anderson,GC Wilson,KJ O'Brien,SP Terry,SW Poynter,GH Dockrell,TJ Murtagh,CA Young,PKD Chase
+1370,Ireland,D,0,Benoni,lost,won,1st,v Australia,WTS Porterfield,PR Stirling,J Anderson,GC Wilson,KJ O'Brien,SP Terry,SW Poynter,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+1486,Ireland,D,0,Greater Noida,lost,lost,2nd,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,KJ O'Brien,GC Wilson,SR Thompson,GH Dockrell,TJ Murtagh,J Mulder,PKD Chase
+1488,Ireland,D,0,Greater Noida,lost,lost,2nd,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,PKD Chase
+1489,Ireland,D,0,Greater Noida,won,lost,2nd,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,PKD Chase
+1491,Ireland,D,0,Greater Noida,won,lost,2nd,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,KJ O'Brien,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,J Mulder
+1494,Ireland,D,0,Greater Noida,lost,won,1st,v Afghanistan,EC Joyce,PR Stirling,WTS Porterfield,NJ O'Brien,A Balbirnie,GC Wilson,SR Thompson,AR McBrine,GH Dockrell,TJ Murtagh,J Mulder
+1506,Ireland,D,0,Bristol,lost,won,1st,v England,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,SR Thompson,GH Dockrell,TJ Murtagh,PKD Chase
+1508,Ireland,D,0,Lord's,lost,won,2nd,v England,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+1510,Ireland,D,1,Dublin (Malahide),lost,won,2nd,v New Zealand,WTS Porterfield,PR Stirling,NJ O'Brien,A Balbirnie,KJ O'Brien,GC Wilson,Simi Singh,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+1514,Ireland,D,1,Dublin (Malahide),lost,lost,1st,v Bangladesh,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,KJ O'Brien,GC Wilson,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+1516,Ireland,D,1,Dublin (Malahide),lost,won,2nd,v New Zealand,EC Joyce,PR Stirling,WTS Porterfield,A Balbirnie,NJ O'Brien,GC Wilson,Simi Singh,GH Dockrell,BJ McCarthy,CA Young,PKD Chase
+1624,Ireland,DN,0,Sharjah,lost,won,2nd,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,Simi Singh,SW Poynter,GH Dockrell,WB Rankin,TJ Murtagh
+1625,Ireland,DN,0,Sharjah,won,won,1st,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,SW Poynter,GH Dockrell,BJ McCarthy,TJ Murtagh,PKD Chase
+1629,Ireland,DN,0,Sharjah,won,lost,2nd,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,GC Wilson,KJ O'Brien,SW Poynter,GH Dockrell,BJ McCarthy,WB Rankin,TJ Murtagh
+1710,Ireland,D,0,Harare,lost,won,2nd,v West Indies,WTS Porterfield,PR Stirling,A Balbirnie,EC Joyce,NJ O'Brien,KJ O'Brien,GC Wilson,GH Dockrell,AR McBrine,WB Rankin,TJ Murtagh
+1714,Ireland,D,0,Harare,lost,won,2nd,v Zimbabwe,WTS Porterfield,PR Stirling,A Balbirnie,EC Joyce,NJ O'Brien,KJ O'Brien,GC Wilson,AR McBrine,BJ McCarthy,WB Rankin,TJ Murtagh
+1718,Ireland,D,0,Harare,lost,won,1st,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,Simi Singh,KJ O'Brien,GC Wilson,AR McBrine,BJ McCarthy,WB Rankin,TJ Murtagh
+1764,Ireland,D,1,Belfast,lost,won,2nd,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,Simi Singh,KJ O'Brien,GC Wilson,AR McBrine,TJ Murtagh,WB Rankin,PKD Chase
+1765,Ireland,D,1,Belfast,won,lost,2nd,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,KJ O'Brien,Simi Singh,GC Wilson,AR McBrine,TJ Murtagh,WB Rankin,PKD Chase
+1768,Ireland,D,1,Belfast,lost,won,1st,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,NJ O'Brien,Simi Singh,KJ O'Brien,GC Wilson,AR McBrine,TJ Murtagh,WB Rankin,PKD Chase
+1878,Ireland,DN,0,Dehradun,lost,won,1st,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,JA McCollum,KJ O'Brien,Simi Singh,SW Poynter,GH Dockrell,BJ McCarthy,TJ Murtagh,WB Rankin
+1885,Ireland,DN,0,Dehradun,won,lost,2nd,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,Simi Singh,KJ O'Brien,GH Dockrell,SW Poynter,AR McBrine,WB Rankin,TJ Murtagh,J Cameron-Dow
+1892,Ireland,DN,0,Dehradun,lost,won,2nd,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,Simi Singh,KJ O'Brien,GH Dockrell,SW Poynter,AR McBrine,J Cameron-Dow,TJ Murtagh,WB Rankin
+1895,Ireland,DN,0,Dehradun,won,won,2nd,v Afghanistan,WTS Porterfield,PR Stirling,A Balbirnie,Simi Singh,KJ O'Brien,GH Dockrell,SW Poynter,AR McBrine,J Cameron-Dow,WB Rankin,TJ Murtagh
+1918,Ireland,D,1,Dublin (Malahide),lost,lost,1st,v England,WTS Porterfield,PR Stirling,A Balbirnie,LJ Tucker,KJ O'Brien,GC Wilson,GH Dockrell,MR Adair,TJ Murtagh,JB Little,WB Rankin
+1920,Ireland,D,1,Dublin,lost,won,2nd,v West Indies,WTS Porterfield,PR Stirling,A Balbirnie,LJ Tucker,KJ O'Brien,GC Wilson,GH Dockrell,MR Adair,BJ McCarthy,TJ Murtagh,JB Little
+1924,Ireland,D,1,Dublin (Malahide),lost,won,1st,v West Indies,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,MR Adair,GC Wilson,GH Dockrell,WB Rankin,TJ Murtagh,JB Little
+1932,Ireland,D,1,Dublin,lost,won,1st,v Bangladesh,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,MR Adair,GC Wilson,GH Dockrell,BJ McCarthy,WB Rankin,JB Little
+1937,Ireland,D,1,Belfast,won,lost,1st,v Afghanistan,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,GC Wilson,GH Dockrell,MR Adair,AR McBrine,TJ Murtagh,WB Rankin
+1942,Ireland,D,1,Belfast,lost,won,2nd,v Afghanistan,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,GC Wilson,AR McBrine,MR Adair,BJ McCarthy,TJ Murtagh,WB Rankin
+2013,Ireland,D,0,Bready,won,won,2nd,v Zimbabwe,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,SC Getkate,MR Adair,TJ Murtagh,WB Rankin,AR McBrine
+2021,Ireland,D,1,Belfast,won,lost,1st,v Zimbabwe,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,SC Getkate,MR Adair,AR McBrine,TJ Murtagh,WB Rankin
+2029,Ireland,D,1,Belfast,won,lost,2nd,v Zimbabwe,PR Stirling,JA McCollum,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,SC Getkate,MR Adair,AR McBrine,TJ Murtagh,WB Rankin
+2062,Ireland,DN,0,Bridgetown,lost,won,1st,v West Indies,PR Stirling,GJ Delany,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,Simi Singh,MR Adair,AR McBrine,BJ McCarthy,WB Rankin
+2064,Ireland,DN,0,Bridgetown,lost,won,1st,v West Indies,PR Stirling,GJ Delany,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,Simi Singh,MR Adair,AR McBrine,BJ McCarthy,WB Rankin
+2066,Ireland,D,0,St George's,lost,lost,1st,v West Indies,JA McCollum,PR Stirling,A Balbirnie,WTS Porterfield,KJ O'Brien,LJ Tucker,Simi Singh,MR Adair,AR McBrine,BJ McCarthy,CA Young
+2104,Ireland,DN,0,Southampton,lost,lost,1st,v England,PR Stirling,GJ Delany,A Balbirnie,HT Tector,KJ O'Brien,LJ Tucker,C Campher,Simi Singh,AR McBrine,BJ McCarthy,CA Young
+2106,Ireland,DN,0,Southampton,lost,won,1st,v England,PR Stirling,GJ Delany,A Balbirnie,HT Tector,KJ O'Brien,LJ Tucker,C Campher,Simi Singh,AR McBrine,CA Young,JB Little
+2107,Ireland,DN,0,Southampton,won,won,2nd,v England,PR Stirling,GJ Delany,A Balbirnie,HT Tector,KJ O'Brien,LJ Tucker,C Campher,MR Adair,AR McBrine,CA Young,JB Little
+1017,New Zealand,D,1,Christchurch,won,lost,2nd,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,TWM Latham,GD Elliott,CJ Anderson,L Ronchi,NL McCullum,AF Milne,MJ McClenaghan,TA Boult
+1020,New Zealand,DN,1,Hamilton,lost,won,1st,v Sri Lanka,MJ Guptill,BB McCullum,TWM Latham,LRPL Taylor,DL Vettori,CJ Anderson,L Ronchi,NL McCullum,AF Milne,MJ Henry,TA Boult
+1031,New Zealand,D,1,Nelson,won,lost,2nd,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,TG Southee,AF Milne,MJ McClenaghan
+1037,New Zealand,D,1,Dunedin,won,lost,1st,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,NL McCullum,TG Southee,MJ McClenaghan,TA Boult
+1041,New Zealand,D,1,Dunedin,won,won,1st,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,CJ Anderson,L Ronchi,GD Elliott,DL Vettori,KD Mills,TA Boult,MJ McClenaghan
+1048,New Zealand,DN,1,Wellington,lost,lost,2nd,v Sri Lanka,MJ Guptill,TWM Latham,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,KD Mills,TG Southee,MJ McClenaghan
+1051,New Zealand,DN,1,Wellington,won,won,2nd,v Pakistan,MJ Guptill,BB McCullum,TWM Latham,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,NL McCullum,KD Mills,AF Milne,TA Boult
+1055,New Zealand,DN,1,Napier,won,won,1st,v Pakistan,MJ Guptill,BB McCullum,TWM Latham,LRPL Taylor,GD Elliott,L Ronchi,NL McCullum,DL Vettori,TG Southee,AF Milne,TA Boult
+1057,New Zealand,D,1,Christchurch,won,lost,1st,v Sri Lanka,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,TG Southee,AF Milne,TA Boult
+1069,New Zealand,DN,1,Wellington,won,lost,2nd,v England,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,AF Milne,TG Southee,TA Boult
+1083,New Zealand,DN,1,Auckland,won,lost,2nd,v Australia,MJ Guptill,BB McCullum,KS Williamson,LRPL Taylor,GD Elliott,CJ Anderson,L Ronchi,DL Vettori,AF Milne,TG Southee,TA Boult
+1099,New Zealand,D,1,Napier,won,lost,2nd,v Afghanistan,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,AF Milne
+1107,New Zealand,DN,1,Hamilton,won,won,2nd,v Bangladesh,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,MJ McClenaghan
+1121,New Zealand,DN,1,Wellington,won,won,1st,v West Indies,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,AF Milne
+1123,New Zealand,DN,1,Auckland,won,lost,2nd,v South Africa,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,MJ Henry
+1128,New Zealand,DN,0,Melbourne,lost,won,1st,v Australia,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,CJ Anderson,L Ronchi,DL Vettori,TG Southee,GD Elliott,TA Boult,MJ Henry
+1140,New Zealand,DN,0,Birmingham,lost,won,2nd,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,TA Boult,MJ Henry
+1141,New Zealand,DN,0,The Oval,won,won,1st,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,TA Boult,TG Southee
+1143,New Zealand,D,0,Southampton,won,lost,2nd,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,BM Wheeler,MJ McClenaghan,GD Elliott,MJ Henry,TG Southee
+1146,New Zealand,DN,0,Nottingham,lost,won,1st,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,BM Wheeler,MJ McClenaghan,GD Elliott,MJ Henry,TG Southee
+1150,New Zealand,D,0,Chester-le-Street,lost,lost,1st,v England,KS Williamson,MJ Guptill,LRPL Taylor,BB McCullum,MJ Santner,L Ronchi,BM Wheeler,AW Mathieson,GD Elliott,MJ Henry,TG Southee
+1178,New Zealand,D,0,Harare,lost,lost,1st,v Zimbabwe,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,MJ Henry
+1179,New Zealand,D,0,Harare,won,lost,2nd,v Zimbabwe,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,C Munro,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,MJ Henry
+1181,New Zealand,D,1,Harare,won,lost,1st,v Zimbabwe,KS Williamson,MJ Guptill,JDS Neesham,TWM Latham,C Munro,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,BM Wheeler
+1184,New Zealand,DN,0,Centurion,lost,won,2nd,v South Africa,KS Williamson,MJ Guptill,JDS Neesham,TWM Latham,C Munro,L Ronchi,NL McCullum,MJ McClenaghan,GD Elliott,IS Sodhi,AF Milne
+1185,New Zealand,D,0,Potchefstroom,won,lost,2nd,v South Africa,KS Williamson,MJ Guptill,GH Worker,TWM Latham,C Munro,L Ronchi,DAJ Bracewell,AF Milne,GD Elliott,IS Sodhi,BM Wheeler
+1188,New Zealand,DN,0,Durban,lost,lost,2nd,v South Africa,KS Williamson,MJ Guptill,GH Worker,TWM Latham,C Munro,L Ronchi,DAJ Bracewell,AF Milne,GD Elliott,IS Sodhi,BM Wheeler
+1255,New Zealand,D,1,Christchurch,won,lost,2nd,v Sri Lanka,BB McCullum,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,DAJ Bracewell,AF Milne,MJ McClenaghan,MJ Santner,MJ Henry
+1257,New Zealand,D,1,Christchurch,won,lost,2nd,v Sri Lanka,BB McCullum,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,DAJ Bracewell,IS Sodhi,MJ McClenaghan,MJ Santner,MJ Henry
+1262,New Zealand,D,1,Nelson,lost,won,1st,v Sri Lanka,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,DAJ Bracewell,AF Milne,MJ McClenaghan,MJ Santner,TG Southee
+1267,New Zealand,D,1,Mount Maunganui,won,lost,1st,v Sri Lanka,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,IS Sodhi
+1281,New Zealand,D,1,Wellington,won,lost,1st,v Pakistan,KS Williamson,MJ Guptill,GD Elliott,TWM Latham,HM Nicholls,L Ronchi,MJ Henry,MJ McClenaghan,TA Boult,MJ Santner,CJ Anderson
+1283,New Zealand,D,1,Auckland,won,lost,2nd,v Pakistan,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,CJ Anderson
+1285,New Zealand,DN,1,Auckland,won,lost,1st,v Australia,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,CJ Anderson
+1290,New Zealand,DN,1,Wellington,lost,won,1st,v Australia,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,TA Boult,MJ Santner,CJ Anderson
+1293,New Zealand,DN,1,Hamilton,won,lost,1st,v Australia,KS Williamson,MJ Guptill,GD Elliott,BB McCullum,HM Nicholls,L Ronchi,MJ Henry,AF Milne,DAJ Bracewell,IS Sodhi,CJ Anderson
+1398,New Zealand,DN,0,Dharamsala,lost,lost,1st,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,L Ronchi,MJ Santner,TG Southee,DAJ Bracewell,IS Sodhi,CJ Anderson
+1399,New Zealand,DN,0,Delhi,won,lost,1st,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,AP Devcich,L Ronchi,MJ Santner,TG Southee,MJ Henry,TA Boult,CJ Anderson
+1402,New Zealand,DN,0,Mohali,lost,lost,1st,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,L Ronchi,MJ Santner,TG Southee,MJ Henry,TA Boult,CJ Anderson
+1403,New Zealand,DN,0,Ranchi,won,won,1st,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,BJ Watling,MJ Santner,TG Southee,IS Sodhi,TA Boult,AP Devcich
+1406,New Zealand,DN,0,Visakhapatnam,lost,lost,2nd,v India,KS Williamson,MJ Guptill,LRPL Taylor,TWM Latham,JDS Neesham,BJ Watling,MJ Santner,TG Southee,IS Sodhi,TA Boult,CJ Anderson
+1418,New Zealand,DN,0,Sydney,lost,lost,2nd,v Australia,MJ Guptill,TWM Latham,KS Williamson,JDS Neesham,BJ Watling,C Munro,MJ Santner,C de Grandhomme,MJ Henry,LH Ferguson,TA Boult
+1420,New Zealand,DN,0,Canberra,lost,won,2nd,v Australia,MJ Guptill,TWM Latham,KS Williamson,JDS Neesham,C Munro,C de Grandhomme,MJ Santner,BJ Watling,TG Southee,MJ Henry,TA Boult
+1422,New Zealand,DN,0,Melbourne,lost,lost,2nd,v Australia,MJ Guptill,TWM Latham,KS Williamson,HM Nicholls,C Munro,BJ Watling,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1423,New Zealand,D,1,Christchurch,won,won,1st,v Bangladesh,MJ Guptill,TWM Latham,KS Williamson,NT Broom,JDS Neesham,C Munro,L Ronchi,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1425,New Zealand,D,1,Nelson,won,lost,1st,v Bangladesh,MJ Guptill,TWM Latham,KS Williamson,NT Broom,JDS Neesham,C Munro,L Ronchi,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1427,New Zealand,D,1,Nelson,won,lost,2nd,v Bangladesh,MJ Guptill,TWM Latham,KS Williamson,NT Broom,JDS Neesham,C Munro,L Ronchi,MJ Santner,TG Southee,MJ Henry,JS Patel
+1447,New Zealand,D,1,Auckland,won,lost,1st,v Australia,MJ Guptill,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,C Munro,JDS Neesham,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1453,New Zealand,D,1,Hamilton,won,won,1st,v Australia,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,C Munro,JDS Neesham,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1462,New Zealand,DN,1,Hamilton,lost,lost,1st,v South Africa,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,IS Sodhi,TA Boult
+1467,New Zealand,D,1,Christchurch,won,lost,1st,v South Africa,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,MJ Santner,C de Grandhomme,IS Sodhi,TG Southee,TA Boult
+1472,New Zealand,DN,1,Wellington,lost,lost,2nd,v South Africa,DG Brownlie,TWM Latham,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,LH Ferguson,TA Boult
+1475,New Zealand,DN,1,Hamilton,won,lost,2nd,v South Africa,MJ Guptill,DG Brownlie,KS Williamson,LRPL Taylor,L Ronchi,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,JS Patel,TA Boult
+1480,New Zealand,DN,1,Auckland,lost,lost,1st,v South Africa,MJ Guptill,DG Brownlie,KS Williamson,LRPL Taylor,L Ronchi,JDS Neesham,MJ Santner,C de Grandhomme,TG Southee,JS Patel,TA Boult
+1509,New Zealand,D,0,Dublin (Malahide),won,lost,1st,v Ireland,L Ronchi,TWM Latham,GH Worker,LRPL Taylor,NT Broom,JDS Neesham,C Munro,SC Kuggeleijn,MJ Santner,SHA Rance,IS Sodhi
+1511,New Zealand,D,0,Dublin,won,won,2nd,v Bangladesh,TWM Latham,L Ronchi,GH Worker,LRPL Taylor,NT Broom,JDS Neesham,C Munro,MJ Santner,SHA Rance,IS Sodhi,HK Bennett
+1515,New Zealand,D,0,Dublin (Malahide),won,lost,1st,v Ireland,L Ronchi,TWM Latham,NT Broom,LRPL Taylor,CJ Anderson,MJ Santner,C Munro,AF Milne,SC Kuggeleijn,IS Sodhi,MJ Henry
+1518,New Zealand,D,0,Dublin,lost,lost,1st,v Bangladesh,TWM Latham,L Ronchi,NT Broom,LRPL Taylor,CJ Anderson,JDS Neesham,MJ Santner,C Munro,MJ Henry,JS Patel,HK Bennett
+1532,New Zealand,D,0,Cardiff,lost,won,2nd,v England,MJ Guptill,L Ronchi,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,CJ Anderson,MJ Santner,AF Milne,TG Southee,TA Boult
+1538,New Zealand,D,0,Cardiff,lost,won,1st,v Bangladesh,MJ Guptill,L Ronchi,KS Williamson,LRPL Taylor,NT Broom,JDS Neesham,CJ Anderson,MJ Santner,AF Milne,TG Southee,TA Boult
+1613,New Zealand,DN,0,Mumbai,won,lost,2nd,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,AF Milne,TG Southee,TA Boult
+1620,New Zealand,DN,0,Pune,lost,won,1st,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,AF Milne,TG Southee,TA Boult
+1622,New Zealand,DN,0,Kanpur,lost,won,2nd,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,AF Milne,TA Boult
+1635,New Zealand,D,1,Whangarei,won,won,2nd,v West Indies,GH Worker,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,TD Astle,DAJ Bracewell,TG Southee,LH Ferguson,TA Boult
+1637,New Zealand,D,1,Christchurch,won,lost,1st,v West Indies,GH Worker,C Munro,NT Broom,LRPL Taylor,TWM Latham,HM Nicholls,TD Astle,DAJ Bracewell,MJ Henry,LH Ferguson,TA Boult
+1639,New Zealand,D,1,Christchurch,won,won,1st,v West Indies,GH Worker,C Munro,NT Broom,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TD Astle,MJ Henry,LH Ferguson,TA Boult
+1641,New Zealand,D,1,Wellington,won,lost,1st,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TG Southee,TD Astle,LH Ferguson,TA Boult
+1643,New Zealand,D,1,Nelson,won,lost,2nd,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TD Astle,TG Southee,LH Ferguson,TA Boult
+1645,New Zealand,D,1,Dunedin,won,won,1st,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,TD Astle,TG Southee,LH Ferguson,TA Boult
+1651,New Zealand,DN,1,Hamilton,won,lost,2nd,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1655,New Zealand,D,1,Wellington,won,won,1st,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,C de Grandhomme,HM Nicholls,TWM Latham,MJ Santner,TG Southee,MJ Henry,LH Ferguson
+1697,New Zealand,DN,1,Hamilton,won,won,2nd,v England,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,IS Sodhi,TA Boult
+1700,New Zealand,DN,1,Mount Maunganui,lost,lost,1st,v England,MJ Guptill,C Munro,MS Chapman,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1702,New Zealand,DN,1,Wellington,lost,won,2nd,v England,MJ Guptill,C Munro,KS Williamson,MS Chapman,TWM Latham,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,IS Sodhi,TA Boult
+1705,New Zealand,D,1,Dunedin,won,won,2nd,v England,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,HM Nicholls,MJ Santner,TG Southee,IS Sodhi,TA Boult
+1708,New Zealand,D,1,Christchurch,lost,lost,1st,v England,MJ Guptill,C Munro,KS Williamson,TWM Latham,MS Chapman,HM Nicholls,C de Grandhomme,MJ Santner,TG Southee,IS Sodhi,TA Boult
+1819,New Zealand,DN,0,Abu Dhabi,won,won,1st,v Pakistan,GH Worker,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,TG Southee,IS Sodhi,LH Ferguson,TA Boult
+1824,New Zealand,DN,0,Abu Dhabi,lost,won,1st,v Pakistan,GH Worker,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,TG Southee,IS Sodhi,TA Boult,LH Ferguson
+1833,New Zealand,DN,1,Mount Maunganui,won,won,1st,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,HM Nicholls,TL Seifert,JDS Neesham,MJ Henry,IS Sodhi,LH Ferguson,TA Boult
+1835,New Zealand,DN,1,Mount Maunganui,won,won,1st,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,HM Nicholls,JDS Neesham,TL Seifert,TG Southee,MJ Henry,IS Sodhi,TA Boult
+1837,New Zealand,D,1,Nelson,won,lost,1st,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,HM Nicholls,JDS Neesham,TL Seifert,TG Southee,MJ Henry,IS Sodhi,LH Ferguson
+1850,New Zealand,DN,1,Napier,lost,won,1st,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,DAJ Bracewell,TG Southee,LH Ferguson,TA Boult
+1854,New Zealand,DN,1,Mount Maunganui,lost,lost,2nd,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,C de Grandhomme,DAJ Bracewell,IS Sodhi,LH Ferguson,TA Boult
+1858,New Zealand,DN,1,Mount Maunganui,lost,won,1st,v India,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,HM Nicholls,MJ Santner,DAJ Bracewell,IS Sodhi,TA Boult,LH Ferguson
+1861,New Zealand,DN,1,Hamilton,won,won,2nd,v India,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,MJ Santner,C de Grandhomme,TD Astle,MJ Henry,TA Boult
+1864,New Zealand,DN,1,Wellington,lost,lost,2nd,v India,C Munro,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TD Astle,MJ Henry,TA Boult
+1865,New Zealand,DN,1,Napier,won,lost,2nd,v Bangladesh,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,JDS Neesham,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+1867,New Zealand,D,1,Christchurch,won,won,2nd,v Bangladesh,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,JDS Neesham,MJ Henry,TD Astle,LH Ferguson,TA Boult
+1869,New Zealand,D,1,Dunedin,won,lost,1st,v Bangladesh,MJ Guptill,C Munro,HM Nicholls,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TG Southee,LH Ferguson,TA Boult
+1947,New Zealand,D,0,Cardiff,won,won,2nd,v Sri Lanka,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+1959,New Zealand,DN,0,The Oval,won,won,2nd,v Bangladesh,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+1965,New Zealand,DN,0,Taunton,won,won,2nd,v Afghanistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+1983,New Zealand,D,0,Birmingham,won,won,2nd,v South Africa,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+1991,New Zealand,DN,0,Manchester,won,lost,1st,v West Indies,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+2000,New Zealand,D,0,Birmingham,lost,won,1st,v Pakistan,MJ Guptill,C Munro,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,MJ Henry,LH Ferguson,TA Boult
+2008,New Zealand,DN,0,Lord's,lost,lost,2nd,v Australia,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,C de Grandhomme,JDS Neesham,MJ Santner,IS Sodhi,LH Ferguson,TA Boult
+2018,New Zealand,D,0,Chester-le-Street,lost,lost,2nd,v England,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TG Southee,MJ Henry,TA Boult
+2031,New Zealand,D,0,Manchester,won,won,1st,v India,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,JDS Neesham,C de Grandhomme,TWM Latham,MJ Santner,MJ Henry,TA Boult,LH Ferguson
+2075,New Zealand,DN,1,Hamilton,won,won,2nd,v India,MJ Guptill,HM Nicholls,TA Blundell,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,IS Sodhi,TG Southee,HK Bennett
+2077,New Zealand,DN,1,Auckland,won,lost,1st,v India,MJ Guptill,HM Nicholls,TA Blundell,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MS Chapman,TG Southee,KA Jamieson,HK Bennett
+2081,New Zealand,DN,1,Mount Maunganui,won,won,2nd,v India,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,TG Southee,KA Jamieson,HK Bennett
+2102,New Zealand,DN,0,Sydney,lost,lost,2nd,v Australia,MJ Guptill,HM Nicholls,KS Williamson,LRPL Taylor,TWM Latham,JDS Neesham,C de Grandhomme,MJ Santner,IS Sodhi,LH Ferguson,TA Boult
+1052,Pakistan,DN,0,Wellington,lost,lost,1st,v New Zealand,Ehsan Adil,Ahmed Shehzad,Mohammad Hafeez,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Bilawal Bhatti,Sarfaraz Ahmed
+1056,Pakistan,DN,0,Napier,lost,lost,2nd,v New Zealand,Ehsan Adil,Ahmed Shehzad,Mohammad Hafeez,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Bilawal Bhatti,Sarfaraz Ahmed
+1064,Pakistan,DN,0,Adelaide,lost,lost,2nd,v India,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Yasir Shah,Sohail Khan
+1072,Pakistan,D,0,Christchurch,lost,won,2nd,v West Indies,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Younis Khan,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Nasir Jamshed,Sohail Khan
+1087,Pakistan,DN,0,Brisbane,won,won,1st,v Zimbabwe,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Haris Sohail,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Nasir Jamshed,Sohail Khan
+1095,Pakistan,DN,0,Auckland,won,lost,1st,v South Africa,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Younis Khan,Misbah-ul-Haq,Umar Akmal,Mohammad Irfan,Sarfaraz Ahmed,Sohail Khan
+1113,Pakistan,DN,0,Adelaide,won,lost,2nd,v Ireland,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Ehsan Adil,Misbah-ul-Haq,Umar Akmal,Haris Sohail,Sarfaraz Ahmed,Sohail Khan
+1120,Pakistan,DN,0,Adelaide,lost,won,1st,v Australia,Sohaib Maqsood,Ahmed Shehzad,Wahab Riaz,Rahat Ali,Shahid Afridi,Ehsan Adil,Misbah-ul-Haq,Umar Akmal,Haris Sohail,Sarfaraz Ahmed,Sohail Khan
+1130,Pakistan,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Rahat Ali,Saeed Ajmal,Junaid Khan,Saad Nasim,Fawad Alam,Haris Sohail,Sarfaraz Ahmed,Mohammad Rizwan
+1132,Pakistan,DN,0,Dhaka,lost,won,1st,v Bangladesh,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Rahat Ali,Saeed Ajmal,Junaid Khan,Saad Nasim,Fawad Alam,Haris Sohail,Sarfaraz Ahmed,Mohammad Rizwan
+1134,Pakistan,DN,0,Dhaka,lost,won,1st,v Bangladesh,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Zulfiqar Babar,Umar Gul,Junaid Khan,Saad Nasim,Fawad Alam,Haris Sohail,Sami Aslam,Mohammad Rizwan
+1135,Pakistan,DN,1,Lahore,won,won,1st,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Hammad Azam,Haris Sohail,Mohammad Sami,Asad Shafiq
+1137,Pakistan,DN,1,Lahore,won,won,2nd,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Wahab Riaz,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Hammad Azam,Haris Sohail,Mohammad Sami,Asad Shafiq
+1159,Pakistan,D,0,Dambulla,won,won,2nd,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Babar Azam,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+1170,Pakistan,DN,0,Pallekele,lost,won,1st,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Babar Azam,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+1171,Pakistan,DN,0,Colombo (RPS),won,won,1st,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+1173,Pakistan,DN,0,Colombo (RPS),won,lost,2nd,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+1176,Pakistan,DN,0,Hambantota,lost,lost,2nd,v Sri Lanka,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Anwar Ali,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Rahat Ali
+1201,Pakistan,D,0,Harare,won,lost,1st,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Aamer Yamin,Imad Wasim,Mohammad Rizwan,Mohammad Irfan,Wahab Riaz
+1204,Pakistan,D,0,Harare,lost,won,2nd,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Bilal Asif,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Aamer Yamin,Asad Shafiq,Mohammad Rizwan,Mohammad Irfan,Wahab Riaz
+1205,Pakistan,D,0,Harare,won,won,2nd,v Zimbabwe,Mohammad Hafeez,Azhar Ali,Bilal Asif,Shoaib Malik,Imad Wasim,Sarfaraz Ahmed,Aamer Yamin,Asad Shafiq,Mohammad Rizwan,Mohammad Irfan,Wahab Riaz
+1245,Pakistan,DN,0,Abu Dhabi,won,lost,2nd,v England,Mohammad Hafeez,Azhar Ali,Bilal Asif,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Younis Khan,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+1248,Pakistan,DN,0,Abu Dhabi,lost,lost,2nd,v England,Mohammad Hafeez,Azhar Ali,Iftikhar Ahmed,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Younis Khan,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+1250,Pakistan,DN,0,Sharjah,lost,won,1st,v England,Mohammad Hafeez,Azhar Ali,Iftikhar Ahmed,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Zafar Gohar,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+1252,Pakistan,DN,0,Dubai (DSC),lost,lost,2nd,v England,Mohammad Hafeez,Azhar Ali,Mohammad Rizwan,Shoaib Malik,Yasir Shah,Sarfaraz Ahmed,Ahmed Shehzad,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+1282,Pakistan,D,0,Wellington,lost,won,2nd,v New Zealand,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Sohaib Maqsood,Imad Wasim,Sarfaraz Ahmed,Mohammad Amir,Babar Azam,Anwar Ali,Mohammad Irfan,Wahab Riaz
+1284,Pakistan,D,0,Auckland,lost,won,1st,v New Zealand,Mohammad Hafeez,Azhar Ali,Ahmed Shehzad,Shoaib Malik,Mohammad Rizwan,Sarfaraz Ahmed,Mohammad Amir,Babar Azam,Rahat Ali,Mohammad Irfan,Wahab Riaz
+1343,Pakistan,D,0,Dublin (Malahide),won,lost,1st,v Ireland,Mohammad Hafeez,Azhar Ali,Sharjeel Khan,Shoaib Malik,Mohammad Nawaz,Sarfaraz Ahmed,Imad Wasim,Babar Azam,Umar Gul,Mohammad Amir,Hasan Ali
+1350,Pakistan,DN,0,Southampton,lost,won,1st,v England,Mohammad Hafeez,Azhar Ali,Sharjeel Khan,Shoaib Malik,Mohammad Nawaz,Sarfaraz Ahmed,Imad Wasim,Babar Azam,Umar Gul,Mohammad Amir,Wahab Riaz
+1352,Pakistan,D,0,Lord's,lost,won,1st,v England,Sami Aslam,Azhar Ali,Sharjeel Khan,Shoaib Malik,Hasan Ali,Sarfaraz Ahmed,Imad Wasim,Babar Azam,Yasir Shah,Mohammad Amir,Wahab Riaz
+1356,Pakistan,DN,0,Nottingham,lost,lost,2nd,v England,Sami Aslam,Azhar Ali,Sharjeel Khan,Shoaib Malik,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Yasir Shah,Mohammad Amir,Wahab Riaz
+1360,Pakistan,DN,0,Leeds,lost,won,1st,v England,Sami Aslam,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Irfan,Umar Gul
+1363,Pakistan,D,0,Cardiff,won,won,2nd,v England,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Irfan,Umar Gul
+1373,Pakistan,DN,0,Sharjah,won,lost,1st,v West Indies,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Amir,Umar Gul
+1381,Pakistan,DN,0,Sharjah,won,won,1st,v West Indies,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Mohammad Amir,Wahab Riaz
+1383,Pakistan,DN,0,Abu Dhabi,won,won,1st,v West Indies,Shoaib Malik,Azhar Ali,Sharjeel Khan,Mohammad Rizwan,Hasan Ali,Sarfaraz Ahmed,Mohammad Nawaz,Babar Azam,Imad Wasim,Sohail Khan,Wahab Riaz
+1430,Pakistan,DN,0,Brisbane,lost,lost,2nd,v Australia,Azhar Ali,Sharjeel Khan,Mohammad Hafeez,Babar Azam,Umar Akmal,Mohammad Rizwan,Imad Wasim,Mohammad Nawaz,Mohammad Amir,Wahab Riaz,Hasan Ali
+1431,Pakistan,DN,0,Melbourne,won,lost,2nd,v Australia,Mohammad Hafeez,Sharjeel Khan,Babar Azam,Asad Shafiq,Shoaib Malik,Umar Akmal,Mohammad Rizwan,Imad Wasim,Mohammad Amir,Hasan Ali,Junaid Khan
+1436,Pakistan,DN,0,Perth,lost,lost,1st,v Australia,Mohammad Hafeez,Sharjeel Khan,Babar Azam,Asad Shafiq,Shoaib Malik,Umar Akmal,Imad Wasim,Mohammad Rizwan,Mohammad Amir,Hasan Ali,Junaid Khan
+1440,Pakistan,DN,0,Sydney,lost,lost,2nd,v Australia,Azhar Ali,Sharjeel Khan,Babar Azam,Mohammad Hafeez,Shoaib Malik,Umar Akmal,Mohammad Rizwan,Imad Wasim,Mohammad Amir,Hasan Ali,Junaid Khan
+1444,Pakistan,DN,0,Adelaide,lost,lost,2nd,v Australia,Azhar Ali,Sharjeel Khan,Babar Azam,Mohammad Hafeez,Shoaib Malik,Umar Akmal,Mohammad Rizwan,Mohammad Amir,Wahab Riaz,Hasan Ali,Junaid Khan
+1500,Pakistan,D,0,Providence,lost,lost,1st,v West Indies,Ahmed Shehzad,Kamran Akmal,Mohammad Hafeez,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Wahab Riaz
+1501,Pakistan,D,0,Providence,won,lost,1st,v West Indies,Ahmed Shehzad,Kamran Akmal,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Junaid Khan
+1503,Pakistan,D,0,Providence,won,lost,2nd,v West Indies,Kamran Akmal,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Junaid Khan
+1530,Pakistan,D,0,Birmingham,lost,won,2nd,v India,Azhar Ali,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Mohammad Amir,Hasan Ali,Wahab Riaz
+1533,Pakistan,DN,0,Birmingham,won,lost,2nd,v South Africa,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Mohammad Amir,Shadab Khan,Hasan Ali,Junaid Khan
+1547,Pakistan,D,0,Cardiff,won,won,2nd,v Sri Lanka,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Faheem Ashraf,Mohammad Amir,Hasan Ali,Junaid Khan
+1549,Pakistan,D,0,Cardiff,won,won,2nd,v England,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Rumman Raees,Shadab Khan,Hasan Ali,Junaid Khan
+1553,Pakistan,D,0,The Oval,won,lost,1st,v India,Azhar Ali,Fakhar Zaman,Babar Azam,Shoaib Malik,Mohammad Hafeez,Imad Wasim,Sarfaraz Ahmed,Mohammad Amir,Shadab Khan,Hasan Ali,Junaid Khan
+1601,Pakistan,DN,0,Dubai (DSC),won,lost,1st,v Sri Lanka,Fakhar Zaman,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Hasan Ali,Rumman Raees,Shadab Khan,Junaid Khan
+1605,Pakistan,DN,0,Abu Dhabi,won,won,1st,v Sri Lanka,Fakhar Zaman,Ahmed Shehzad,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Hasan Ali,Rumman Raees,Junaid Khan
+1609,Pakistan,DN,0,Abu Dhabi,won,lost,2nd,v Sri Lanka,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Faheem Ashraf,Shadab Khan,Hasan Ali,Rumman Raees,Junaid Khan
+1611,Pakistan,DN,0,Sharjah,won,lost,2nd,v Sri Lanka,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Hasan Ali,Usman Shinwari,Junaid Khan
+1617,Pakistan,DN,0,Sharjah,won,lost,2nd,v Sri Lanka,Imam-ul-Haq,Fakhar Zaman,Faheem Ashraf,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Hasan Ali,Usman Shinwari
+1642,Pakistan,D,0,Wellington,lost,won,2nd,v New Zealand,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Mohammad Amir,Hasan Ali,Rumman Raees
+1644,Pakistan,D,0,Nelson,lost,won,1st,v New Zealand,Azhar Ali,Imam-ul-Haq,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Hasan Ali,Mohammad Amir,Rumman Raees
+1646,Pakistan,D,0,Dunedin,lost,lost,2nd,v New Zealand,Azhar Ali,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Hasan Ali,Mohammad Amir,Rumman Raees
+1652,Pakistan,DN,0,Hamilton,lost,won,1st,v New Zealand,Fakhar Zaman,Faheem Ashraf,Babar Azam,Haris Sohail,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Hasan Ali,Shadab Khan,Mohammad Amir,Rumman Raees
+1656,Pakistan,D,0,Wellington,lost,lost,2nd,v New Zealand,Fakhar Zaman,Umar Amin,Babar Azam,Haris Sohail,Mohammad Hafeez,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Aamer Yamin,Mohammad Nawaz,Rumman Raees
+1733,Pakistan,D,0,Bulawayo,won,lost,1st,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Asif Ali,Faheem Ashraf,Sarfaraz Ahmed,Hasan Ali,Shadab Khan,Mohammad Amir,Usman Shinwari
+1737,Pakistan,D,0,Bulawayo,won,lost,2nd,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Asif Ali,Faheem Ashraf,Shadab Khan,Hasan Ali,Mohammad Amir,Usman Shinwari
+1741,Pakistan,D,0,Bulawayo,won,lost,2nd,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Asif Ali,Sarfaraz Ahmed,Faheem Ashraf,Shadab Khan,Yasir Shah,Junaid Khan,Usman Shinwari
+1743,Pakistan,D,0,Bulawayo,won,won,1st,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Asif Ali,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Faheem Ashraf,Shadab Khan,Yasir Shah,Junaid Khan,Usman Shinwari
+1745,Pakistan,D,0,Bulawayo,won,won,1st,v Zimbabwe,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Asif Ali,Sarfaraz Ahmed,Shadab Khan,Mohammad Nawaz,Mohammad Amir,Hasan Ali,Junaid Khan
+1774,Pakistan,DN,0,Dubai (DSC),lost,won,1st,v India,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Shoaib Malik,Sarfaraz Ahmed,Asif Ali,Shadab Khan,Faheem Ashraf,Mohammad Amir,Hasan Ali,Usman Shinwari
+1779,Pakistan,DN,0,Abu Dhabi,won,lost,2nd,v Afghanistan,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Haris Sohail,Shoaib Malik,Sarfaraz Ahmed,Asif Ali,Mohammad Nawaz,Hasan Ali,Usman Shinwari,Shaheen Shah Afridi
+1782,Pakistan,DN,0,Dubai (DSC),lost,won,1st,v India,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Sarfaraz Ahmed,Shoaib Malik,Asif Ali,Shadab Khan,Mohammad Nawaz,Hasan Ali,Mohammad Amir,Shaheen Shah Afridi
+1786,Pakistan,D,0,Abu Dhabi,lost,lost,2nd,v Bangladesh,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Sarfaraz Ahmed,Shoaib Malik,Shadab Khan,Asif Ali,Mohammad Nawaz,Hasan Ali,Shaheen Shah Afridi,Junaid Khan
+1820,Pakistan,DN,0,Abu Dhabi,lost,lost,2nd,v New Zealand,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Imad Wasim,Hasan Ali,Shaheen Shah Afridi,Junaid Khan
+1823,Pakistan,DN,0,Abu Dhabi,won,lost,2nd,v New Zealand,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Faheem Ashraf,Imad Wasim,Hasan Ali,Shah Afridi
+1845,Pakistan,DN,0,Port Elizabeth,won,lost,2nd,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Sarfaraz Ahmed,Shadab Khan,Imad Wasim,Faheem Ashraf,Hasan Ali,Usman Shinwari
+1848,Pakistan,DN,0,Durban,lost,lost,1st,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Shadab Khan,Hussain Talat,Sarfaraz Ahmed,Faheem Ashraf,Hasan Ali,Shaheen Shah Afridi
+1852,Pakistan,DN,0,Centurion,lost,won,1st,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Imad Wasim,Hasan Ali,Sarfaraz Ahmed,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+1855,Pakistan,D,0,Johannesburg,won,won,2nd,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Rizwan,Mohammad Hafeez,Shoaib Malik,Imad Wasim,Shadab Khan,Mohammad Amir,Usman Shinwari,Shaheen Shah Afridi
+1860,Pakistan,DN,0,Cape Town,lost,lost,1st,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Mohammad Rizwan,Shadab Khan,Imad Wasim,Mohammad Amir,Shaheen Shah Afridi,Usman Shinwari
+1908,Pakistan,DN,0,Sharjah,lost,won,1st,v Australia,Imam-ul-Haq,Shan Masood,Haris Sohail,Umar Akmal,Shoaib Malik,Faheem Ashraf,Imad Wasim,Mohammad Rizwan,Mohammad Amir,Yasir Shah,Mohammad Abbas
+1910,Pakistan,DN,0,Sharjah,lost,won,1st,v Australia,Imam-ul-Haq,Shan Masood,Haris Sohail,Mohammad Rizwan,Umar Akmal,Shoaib Malik,Faheem Ashraf,Imad Wasim,Yasir Shah,Mohammad Hasnain,Mohammad Abbas
+1912,Pakistan,DN,0,Abu Dhabi,lost,lost,2nd,v Australia,Imam-ul-Haq,Shan Masood,Haris Sohail,Mohammad Rizwan,Shoaib Malik,Umar Akmal,Imad Wasim,Yasir Shah,Usman Shinwari,Junaid Khan,Mohammad Hasnain
+1914,Pakistan,DN,0,Dubai (DSC),lost,won,2nd,v Australia,Shan Masood,Abid Ali,Haris Sohail,Mohammad Rizwan,Umar Akmal,Saad Ali,Imad Wasim,Yasir Shah,Usman Shinwari,Junaid Khan,Mohammad Hasnain
+1916,Pakistan,DN,0,Dubai (DSC),lost,won,2nd,v Australia,Shan Masood,Abid Ali,Haris Sohail,Mohammad Rizwan,Umar Akmal,Saad Ali,Imad Wasim,Yasir Shah,Usman Shinwari,Junaid Khan,Mohammad Abbas
+1926,Pakistan,D,0,Southampton,lost,won,2nd,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Asif Ali,Haris Sohail,Sarfaraz Ahmed,Imad Wasim,Faheem Ashraf,Hasan Ali,Shaheen Shah Afridi,Yasir Shah
+1930,Pakistan,DN,0,Bristol,lost,lost,1st,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Haris Sohail,Sarfaraz Ahmed,Asif Ali,Imad Wasim,Faheem Ashraf,Hasan Ali,Shaheen Shah Afridi,Junaid Khan
+1936,Pakistan,DN,0,Nottingham,lost,lost,1st,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Shoaib Malik,Asif Ali,Imad Wasim,Sarfaraz Ahmed,Hasan Ali,Mohammad Hasnain,Junaid Khan
+1940,Pakistan,D,0,Leeds,lost,lost,2nd,v England,Fakhar Zaman,Abid Ali,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Shoaib Malik,Asif Ali,Imad Wasim,Hasan Ali,Shaheen Shah Afridi,Mohammad Hasnain
+1946,Pakistan,D,0,Nottingham,lost,lost,1st,v West Indies,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Haris Sohail,Sarfaraz Ahmed,Mohammad Hafeez,Imad Wasim,Shadab Khan,Hasan Ali,Wahab Riaz,Mohammad Amir
+1953,Pakistan,D,0,Nottingham,won,lost,1st,v England,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Asif Ali,Shoaib Malik,Wahab Riaz,Hasan Ali,Shadab Khan,Mohammad Amir
+1970,Pakistan,D,0,Taunton,lost,won,2nd,v Australia,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Shoaib Malik,Asif Ali,Hasan Ali,Wahab Riaz,Mohammad Amir,Shaheen Shah Afridi
+1978,Pakistan,D,0,Manchester,lost,won,2nd,v India,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Sarfaraz Ahmed,Shoaib Malik,Imad Wasim,Shadab Khan,Hasan Ali,Wahab Riaz,Mohammad Amir
+1993,Pakistan,D,0,Lord's,won,won,1st,v South Africa,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Haris Sohail,Imad Wasim,Wahab Riaz,Sarfaraz Ahmed,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+1999,Pakistan,D,0,Birmingham,won,lost,2nd,v New Zealand,Imam-ul-Haq,Fakhar Zaman,Babar Azam,Mohammad Hafeez,Haris Sohail,Sarfaraz Ahmed,Imad Wasim,Wahab Riaz,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+2005,Pakistan,D,0,Leeds,won,lost,2nd,v Afghanistan,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Mohammad Hafeez,Haris Sohail,Sarfaraz Ahmed,Imad Wasim,Shadab Khan,Wahab Riaz,Mohammad Amir,Shaheen Shah Afridi
+2023,Pakistan,D,0,Lord's,won,won,1st,v Bangladesh,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Mohammad Hafeez,Haris Sohail,Imad Wasim,Sarfaraz Ahmed,Wahab Riaz,Shadab Khan,Mohammad Amir,Shaheen Shah Afridi
+2045,Pakistan,DN,1,Karachi,won,won,1st,v Sri Lanka,Fakhar Zaman,Imam-ul-Haq,Babar Azam,Haris Sohail,Sarfaraz Ahmed,Iftikhar Ahmed,Imad Wasim,Wahab Riaz,Shadab Khan,Mohammad Amir,Usman Shinwari
+2047,Pakistan,DN,1,Karachi,won,lost,2nd,v Sri Lanka,Fakhar Zaman,Abid Ali,Babar Azam,Sarfaraz Ahmed,Haris Sohail,Iftikhar Ahmed,Wahab Riaz,Mohammad Nawaz,Shadab Khan,Mohammad Amir,Usman Shinwari
+1023,South Africa,DN,1,Durban,won,won,1st,v West Indies,HM Amla,RR Rossouw,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,VD Philander,DW Steyn,M Morkel,Imran Tahir
+1029,South Africa,D,1,Johannesburg,won,lost,1st,v West Indies,HM Amla,RR Rossouw,AB de Villiers,DA Miller,F du Plessis,JP Duminy,F Behardien,VD Philander,DW Steyn,M Morkel,Imran Tahir
+1035,South Africa,DN,1,East London,won,lost,2nd,v West Indies,RR Rossouw,HM Amla,F du Plessis,AB de Villiers,JP Duminy,DA Miller,F Behardien,VD Philander,DW Steyn,M Morkel,Imran Tahir
+1044,South Africa,DN,1,Port Elizabeth,lost,lost,1st,v West Indies,MN van Wyk,RR Rossouw,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,WD Parnell,AM Phangiso,KJ Abbott,M Morkel
+1045,South Africa,DN,1,Centurion,won,lost,1st,v West Indies,Q de Kock,HM Amla,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,WD Parnell,AM Phangiso,KJ Abbott,M de Lange
+1061,South Africa,DN,0,Hamilton,won,lost,1st,v Zimbabwe,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,VD Philander,DW Steyn,Imran Tahir,M Morkel
+1076,South Africa,DN,0,Melbourne,lost,lost,2nd,v India,HM Amla,Q de Kock,F du Plessis,AB de Villiers,DA Miller,JP Duminy,WD Parnell,VD Philander,DW Steyn,M Morkel,Imran Tahir
+1081,South Africa,DN,0,Sydney,won,won,1st,v West Indies,Q de Kock,HM Amla,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,F Behardien,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+1089,South Africa,DN,0,Canberra,won,won,1st,v Ireland,HM Amla,Q de Kock,F du Plessis,AB de Villiers,DA Miller,RR Rossouw,F Behardien,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+1096,South Africa,DN,0,Auckland,lost,won,2nd,v Pakistan,Q de Kock,HM Amla,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,JP Duminy,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+1115,South Africa,DN,0,Sydney,won,lost,2nd,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,JP Duminy,DW Steyn,KJ Abbott,M Morkel,Imran Tahir
+1124,South Africa,DN,0,Auckland,lost,won,1st,v New Zealand,HM Amla,Q de Kock,F du Plessis,RR Rossouw,AB de Villiers,DA Miller,JP Duminy,VD Philander,DW Steyn,M Morkel,Imran Tahir
+1157,South Africa,DN,0,Dhaka,won,lost,2nd,v Bangladesh,Q de Kock,HM Amla,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,CH Morris,KJ Abbott,K Rabada,Imran Tahir
+1164,South Africa,DN,0,Dhaka,lost,won,1st,v Bangladesh,HM Amla,Q de Kock,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,CH Morris,K Rabada,KJ Abbott,Imran Tahir
+1168,South Africa,DN,0,Chattogram,lost,won,1st,v Bangladesh,Q de Kock,HM Amla,F du Plessis,RR Rossouw,DA Miller,JP Duminy,F Behardien,K Rabada,KJ Abbott,M Morkel,Imran Tahir
+1183,South Africa,DN,1,Centurion,won,lost,1st,v New Zealand,MN van Wyk,HM Amla,RR Rossouw,AB de Villiers,DA Miller,F Behardien,D Wiese,VD Philander,K Rabada,DW Steyn,Imran Tahir
+1186,South Africa,D,1,Potchefstroom,lost,won,1st,v New Zealand,HM Amla,MN van Wyk,RR Rossouw,AB de Villiers,DA Miller,F Behardien,D Wiese,VD Philander,AM Phangiso,DW Steyn,Imran Tahir
+1187,South Africa,DN,1,Durban,won,won,1st,v New Zealand,MN van Wyk,HM Amla,RR Rossouw,AB de Villiers,DA Miller,F Behardien,D Wiese,KJ Abbott,DW Steyn,K Rabada,Imran Tahir
+1209,South Africa,D,0,Kanpur,won,won,1st,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,F Behardien,DW Steyn,K Rabada,M Morkel,Imran Tahir
+1216,South Africa,DN,0,Indore,lost,lost,2nd,v India,HM Amla,Q de Kock,F du Plessis,JP Duminy,AB de Villiers,DA Miller,F Behardien,DW Steyn,K Rabada,Imran Tahir,M Morkel
+1221,South Africa,DN,0,Rajkot,won,won,1st,v India,Q de Kock,DA Miller,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,DW Steyn,K Rabada,Imran Tahir,M Morkel
+1228,South Africa,DN,0,Chennai,lost,lost,2nd,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,F Behardien,CH Morris,AM Phangiso,DW Steyn,K Rabada,Imran Tahir
+1231,South Africa,DN,0,Mumbai,won,won,1st,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,F Behardien,D Elgar,DW Steyn,K Rabada,Imran Tahir,KJ Abbott
+1288,South Africa,DN,1,Bloemfontein,lost,lost,2nd,v England,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,RR Rossouw,F Behardien,CH Morris,M Morkel,M de Lange,Imran Tahir
+1292,South Africa,D,1,Port Elizabeth,lost,won,1st,v England,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,RR Rossouw,F Behardien,K Rabada,KJ Abbott,M Morkel,Imran Tahir
+1295,South Africa,DN,1,Centurion,won,lost,2nd,v England,Q de Kock,HM Amla,D Wiese,F du Plessis,AB de Villiers,JP Duminy,F Behardien,K Rabada,KJ Abbott,M Morkel,Imran Tahir
+1297,South Africa,DN,1,Johannesburg,won,won,2nd,v England,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,F Behardien,D Wiese,CH Morris,K Rabada,KJ Abbott,Imran Tahir
+1299,South Africa,D,1,Cape Town,won,won,2nd,v England,Q de Kock,HM Amla,F du Plessis,RR Rossouw,AB de Villiers,F Behardien,D Wiese,CH Morris,K Rabada,KJ Abbott,Imran Tahir
+1302,South Africa,DN,0,Providence,lost,won,1st,v West Indies,Q de Kock,HM Amla,RR Rossouw,AB de Villiers,JP Duminy,F Behardien,CH Morris,KJ Abbott,AM Phangiso,K Rabada,Imran Tahir
+1305,South Africa,DN,0,Providence,won,won,1st,v Australia,HM Amla,Q de Kock,RR Rossouw,AB de Villiers,JP Duminy,F Behardien,WD Parnell,AM Phangiso,K Rabada,Imran Tahir,T Shamsi
+1310,South Africa,DN,0,Basseterre,lost,lost,2nd,v Australia,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,WD Parnell,KJ Abbott,AM Phangiso,K Rabada,Imran Tahir
+1317,South Africa,DN,0,Basseterre,won,lost,1st,v West Indies,HM Amla,Q de Kock,CH Morris,F du Plessis,AB de Villiers,JP Duminy,F Behardien,WD Parnell,K Rabada,Imran Tahir,T Shamsi
+1328,South Africa,DN,0,Bridgetown,lost,won,2nd,v West Indies,HM Amla,Q de Kock,F du Plessis,AB de Villiers,F Behardien,JP Duminy,CH Morris,WD Parnell,K Rabada,M Morkel,Imran Tahir
+1365,South Africa,D,1,Benoni,won,lost,1st,v Ireland,Q de Kock,T Bavuma,F du Plessis,JP Duminy,DA Miller,F Behardien,D Pretorius,WD Parnell,AL Phehlukwayo,K Rabada,AM Phangiso
+1375,South Africa,DN,1,Centurion,won,won,2nd,v Australia,Q de Kock,RR Rossouw,F du Plessis,JP Duminy,DA Miller,F Behardien,AL Phehlukwayo,WD Parnell,DW Steyn,K Rabada,Imran Tahir
+1379,South Africa,D,1,Johannesburg,won,lost,1st,v Australia,Q de Kock,RR Rossouw,F du Plessis,JP Duminy,DA Miller,F Behardien,WD Parnell,AL Phehlukwayo,DW Steyn,K Rabada,Imran Tahir
+1385,South Africa,DN,1,Durban,won,lost,2nd,v Australia,Q de Kock,HM Amla,F du Plessis,RR Rossouw,JP Duminy,DA Miller,D Pretorius,AL Phehlukwayo,DW Steyn,K Rabada,Imran Tahir
+1389,South Africa,D,1,Port Elizabeth,won,lost,2nd,v Australia,HM Amla,Q de Kock,F du Plessis,JP Duminy,RR Rossouw,F Behardien,D Pretorius,AL Phehlukwayo,KJ Abbott,AM Phangiso,T Shamsi
+1395,South Africa,DN,1,Cape Town,won,won,1st,v Australia,Q de Kock,HM Amla,F du Plessis,RR Rossouw,JP Duminy,DA Miller,AL Phehlukwayo,K Rabada,KJ Abbott,DW Steyn,Imran Tahir
+1445,South Africa,D,1,Port Elizabeth,won,won,2nd,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,DA Miller,CH Morris,WD Parnell,AL Phehlukwayo,K Rabada,Imran Tahir
+1449,South Africa,DN,1,Durban,won,lost,1st,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,DA Miller,CH Morris,WD Parnell,AL Phehlukwayo,K Rabada,Imran Tahir
+1451,South Africa,DN,1,Johannesburg,won,won,2nd,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,CH Morris,D Pretorius,AL Phehlukwayo,K Rabada,Imran Tahir
+1455,South Africa,DN,1,Cape Town,won,won,1st,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,F Behardien,WD Parnell,D Pretorius,Imran Tahir,K Rabada,T Shamsi
+1457,South Africa,DN,1,Centurion,won,lost,1st,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,CH Morris,WD Parnell,AL Phehlukwayo,Imran Tahir,K Rabada
+1461,South Africa,DN,0,Hamilton,won,won,2nd,v New Zealand,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,F Behardien,CH Morris,AL Phehlukwayo,T Shamsi,K Rabada,Imran Tahir
+1468,South Africa,D,0,Christchurch,lost,won,2nd,v New Zealand,HM Amla,Q de Kock,F du Plessis,JP Duminy,AB de Villiers,DA Miller,D Pretorius,CH Morris,WD Parnell,AL Phehlukwayo,Imran Tahir
+1471,South Africa,DN,0,Wellington,won,won,1st,v New Zealand,Q de Kock,HM Amla,F du Plessis,AB de Villiers,JP Duminy,DA Miller,D Pretorius,WD Parnell,AL Phehlukwayo,Imran Tahir,K Rabada
+1476,South Africa,DN,0,Hamilton,lost,won,1st,v New Zealand,HM Amla,Q de Kock,F du Plessis,JP Duminy,AB de Villiers,DA Miller,D Pretorius,CH Morris,WD Parnell,K Rabada,Imran Tahir
+1479,South Africa,DN,0,Auckland,won,won,2nd,v New Zealand,Q de Kock,HM Amla,F du Plessis,JP Duminy,AB de Villiers,DA Miller,D Pretorius,CH Morris,AL Phehlukwayo,K Rabada,Imran Tahir
+1520,South Africa,DN,0,Leeds,lost,won,2nd,v England,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,DA Miller,CH Morris,WD Parnell,AL Phehlukwayo,K Rabada,Imran Tahir
+1522,South Africa,D,0,Southampton,lost,won,2nd,v England,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,F Behardien,CH Morris,D Pretorius,K Rabada,AL Phehlukwayo,KA Maharaj
+1523,South Africa,D,0,Lord's,won,won,2nd,v England,HM Amla,Q de Kock,JP Duminy,F du Plessis,AB de Villiers,DA Miller,CH Morris,WD Parnell,KA Maharaj,K Rabada,M Morkel
+1527,South Africa,D,0,The Oval,won,lost,1st,v Sri Lanka,HM Amla,Q de Kock,F du Plessis,AB de Villiers,DA Miller,JP Duminy,CH Morris,WD Parnell,K Rabada,M Morkel,Imran Tahir
+1534,South Africa,DN,0,Birmingham,lost,won,1st,v Pakistan,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,WD Parnell,CH Morris,K Rabada,M Morkel,Imran Tahir
+1544,South Africa,D,0,The Oval,lost,lost,1st,v India,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,CH Morris,AL Phehlukwayo,K Rabada,M Morkel,Imran Tahir
+1603,South Africa,D,1,Kimberley,won,lost,2nd,v Bangladesh,Q de Kock,HM Amla,F du Plessis,AB de Villiers,DA Miller,JP Duminy,D Pretorius,AL Phehlukwayo,K Rabada,D Paterson,Imran Tahir
+1607,South Africa,D,1,Paarl,won,lost,1st,v Bangladesh,HM Amla,Q de Kock,F du Plessis,AB de Villiers,JP Duminy,F Behardien,D Pretorius,AL Phehlukwayo,K Rabada,D Paterson,Imran Tahir
+1615,South Africa,D,1,East London,won,won,1st,v Bangladesh,T Bavuma,Q de Kock,F du Plessis,AK Markram,AB de Villiers,F Behardien,PWA Mulder,AL Phehlukwayo,K Rabada,D Paterson,Imran Tahir
+1676,South Africa,DN,1,Durban,lost,won,1st,v India,Q de Kock,HM Amla,F du Plessis,AK Markram,JP Duminy,DA Miller,CH Morris,AL Phehlukwayo,K Rabada,M Morkel,Imran Tahir
+1678,South Africa,D,1,Centurion,lost,lost,1st,v India,HM Amla,Q de Kock,AK Markram,JP Duminy,DA Miller,K Zondo,CH Morris,K Rabada,M Morkel,Imran Tahir,T Shamsi
+1680,South Africa,DN,1,Cape Town,lost,won,2nd,v India,HM Amla,AK Markram,JP Duminy,H Klaasen,DA Miller,K Zondo,CH Morris,AL Phehlukwayo,K Rabada,Imran Tahir,L Ngidi
+1683,South Africa,DN,1,Johannesburg,won,lost,2nd,v India,AK Markram,HM Amla,JP Duminy,AB de Villiers,DA Miller,H Klaasen,AL Phehlukwayo,CH Morris,K Rabada,L Ngidi,M Morkel
+1690,South Africa,DN,1,Port Elizabeth,lost,won,2nd,v India,HM Amla,AK Markram,JP Duminy,AB de Villiers,DA Miller,H Klaasen,AL Phehlukwayo,K Rabada,M Morkel,T Shamsi,L Ngidi
+1694,South Africa,DN,1,Centurion,lost,lost,1st,v India,AK Markram,HM Amla,AB de Villiers,K Zondo,H Klaasen,F Behardien,CH Morris,AL Phehlukwayo,M Morkel,Imran Tahir,L Ngidi
+1753,South Africa,D,0,Dambulla,won,lost,2nd,v Sri Lanka,HM Amla,Q de Kock,AK Markram,F du Plessis,JP Duminy,DA Miller,PWA Mulder,AL Phehlukwayo,K Rabada,T Shamsi,L Ngidi
+1755,South Africa,DN,0,Dambulla,won,lost,2nd,v Sri Lanka,Q de Kock,HM Amla,AK Markram,F du Plessis,JP Duminy,DA Miller,PWA Mulder,AL Phehlukwayo,K Rabada,T Shamsi,L Ngidi
+1757,South Africa,D,0,Pallekele,won,lost,1st,v Sri Lanka,HM Amla,Q de Kock,RR Hendricks,F du Plessis,JP Duminy,DA Miller,AL Phehlukwayo,PWA Mulder,K Rabada,T Shamsi,L Ngidi
+1760,South Africa,DN,0,Pallekele,lost,won,2nd,v Sri Lanka,Q de Kock,HM Amla,RR Hendricks,JP Duminy,H Klaasen,DA Miller,AL Phehlukwayo,PWA Mulder,KA Maharaj,CJ Dala,L Ngidi
+1762,South Africa,DN,0,Colombo (RPS),lost,lost,2nd,v Sri Lanka,HM Amla,Q de Kock,AK Markram,RR Hendricks,H Klaasen,JP Duminy,PWA Mulder,AL Phehlukwayo,KA Maharaj,K Rabada,CJ Dala
+1789,South Africa,D,1,Kimberley,won,won,2nd,v Zimbabwe,AK Markram,D Elgar,RR Hendricks,H Klaasen,C Jonker,JP Duminy,PWA Mulder,AL Phehlukwayo,K Rabada,Imran Tahir,L Ngidi
+1791,South Africa,DN,1,Bloemfontein,won,won,1st,v Zimbabwe,D Elgar,AK Markram,RR Hendricks,H Klaasen,K Zondo,C Jonker,JP Duminy,AL Phehlukwayo,DW Steyn,Imran Tahir,L Ngidi
+1793,South Africa,DN,1,Paarl,won,lost,2nd,v Zimbabwe,AK Markram,RR Hendricks,F du Plessis,JP Duminy,H Klaasen,K Zondo,AL Phehlukwayo,DW Steyn,K Rabada,Imran Tahir,T Shamsi
+1817,South Africa,D,0,Perth,won,won,2nd,v Australia,Q de Kock,RR Hendricks,AK Markram,F du Plessis,H Klaasen,DA Miller,AL Phehlukwayo,DW Steyn,K Rabada,L Ngidi,Imran Tahir
+1822,South Africa,DN,0,Adelaide,lost,won,2nd,v Australia,Q de Kock,RR Hendricks,AK Markram,F du Plessis,H Klaasen,DA Miller,D Pretorius,DW Steyn,K Rabada,L Ngidi,Imran Tahir
+1825,South Africa,DN,0,Hobart,won,lost,1st,v Australia,Q de Kock,RR Hendricks,AK Markram,F du Plessis,DA Miller,H Klaasen,D Pretorius,DW Steyn,K Rabada,L Ngidi,Imran Tahir
+1846,South Africa,DN,1,Port Elizabeth,lost,won,1st,v Pakistan,HM Amla,RR Hendricks,HE van der Dussen,DA Miller,F du Plessis,AL Phehlukwayo,H Klaasen,K Rabada,D Pretorius,D Olivier,Imran Tahir
+1847,South Africa,DN,1,Durban,won,won,2nd,v Pakistan,RR Hendricks,HM Amla,HE van der Dussen,F du Plessis,DA Miller,H Klaasen,AL Phehlukwayo,K Rabada,D Paterson,T Shamsi,D Olivier
+1851,South Africa,DN,1,Centurion,won,lost,2nd,v Pakistan,Q de Kock,HM Amla,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,AL Phehlukwayo,K Rabada,BE Hendricks,T Shamsi,DW Steyn
+1856,South Africa,D,1,Johannesburg,lost,lost,1st,v Pakistan,HM Amla,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,AL Phehlukwayo,DW Steyn,K Rabada,BE Hendricks,Imran Tahir
+1859,South Africa,DN,1,Cape Town,won,won,2nd,v Pakistan,Q de Kock,HM Amla,RR Hendricks,F du Plessis,HE van der Dussen,PWA Mulder,AL Phehlukwayo,DW Steyn,K Rabada,D Pretorius,Imran Tahir
+1883,South Africa,D,1,Johannesburg,won,won,2nd,v Sri Lanka,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,PWA Mulder,D Pretorius,K Rabada,A Nortje,Imran Tahir,L Ngidi
+1889,South Africa,DN,1,Centurion,won,lost,1st,v Sri Lanka,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,PWA Mulder,DA Miller,AL Phehlukwayo,K Rabada,A Nortje,L Ngidi,Imran Tahir
+1899,South Africa,D,1,Durban,won,lost,1st,v Sri Lanka,Q de Kock,RR Hendricks,F du Plessis,HE van der Dussen,DA Miller,D Pretorius,AL Phehlukwayo,K Rabada,L Ngidi,Imran Tahir,T Shamsi
+1903,South Africa,DN,1,Port Elizabeth,won,won,2nd,v Sri Lanka,Q de Kock,RR Hendricks,AK Markram,F du Plessis,DA Miller,JP Duminy,AL Phehlukwayo,DW Steyn,A Nortje,L Ngidi,T Shamsi
+1905,South Africa,DN,1,Cape Town,won,lost,2nd,v Sri Lanka,Q de Kock,AK Markram,F du Plessis,HE van der Dussen,JP Duminy,D Pretorius,AL Phehlukwayo,A Nortje,K Rabada,L Ngidi,Imran Tahir
+1944,South Africa,D,0,The Oval,lost,won,2nd,v England,Q de Kock,HM Amla,AK Markram,F du Plessis,HE van der Dussen,JP Duminy,D Pretorius,AL Phehlukwayo,K Rabada,L Ngidi,Imran Tahir
+1952,South Africa,D,0,The Oval,lost,won,2nd,v Bangladesh,Q de Kock,AK Markram,F du Plessis,DA Miller,HE van der Dussen,JP Duminy,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,L Ngidi
+1958,South Africa,D,0,Southampton,lost,won,1st,v India,HM Amla,Q de Kock,F du Plessis,HE van der Dussen,DA Miller,JP Duminy,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,T Shamsi
+1975,South Africa,DN,0,Cardiff,won,won,2nd,v Afghanistan,HM Amla,Q de Kock,AL Phehlukwayo,AK Markram,F du Plessis,HE van der Dussen,DA Miller,CH Morris,K Rabada,Imran Tahir,BE Hendricks
+1984,South Africa,D,0,Birmingham,lost,lost,1st,v New Zealand,Q de Kock,HM Amla,F du Plessis,AK Markram,HE van der Dussen,DA Miller,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,L Ngidi
+1994,South Africa,D,0,Lord's,lost,lost,2nd,v Pakistan,HM Amla,Q de Kock,F du Plessis,AK Markram,HE van der Dussen,DA Miller,AL Phehlukwayo,CH Morris,K Rabada,L Ngidi,Imran Tahir
+2003,South Africa,D,0,Chester-le-Street,won,won,2nd,v Sri Lanka,Q de Kock,HM Amla,F du Plessis,HE van der Dussen,AK Markram,JP Duminy,D Pretorius,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir
+2027,South Africa,DN,0,Manchester,won,won,1st,v Australia,AK Markram,Q de Kock,F du Plessis,HE van der Dussen,JP Duminy,D Pretorius,AL Phehlukwayo,CH Morris,K Rabada,Imran Tahir,T Shamsi
+2073,South Africa,DN,1,Cape Town,won,won,2nd,v England,Q de Kock,RR Hendricks,T Bavuma,HE van der Dussen,JT Smuts,DA Miller,AL Phehlukwayo,BE Hendricks,L Ngidi,L Sipamla,T Shamsi
+2080,South Africa,D,1,Johannesburg,lost,lost,1st,v England,Q de Kock,RR Hendricks,T Bavuma,HE van der Dussen,JT Smuts,DA Miller,AL Phehlukwayo,BE Hendricks,L Sipamla,L Ngidi,T Shamsi
+2087,South Africa,DN,1,Paarl,won,won,1st,v Australia,JN Malan,Q de Kock,T Bavuma,K Verreynne,H Klaasen,DA Miller,AL Phehlukwayo,KA Maharaj,A Nortje,L Ngidi,T Shamsi
+2095,South Africa,DN,1,Bloemfontein,won,lost,2nd,v Australia,JN Malan,Q de Kock,JT Smuts,K Verreynne,H Klaasen,DA Miller,AL Phehlukwayo,KA Maharaj,A Nortje,L Ngidi,T Shamsi
+2099,South Africa,D,1,Potchefstroom,won,won,2nd,v Australia,JN Malan,Q de Kock,JT Smuts,K Verreynne,H Klaasen,DA Miller,AL Phehlukwayo,KA Maharaj,A Nortje,L Sipamla,DM Dupavillon
+1018,Sri Lanka,D,0,Christchurch,lost,won,1st,v New Zealand,FDM Karunaratne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,HDRL Thirimanne,BMAJ Mendis,NLTC Perera,KMDN Kulasekara,SMSM Senanayake,RMS Eranga
+1019,Sri Lanka,DN,0,Hamilton,won,lost,2nd,v New Zealand,FDM Karunaratne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,HDRL Thirimanne,BMAJ Mendis,NLTC Perera,KMDN Kulasekara,SMSM Senanayake,HMRKB Herath
+1032,Sri Lanka,D,0,Nelson,lost,won,1st,v New Zealand,FDM Karunaratne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,HDRL Thirimanne,NLTC Perera,BMAJ Mendis,KMDN Kulasekara,SMSM Senanayake,HMRKB Herath
+1038,Sri Lanka,D,0,Dunedin,lost,won,2nd,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,KMDN Kulasekara,BMAJ Mendis,LD Chandimal,NLTC Perera,FDM Karunaratne,SMSM Senanayake,RAS Lakmal
+1042,Sri Lanka,D,0,Dunedin,lost,lost,2nd,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,FDM Karunaratne,LD Chandimal,BMAJ Mendis,NLTC Perera,KTGD Prasad,HMRKB Herath,RAS Lakmal
+1047,Sri Lanka,DN,0,Wellington,won,won,1st,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,S Prasanna,LD Chandimal,NLTC Perera,KMDN Kulasekara,FDM Karunaratne,RMS Eranga,PVD Chameera
+1058,Sri Lanka,D,0,Christchurch,lost,won,2nd,v New Zealand,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,FDM Karunaratne,AD Mathews,BMAJ Mendis,KMDN Kulasekara,HMRKB Herath,SL Malinga,RAS Lakmal
+1073,Sri Lanka,D,0,Dunedin,won,won,2nd,v Afghanistan,HDRL Thirimanne,TM Dilshan,KC Sangakkara,FDM Karunaratne,DPMD Jayawardene,AD Mathews,BMAJ Mendis,NLTC Perera,HMRKB Herath,SL Malinga,RAS Lakmal
+1079,Sri Lanka,DN,0,Melbourne,won,won,1st,v Bangladesh,HDRL Thirimanne,TM Dilshan,KC Sangakkara,FDM Karunaratne,DPMD Jayawardene,AD Mathews,LD Chandimal,NLTC Perera,HMRKB Herath,SL Malinga,RAS Lakmal
+1085,Sri Lanka,D,0,Wellington,won,lost,2nd,v England,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,FDM Karunaratne,LD Chandimal,NLTC Perera,HMRKB Herath,SL Malinga,RAS Lakmal
+1102,Sri Lanka,DN,0,Sydney,lost,lost,2nd,v Australia,HDRL Thirimanne,TM Dilshan,KC Sangakkara,DPMD Jayawardene,AD Mathews,LD Chandimal,NLTC Perera,WU Tharanga,S Prasanna,SMSM Senanayake,SL Malinga
+1116,Sri Lanka,DN,0,Sydney,lost,won,1st,v South Africa,MDKJ Perera,TM Dilshan,KC Sangakkara,HDRL Thirimanne,DPMD Jayawardene,AD Mathews,NLTC Perera,KMDN Kulasekara,PHT Kaushal,PVD Chameera,SL Malinga
+1160,Sri Lanka,D,1,Dambulla,lost,lost,1st,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,WU Tharanga,AD Mathews,LD Chandimal,NLTC Perera,TAM Siriwardana,S Prasanna,SL Malinga,RAS Lakmal
+1169,Sri Lanka,DN,1,Pallekele,won,lost,2nd,v Pakistan,MDKJ Perera,TM Dilshan,WU Tharanga,AD Mathews,HDRL Thirimanne,LD Chandimal,TAM Siriwardana,SS Pathirana,NLTC Perera,SL Malinga,N Pradeep
+1172,Sri Lanka,DN,1,Colombo (RPS),lost,lost,2nd,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,WU Tharanga,AD Mathews,LD Chandimal,NLTC Perera,TAM Siriwardana,SS Pathirana,SL Malinga,N Pradeep
+1174,Sri Lanka,DN,1,Colombo (RPS),lost,won,1st,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,AD Mathews,LD Chandimal,SMA Priyanjan,TAM Siriwardana,SS Pathirana,SL Malinga,RAS Lakmal,N Pradeep
+1175,Sri Lanka,DN,1,Hambantota,won,won,1st,v Pakistan,MDKJ Perera,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,NLTC Perera,SMA Priyanjan,SMSM Senanayake,RAS Lakmal,PLS Gamage
+1233,Sri Lanka,DN,1,Colombo (RPS),won,won,2nd,v West Indies,MDKJ Perera,TM Dilshan,HDRL Thirimanne,AD Mathews,MD Gunathilaka,TAM Siriwardana,GSNFG Jayasuriya,SMSM Senanayake,BAW Mendis,SL Malinga,RAS Lakmal
+1235,Sri Lanka,DN,1,Colombo (RPS),won,lost,2nd,v West Indies,MDKJ Perera,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,GSNFG Jayasuriya,SMSM Senanayake,BAW Mendis,SL Malinga,RAS Lakmal
+1239,Sri Lanka,DN,1,Pallekele,won,won,2nd,v West Indies,MDKJ Perera,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,GSNFG Jayasuriya,SMSM Senanayake,BAW Mendis,SL Malinga,RAS Lakmal
+1256,Sri Lanka,D,0,Christchurch,lost,won,1st,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,BAW Mendis,PVD Chameera,RAS Lakmal
+1258,Sri Lanka,D,0,Christchurch,lost,won,1st,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,SMSM Senanayake,PVD Chameera,JDF Vandersay
+1261,Sri Lanka,D,0,Nelson,won,lost,2nd,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,PVD Chameera,N Pradeep,JDF Vandersay
+1268,Sri Lanka,D,0,Mount Maunganui,lost,won,2nd,v New Zealand,MD Gunathilaka,TM Dilshan,HDRL Thirimanne,LD Chandimal,AD Mathews,NLTC Perera,TAM Siriwardana,CK Kapugedera,KMDN Kulasekara,PVD Chameera,N Pradeep
+1319,Sri Lanka,D,0,Dublin (Malahide),won,lost,1st,v Ireland,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,MD Shanaka,S Prasanna,WU Tharanga,DM de Silva,RMS Eranga,N Pradeep
+1321,Sri Lanka,D,0,Dublin (Malahide),won,lost,1st,v Ireland,MDKJ Perera,MD Gunathilaka,S Prasanna,MD Shanaka,MF Maharoof,AD Mathews,LD Chandimal,WU Tharanga,BKG Mendis,WU Tharanga,RMS Eranga
+1326,Sri Lanka,DN,0,Birmingham,lost,won,1st,v England,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,S Prasanna,WU Tharanga,MF Maharoof,S Randiv,RAS Lakmal,N Pradeep
+1332,Sri Lanka,DN,0,The Oval,lost,lost,1st,v England,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,S Prasanna,MD Shanaka,WU Tharanga,MF Maharoof,N Pradeep,RAS Lakmal
+1334,Sri Lanka,D,0,Cardiff,lost,won,2nd,v England,MDKJ Perera,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,WU Tharanga,MD Shanaka,S Prasanna,RAS Lakmal,N Pradeep,KMC Bandara
+1346,Sri Lanka,DN,1,Colombo (RPS),lost,lost,1st,v Australia,MDKJ Perera,TM Dilshan,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,TAM Siriwardana,NLTC Perera,MDK Perera,MA Aponso,PADLR Sandakan
+1347,Sri Lanka,DN,1,Colombo (RPS),won,won,1st,v Australia,MD Gunathilaka,TM Dilshan,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,MDKJ Perera,NLTC Perera,S Prasanna,MDK Perera,MA Aponso
+1354,Sri Lanka,DN,1,Dambulla,lost,won,1st,v Australia,MD Gunathilaka,TM Dilshan,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,MDKJ Perera,NLTC Perera,S Prasanna,MDK Perera,MA Aponso
+1358,Sri Lanka,DN,1,Dambulla,lost,won,1st,v Australia,DM de Silva,WIA Fernando,BKG Mendis,LD Chandimal,AD Mathews,AK Perera,MDKJ Perera,NLTC Perera,SS Pathirana,MDK Perera,MA Aponso
+1362,Sri Lanka,DN,1,Pallekele,lost,won,1st,v Australia,DM de Silva,MD Gunathilaka,BKG Mendis,LD Chandimal,WU Tharanga,MDKJ Perera,MD Shanaka,SS Pathirana,MDK Perera,RAS Lakmal,MA Aponso
+1407,Sri Lanka,D,0,Harare,won,won,2nd,v Zimbabwe,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,WU Tharanga,GSNFG Jayasuriya,DAS Gunaratne,SS Pathirana,KMDN Kulasekara,RAS Lakmal,N Pradeep
+1410,Sri Lanka,D,0,Harare,lost,won,2nd,v West Indies,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,WU Tharanga,DAS Gunaratne,GSNFG Jayasuriya,SS Pathirana,KMDN Kulasekara,RAS Lakmal,N Pradeep
+1411,Sri Lanka,D,0,Bulawayo,won,lost,1st,v West Indies,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,GSNFG Jayasuriya,WU Tharanga,DAS Gunaratne,SS Pathirana,KMDN Kulasekara,N Pradeep,RAS Lakmal
+1415,Sri Lanka,D,0,Bulawayo,won,lost,2nd,v Zimbabwe,DM de Silva,MDKJ Perera,N Dickwella,BKG Mendis,WU Tharanga,DAS Gunaratne,MD Shanaka,SS Pathirana,KMDN Kulasekara,JDF Vandersay,RAS Lakmal
+1446,Sri Lanka,D,0,Port Elizabeth,lost,lost,1st,v South Africa,N Dickwella,DS Weerakkody,BKG Mendis,LD Chandimal,WU Tharanga,DM de Silva,DAS Gunaratne,KMDN Kulasekara,JDF Vandersay,RAS Lakmal,PADLR Sandakan
+1450,Sri Lanka,DN,0,Durban,lost,won,2nd,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,LD Chandimal,DM de Silva,DAS Gunaratne,PC de Silva,SS Pathirana,KMDN Kulasekara,RAS Lakmal,PADLR Sandakan
+1452,Sri Lanka,DN,0,Johannesburg,lost,lost,1st,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,LD Chandimal,DM de Silva,DAS Gunaratne,SS Pathirana,LD Madushanka,RAS Lakmal,CBRLS Kumara,PADLR Sandakan
+1456,Sri Lanka,DN,0,Cape Town,lost,lost,2nd,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,DS Weerakkody,DM de Silva,DAS Gunaratne,KMDN Kulasekara,SS Pathirana,LD Madushanka,CBRLS Kumara,PADLR Sandakan
+1458,Sri Lanka,DN,0,Centurion,lost,won,2nd,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,DS Weerakkody,DM de Silva,DAS Gunaratne,SS Pathirana,LD Madushanka,JDF Vandersay,RAS Lakmal,CBRLS Kumara
+1496,Sri Lanka,DN,1,Dambulla,lost,won,2nd,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,LD Chandimal,DAS Gunaratne,TAM Siriwardana,SS Pathirana,NLTC Perera,RAS Lakmal,PADLR Sandakan,CBRLS Kumara
+1497,Sri Lanka,D,1,Colombo (SSC),won,lost,1st,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,LD Chandimal,TAM Siriwardana,DAS Gunaratne,NLTC Perera,S Prasanna,MDK Perera,KMDN Kulasekara,RAS Lakmal
+1528,Sri Lanka,D,0,The Oval,lost,won,2nd,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,LD Chandimal,CK Kapugedera,MDKJ Perera,DAS Gunaratne,S Prasanna,RAS Lakmal,SL Malinga,N Pradeep
+1535,Sri Lanka,D,0,The Oval,won,won,2nd,v India,N Dickwella,MD Gunathilaka,BKG Mendis,MDKJ Perera,AD Mathews,DAS Gunaratne,LD Chandimal,NLTC Perera,RAS Lakmal,SL Malinga,N Pradeep
+1548,Sri Lanka,D,0,Cardiff,lost,lost,1st,v Pakistan,N Dickwella,MD Gunathilaka,BKG Mendis,LD Chandimal,AD Mathews,DM de Silva,DAS Gunaratne,NLTC Perera,RAS Lakmal,SL Malinga,N Pradeep
+1558,Sri Lanka,D,1,Galle,lost,won,1st,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,LD Madushanka,SL Malinga,N Pradeep,MA Aponso,A Dananjaya
+1561,Sri Lanka,D,1,Galle,won,won,2nd,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,PWH de Silva,SL Malinga,N Pradeep,PVD Chameera,PADLR Sandakan
+1565,Sri Lanka,D,1,Hambantota,won,won,2nd,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,PWH de Silva,PVD Chameera,PADLR Sandakan,SL Malinga,N Pradeep
+1570,Sri Lanka,D,1,Hambantota,lost,won,1st,v Zimbabwe,N Dickwella,MD Gunathilaka,AD Mathews,WU Tharanga,DAS Gunaratne,BKG Mendis,PWH de Silva,SL Malinga,AM Fernando,PVD Chameera,PADLR Sandakan
+1572,Sri Lanka,D,1,Hambantota,lost,lost,1st,v Zimbabwe,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,DAS Gunaratne,PWH de Silva,KMDN Kulasekara,A Dananjaya,PVD Chameera,SL Malinga
+1574,Sri Lanka,DN,1,Dambulla,lost,lost,1st,v India,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,CK Kapugedera,PWH de Silva,NLTC Perera,PADLR Sandakan,SL Malinga,MVT Fernando
+1576,Sri Lanka,DN,1,Pallekele,lost,lost,1st,v India,N Dickwella,MD Gunathilaka,BKG Mendis,WU Tharanga,AD Mathews,TAM Siriwardana,CK Kapugedera,A Dananjaya,PVD Chameera,MVT Fernando,SL Malinga
+1578,Sri Lanka,DN,1,Pallekele,lost,won,1st,v India,N Dickwella,LD Chandimal,BKG Mendis,HDRL Thirimanne,AD Mathews,CK Kapugedera,TAM Siriwardana,A Dananjaya,PVD Chameera,MVT Fernando,SL Malinga
+1580,Sri Lanka,DN,1,Colombo (RPS),lost,lost,2nd,v India,N Dickwella,EMDY Munaweera,BKG Mendis,HDRL Thirimanne,AD Mathews,TAM Siriwardana,PWH de Silva,A Dananjaya,PM Pushpakumara,MVT Fernando,SL Malinga
+1582,Sri Lanka,DN,1,Colombo (RPS),lost,won,1st,v India,N Dickwella,WU Tharanga,EMDY Munaweera,HDRL Thirimanne,AD Mathews,TAM Siriwardana,PWH de Silva,A Dananjaya,PM Pushpakumara,MVT Fernando,SL Malinga
+1602,Sri Lanka,DN,0,Dubai (DSC),lost,won,2nd,v Pakistan,N Dickwella,WU Tharanga,LD Chandimal,HDRL Thirimanne,BKG Mendis,TAM Siriwardana,NLTC Perera,A Dananjaya,JDF Vandersay,RAS Lakmal,PLS Gamage
+1606,Sri Lanka,DN,0,Abu Dhabi,lost,lost,2nd,v Pakistan,N Dickwella,WU Tharanga,BKG Mendis,HDRL Thirimanne,LD Chandimal,TAM Siriwardana,NLTC Perera,A Dananjaya,JDF Vandersay,RAS Lakmal,PLS Gamage
+1610,Sri Lanka,DN,0,Abu Dhabi,lost,won,1st,v Pakistan,N Dickwella,WU Tharanga,LD Chandimal,CK Kapugedera,HDRL Thirimanne,TAM Siriwardana,JDF Vandersay,NLTC Perera,A Dananjaya,PVD Chameera,PLS Gamage
+1612,Sri Lanka,DN,0,Sharjah,lost,won,1st,v Pakistan,N Dickwella,WU Tharanga,LD Chandimal,HDRL Thirimanne,S Samarawickrama,TAM Siriwardana,S Prasanna,NLTC Perera,A Dananjaya,RAS Lakmal,PLS Gamage
+1618,Sri Lanka,DN,0,Sharjah,lost,won,1st,v Pakistan,WU Tharanga,S Samarawickrama,LD Chandimal,HDRL Thirimanne,N Dickwella,TAM Siriwardana,S Prasanna,NLTC Perera,JDF Vandersay,PVD Chameera,MVT Fernando
+1627,Sri Lanka,DN,0,Dharamsala,won,won,2nd,v India,MD Gunathilaka,WU Tharanga,HDRL Thirimanne,AD Mathews,N Dickwella,DAS Gunaratne,NLTC Perera,SS Pathirana,RAS Lakmal,A Dananjaya,N Pradeep
+1632,Sri Lanka,DN,0,Mohali,lost,won,2nd,v India,MD Gunathilaka,WU Tharanga,HDRL Thirimanne,AD Mathews,N Dickwella,DAS Gunaratne,NLTC Perera,SS Pathirana,A Dananjaya,RAS Lakmal,N Pradeep
+1634,Sri Lanka,DN,0,Visakhapatnam,lost,lost,1st,v India,MD Gunathilaka,WU Tharanga,S Samarawickrama,AD Mathews,N Dickwella,DAS Gunaratne,NLTC Perera,SS Pathirana,A Dananjaya,RAS Lakmal,N Pradeep
+1654,Sri Lanka,DN,0,Dhaka,lost,won,2nd,v Zimbabwe,MDKJ Perera,WU Tharanga,BKG Mendis,AD Mathews,LD Chandimal,DAS Gunaratne,NLTC Perera,PWH de Silva,A Dananjaya,RAS Lakmal,PVD Chameera
+1660,Sri Lanka,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,MDKJ Perera,WU Tharanga,BKG Mendis,N Dickwella,LD Chandimal,DAS Gunaratne,NLTC Perera,PWH de Silva,A Dananjaya,RAS Lakmal,N Pradeep
+1663,Sri Lanka,DN,0,Dhaka,won,lost,2nd,v Zimbabwe,MDKJ Perera,WU Tharanga,BKG Mendis,N Dickwella,LD Chandimal,DAS Gunaratne,NLTC Perera,PADLR Sandakan,A Dananjaya,RAS Lakmal,N Pradeep
+1667,Sri Lanka,DN,0,Dhaka,won,lost,2nd,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,LD Chandimal,DAS Gunaratne,N Dickwella,NLTC Perera,RAS Lakmal,PADLR Sandakan,A Dananjaya,PVD Chameera
+1671,Sri Lanka,DN,0,Dhaka,won,won,1st,v Bangladesh,MD Gunathilaka,WU Tharanga,BKG Mendis,N Dickwella,LD Chandimal,NLTC Perera,DAS Gunaratne,A Dananjaya,DSK Madushanka,RAS Lakmal,PVD Chameera
+1754,Sri Lanka,D,1,Dambulla,lost,won,1st,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,MDKJ Perera,AD Mathews,GSNFG Jayasuriya,NLTC Perera,A Dananjaya,RAS Lakmal,PADLR Sandakan,CBRLS Kumara
+1756,Sri Lanka,DN,1,Dambulla,lost,won,1st,v South Africa,WU Tharanga,N Dickwella,BKG Mendis,MDKJ Perera,AD Mathews,GSNFG Jayasuriya,NLTC Perera,A Dananjaya,RAS Lakmal,NGRP Jayasuriya,CAK Rajitha
+1758,Sri Lanka,D,1,Pallekele,lost,won,2nd,v South Africa,WU Tharanga,N Dickwella,MDKJ Perera,BKG Mendis,NLTC Perera,AD Mathews,DM de Silva,A Dananjaya,RAS Lakmal,NGRP Jayasuriya,CBRLS Kumara
+1759,Sri Lanka,DN,1,Pallekele,won,lost,1st,v South Africa,N Dickwella,WU Tharanga,BKG Mendis,MDKJ Perera,AD Mathews,DM de Silva,NLTC Perera,MD Shanaka,A Dananjaya,RAS Lakmal,CBRLS Kumara
+1761,Sri Lanka,DN,1,Colombo (RPS),won,won,1st,v South Africa,N Dickwella,WU Tharanga,MDKJ Perera,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,MD Shanaka,A Dananjaya,RAS Lakmal,CBRLS Kumara
+1770,Sri Lanka,DN,0,Dubai (DSC),lost,lost,2nd,v Bangladesh,WU Tharanga,BKG Mendis,MDKJ Perera,DM de Silva,AD Mathews,MD Shanaka,NLTC Perera,MDK Perera,RAS Lakmal,MA Aponso,SL Malinga
+1772,Sri Lanka,DN,0,Abu Dhabi,lost,lost,2nd,v Afghanistan,BKG Mendis,WU Tharanga,DM de Silva,MDKJ Perera,AD Mathews,GSNFG Jayasuriya,NLTC Perera,MD Shanaka,A Dananjaya,SL Malinga,PVD Chameera
+1796,Sri Lanka,D,1,Dambulla,lost,won,2nd,v England,N Dickwella,WU Tharanga,LD Chandimal,MDKJ Perera,MD Shanaka,DM de Silva,NLTC Perera,A Dananjaya,PADLR Sandakan,SL Malinga,N Pradeep
+1798,Sri Lanka,DN,1,Pallekele,lost,lost,1st,v England,N Dickwella,S Samarawickrama,BKG Mendis,LD Chandimal,NLTC Perera,DM de Silva,MD Shanaka,A Dananjaya,SL Malinga,MA Aponso,N Pradeep
+1800,Sri Lanka,D,1,Pallekele,lost,lost,1st,v England,N Dickwella,S Samarawickrama,LD Chandimal,BKG Mendis,DM de Silva,MD Shanaka,NLTC Perera,A Dananjaya,SL Malinga,MA Aponso,CAK Rajitha
+1805,Sri Lanka,DN,1,Colombo (RPS),won,won,1st,v England,N Dickwella,S Samarawickrama,LD Chandimal,BKG Mendis,MD Shanaka,NLTC Perera,DM de Silva,A Dananjaya,PVD Chameera,CAK Rajitha,PADLR Sandakan
+1834,Sri Lanka,DN,0,Mount Maunganui,lost,lost,2nd,v New Zealand,N Dickwella,MD Gunathilaka,MDKJ Perera,BKG Mendis,LD Chandimal,DAS Gunaratne,NLTC Perera,S Prasanna,SL Malinga,PADLR Sandakan,N Pradeep
+1836,Sri Lanka,DN,0,Mount Maunganui,lost,lost,2nd,v New Zealand,N Dickwella,MD Gunathilaka,MDKJ Perera,BKG Mendis,LD Chandimal,DAS Gunaratne,NLTC Perera,S Prasanna,SL Malinga,PADLR Sandakan,N Pradeep
+1838,Sri Lanka,D,0,Nelson,lost,won,2nd,v New Zealand,N Dickwella,DM de Silva,MDKJ Perera,BKG Mendis,MD Shanaka,NLTC Perera,MD Gunathilaka,PVD Chameera,SL Malinga,PADLR Sandakan,N Pradeep
+1884,Sri Lanka,D,0,Johannesburg,lost,lost,1st,v South Africa,N Dickwella,WU Tharanga,MDKJ Perera,BOP Fernando,BKG Mendis,DM de Silva,NLTC Perera,A Dananjaya,SL Malinga,PADLR Sandakan,MVT Fernando
+1890,Sri Lanka,DN,0,Centurion,lost,won,2nd,v South Africa,N Dickwella,WIA Fernando,MDKJ Perera,BOP Fernando,BKG Mendis,DM de Silva,NLTC Perera,A Dananjaya,CAK Rajitha,SL Malinga,MVT Fernando
+1900,Sri Lanka,D,0,Durban,lost,won,2nd,v South Africa,WIA Fernando,N Dickwella,BOP Fernando,BKG Mendis,NLTC Perera,PHKD Mendis,I Udana,MDKJ Perera,A Dananjaya,CAK Rajitha,SL Malinga
+1904,Sri Lanka,DN,0,Port Elizabeth,lost,lost,1st,v South Africa,WIA Fernando,WU Tharanga,BOP Fernando,BKG Mendis,PARP Perera,PHKD Mendis,DM de Silva,NLTC Perera,I Udana,SL Malinga,CAK Rajitha
+1906,Sri Lanka,DN,0,Cape Town,lost,won,1st,v South Africa,WIA Fernando,WU Tharanga,BOP Fernando,BKG Mendis,AK Perera,PARP Perera,NLTC Perera,DM de Silva,I Udana,A Dananjaya,SL Malinga
+1948,Sri Lanka,D,0,Cardiff,lost,lost,1st,v New Zealand,HDRL Thirimanne,FDM Karunaratne,MDKJ Perera,BKG Mendis,DM de Silva,AD Mathews,BMAJ Mendis,NLTC Perera,I Udana,RAS Lakmal,SL Malinga
+1955,Sri Lanka,D,0,Cardiff,won,lost,1st,v Afghanistan,FDM Karunaratne,MDKJ Perera,HDRL Thirimanne,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,I Udana,RAS Lakmal,SL Malinga,N Pradeep
+1974,Sri Lanka,D,0,The Oval,lost,won,2nd,v Australia,FDM Karunaratne,MDKJ Perera,HDRL Thirimanne,BKG Mendis,AD Mathews,TAM Siriwardana,NLTC Perera,DM de Silva,I Udana,SL Malinga,N Pradeep
+1987,Sri Lanka,D,0,Leeds,won,won,1st,v England,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,BMAJ Mendis,DM de Silva,NLTC Perera,I Udana,SL Malinga,N Pradeep
+2004,Sri Lanka,D,0,Chester-le-Street,lost,lost,1st,v South Africa,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,DM de Silva,BMAJ Mendis,NLTC Perera,I Udana,RAS Lakmal,SL Malinga
+2011,Sri Lanka,D,0,Chester-le-Street,won,lost,1st,v West Indies,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,HDRL Thirimanne,I Udana,DM de Silva,JDF Vandersay,CAK Rajitha,SL Malinga
+2026,Sri Lanka,D,0,Leeds,lost,won,1st,v India,FDM Karunaratne,MDKJ Perera,WIA Fernando,BKG Mendis,AD Mathews,HDRL Thirimanne,DM de Silva,NLTC Perera,I Udana,CAK Rajitha,SL Malinga
+2035,Sri Lanka,DN,1,Colombo (RPS),won,won,1st,v Bangladesh,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,HDRL Thirimanne,NLTC Perera,DM de Silva,SL Malinga,N Pradeep,CBRLS Kumara
+2037,Sri Lanka,DN,1,Colombo (RPS),won,lost,2nd,v Bangladesh,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,HDRL Thirimanne,DM de Silva,A Dananjaya,I Udana,N Pradeep,CBRLS Kumara
+2039,Sri Lanka,DN,1,Colombo (RPS),won,won,1st,v Bangladesh,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,MD Shanaka,GSNFG Jayasuriya,PWH de Silva,A Dananjaya,CAK Rajitha,CBRLS Kumara
+2046,Sri Lanka,DN,0,Karachi,lost,lost,2nd,v Pakistan,MD Gunathilaka,S Samarawickrama,WIA Fernando,BOP Fernando,HDRL Thirimanne,GSNFG Jayasuriya,MD Shanaka,PWH de Silva,I Udana,CBRLS Kumara,N Pradeep
+2048,Sri Lanka,DN,0,Karachi,lost,won,1st,v Pakistan,MD Gunathilaka,WIA Fernando,HDRL Thirimanne,AK Perera,M Bhanuka,GSNFG Jayasuriya,MD Shanaka,PWH de Silva,PADLR Sandakan,N Pradeep,CBRLS Kumara
+2083,Sri Lanka,DN,1,Colombo (SSC),won,won,2nd,v West Indies,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,PWH de Silva,I Udana,PADLR Sandakan,N Pradeep
+2085,Sri Lanka,DN,1,Hambantota,won,lost,1st,v West Indies,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,NLTC Perera,AD Mathews,DM de Silva,PWH de Silva,I Udana,PADLR Sandakan,N Pradeep
+2091,Sri Lanka,DN,1,Pallekele,won,won,1st,v West Indies,WIA Fernando,FDM Karunaratne,MDKJ Perera,BKG Mendis,AD Mathews,DM de Silva,NLTC Perera,PWH de Silva,I Udana,PADLR Sandakan,N Pradeep
+1024,West Indies,DN,0,Durban,lost,lost,2nd,v South Africa,DJG Sammy,DR Smith,MN Samuels,CH Gayle,AD Russell,LR Johnson,D Ramdin,JO Holder,SJ Benn,JL Carter,JE Taylor
+1030,West Indies,D,0,Johannesburg,lost,won,2nd,v South Africa,DJG Sammy,DR Smith,MN Samuels,CH Gayle,AD Russell,LR Johnson,D Ramdin,JO Holder,SJ Benn,JL Carter,JE Taylor
+1036,West Indies,DN,0,East London,lost,won,1st,v South Africa,N Deonarine,DR Smith,MN Samuels,CH Gayle,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SJ Benn,JL Carter,JE Taylor
+1043,West Indies,DN,0,Port Elizabeth,won,won,2nd,v South Africa,LR Johnson,DR Smith,MN Samuels,CH Gayle,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SS Cottrell,JL Carter,DJG Sammy
+1046,West Indies,DN,0,Centurion,lost,won,2nd,v South Africa,N Deonarine,DR Smith,MN Samuels,CH Gayle,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SS Cottrell,JL Carter,JE Taylor
+1066,West Indies,D,0,Nelson,lost,lost,1st,v Ireland,DM Bravo,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,KAJ Roach,JE Taylor
+1071,West Indies,D,0,Christchurch,won,lost,1st,v Pakistan,DM Bravo,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,SJ Benn,JE Taylor
+1077,West Indies,DN,0,Canberra,won,won,1st,v Zimbabwe,NO Miller,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+1082,West Indies,DN,0,Sydney,lost,lost,2nd,v South Africa,SJ Benn,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+1094,West Indies,DN,0,Perth,lost,won,1st,v India,KAJ Roach,DR Smith,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+1122,West Indies,DN,0,Wellington,lost,lost,2nd,v New Zealand,J Charles,SJ Benn,MN Samuels,CH Gayle,AD Russell,LMP Simmons,D Ramdin,JO Holder,DJG Sammy,JL Carter,JE Taylor
+1234,West Indies,DN,0,Colombo (RPS),lost,lost,1st,v Sri Lanka,ADS Fletcher,J Charles,MN Samuels,DM Bravo,AD Russell,CR Brathwaite,D Ramdin,JO Holder,SP Narine,JL Carter,JE Taylor
+1236,West Indies,DN,0,Colombo (RPS),lost,won,1st,v Sri Lanka,ADS Fletcher,J Charles,MN Samuels,DM Bravo,J Blackwood,CR Brathwaite,JN Mohammed,R Rampaul,SP Narine,JL Carter,JE Taylor
+1240,West Indies,DN,0,Pallekele,lost,lost,1st,v Sri Lanka,ADS Fletcher,J Charles,MN Samuels,DM Bravo,J Blackwood,CR Brathwaite,JO Holder,R Rampaul,SP Narine,JL Carter,JE Taylor
+1301,West Indies,DN,1,Providence,won,lost,2nd,v South Africa,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+1304,West Indies,DN,1,Providence,lost,lost,1st,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+1313,West Indies,DN,1,Basseterre,won,won,2nd,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+1318,West Indies,DN,1,Basseterre,lost,won,2nd,v South Africa,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,JE Taylor
+1324,West Indies,DN,0,Bridgetown,lost,lost,1st,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+1327,West Indies,DN,0,Bridgetown,won,lost,1st,v South Africa,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+1330,West Indies,DN,0,Bridgetown,lost,lost,2nd,v Australia,ADS Fletcher,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+1374,West Indies,DN,0,Sharjah,lost,won,2nd,v Pakistan,KC Brathwaite,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,ST Gabriel
+1382,West Indies,DN,0,Sharjah,lost,lost,2nd,v Pakistan,KC Brathwaite,J Charles,MN Samuels,DM Bravo,KA Pollard,CR Brathwaite,D Ramdin,JO Holder,SP Narine,SJ Benn,AS Joseph
+1384,West Indies,DN,0,Abu Dhabi,lost,lost,2nd,v Pakistan,KC Brathwaite,ST Gabriel,MN Samuels,DM Bravo,KA Pollard,E Lewis,D Ramdin,JO Holder,SP Narine,SJ Benn,AS Joseph
+1409,West Indies,D,0,Harare,won,lost,1st,v Sri Lanka,J Charles,KC Brathwaite,E Lewis,SD Hope,JL Carter,R Powell,CR Brathwaite,JO Holder,AR Nurse,SJ Benn,ST Gabriel
+1412,West Indies,D,0,Bulawayo,lost,won,2nd,v Sri Lanka,J Charles,E Lewis,KC Brathwaite,SD Hope,JL Carter,R Powell,JO Holder,CR Brathwaite,AR Nurse,SJ Benn,ST Gabriel
+1414,West Indies,D,0,Bulawayo,lost,lost,2nd,v Zimbabwe,E Lewis,J Charles,KC Brathwaite,SD Hope,JL Carter,R Powell,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,ML Cummins
+1478,West Indies,D,1,North Sound,lost,won,2nd,v England,KC Brathwaite,E Lewis,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,ST Gabriel
+1482,West Indies,D,1,North Sound,lost,won,1st,v England,KC Brathwaite,E Lewis,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,ST Gabriel
+1484,West Indies,D,1,Bridgetown,lost,won,2nd,v England,KOA Powell,E Lewis,KC Brathwaite,SD Hope,JN Mohammed,JL Carter,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,AS Joseph
+1499,West Indies,D,1,Providence,won,won,2nd,v Pakistan,E Lewis,CAK Walton,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,AR Nurse,D Bishoo,ST Gabriel,AS Joseph
+1502,West Indies,D,1,Providence,lost,won,2nd,v Pakistan,E Lewis,CAK Walton,SD Hope,KOA Powell,JL Carter,JN Mohammed,JO Holder,AR Nurse,D Bishoo,AS Joseph,ST Gabriel
+1504,West Indies,D,1,Providence,lost,won,1st,v Pakistan,E Lewis,CAK Walton,KOA Powell,SD Hope,JN Mohammed,JL Carter,JO Holder,AR Nurse,V Permaul,D Bishoo,ST Gabriel
+1540,West Indies,DN,1,Gros Islet,lost,lost,2nd,v Afghanistan,E Lewis,KOA Powell,SD Hope,JN Mohammed,RL Chase,JL Carter,JO Holder,AR Nurse,AS Joseph,ML Cummins,ST Gabriel
+1545,West Indies,DN,1,Gros Islet,won,lost,2nd,v Afghanistan,E Lewis,KOA Powell,SD Hope,JL Carter,JN Mohammed,RL Chase,R Powell,JO Holder,AR Nurse,AS Joseph,ST Gabriel
+1556,West Indies,D,1,Port of Spain,lost,won,2nd,v India,KOA Powell,SD Hope,JN Mohammed,E Lewis,JL Carter,JO Holder,RL Chase,AR Nurse,D Bishoo,AS Joseph,ML Cummins
+1560,West Indies,D,1,North Sound,lost,won,2nd,v India,E Lewis,KA Hope,SD Hope,RL Chase,JN Mohammed,JO Holder,R Powell,AR Nurse,D Bishoo,ML Cummins,KOK Williams
+1563,West Indies,D,1,North Sound,won,won,1st,v India,E Lewis,KA Hope,SD Hope,RL Chase,JN Mohammed,JO Holder,R Powell,AR Nurse,D Bishoo,AS Joseph,KOK Williams
+1568,West Indies,D,1,Kingston,lost,won,1st,v India,E Lewis,KA Hope,SD Hope,RL Chase,JN Mohammed,JO Holder,R Powell,AR Nurse,D Bishoo,AS Joseph,KOK Williams
+1586,West Indies,DN,0,Manchester,lost,won,1st,v England,CH Gayle,E Lewis,SD Hope,MN Samuels,JN Mohammed,R Powell,JO Holder,AR Nurse,D Bishoo,JE Taylor,KOK Williams
+1592,West Indies,D,0,Bristol,lost,won,2nd,v England,CH Gayle,E Lewis,SD Hope,MN Samuels,JN Mohammed,R Powell,JO Holder,AR Nurse,D Bishoo,JE Taylor,ML Cummins
+1594,West Indies,DN,0,The Oval,lost,lost,1st,v England,CH Gayle,E Lewis,SD Hope,MN Samuels,JN Mohammed,JO Holder,R Powell,AR Nurse,JE Taylor,AS Joseph,ML Cummins
+1598,West Indies,DN,0,Southampton,lost,lost,1st,v England,CH Gayle,KA Hope,SD Hope,MN Samuels,JN Mohammed,SW Ambris,R Powell,AR Nurse,AS Joseph,JE Taylor,ML Cummins
+1636,West Indies,D,0,Whangarei,lost,lost,1st,v New Zealand,CH Gayle,E Lewis,SD Hope,SO Hetmyer,JN Mohammed,JO Holder,R Powell,AR Nurse,RR Beaton,KOK Williams,ST Gabriel
+1638,West Indies,D,0,Christchurch,lost,won,2nd,v New Zealand,E Lewis,KA Hope,SD Hope,SO Hetmyer,JN Mohammed,JO Holder,R Powell,AR Nurse,SS Cottrell,RR Beaton,ST Gabriel
+1640,West Indies,D,0,Christchurch,lost,lost,2nd,v New Zealand,CH Gayle,CAK Walton,SD Hope,KA Hope,JN Mohammed,JO Holder,R Powell,AR Nurse,NO Miller,SS Cottrell,ST Gabriel
+1709,West Indies,D,0,Harare,won,lost,1st,v Ireland,CH Gayle,E Lewis,SO Hetmyer,MN Samuels,SD Hope,JO Holder,R Powell,CR Brathwaite,AR Nurse,KAJ Roach,KOK Williams
+1712,West Indies,D,0,Harare,lost,won,1st,v Afghanistan,CH Gayle,E Lewis,SO Hetmyer,MN Samuels,SD Hope,JO Holder,R Powell,CR Brathwaite,AR Nurse,KMA Paul,NO Miller
+1715,West Indies,D,0,Harare,won,lost,2nd,v Zimbabwe,CH Gayle,E Lewis,SD Hope,MN Samuels,SO Hetmyer,JO Holder,R Powell,AR Nurse,KMA Paul,D Bishoo,KAJ Roach
+1720,West Indies,D,0,Harare,lost,won,1st,v Afghanistan,CH Gayle,E Lewis,SD Hope,MN Samuels,SO Hetmyer,JO Holder,R Powell,CR Brathwaite,AR Nurse,KMA Paul,KAJ Roach
+1748,West Indies,D,1,Providence,lost,lost,2nd,v Bangladesh,CH Gayle,E Lewis,SD Hope,SO Hetmyer,JN Mohammed,JO Holder,R Powell,AD Russell,AR Nurse,D Bishoo,AS Joseph
+1749,West Indies,DN,1,Providence,won,lost,1st,v Bangladesh,CH Gayle,E Lewis,SD Hope,SO Hetmyer,JN Mohammed,R Powell,JO Holder,AR Nurse,KMA Paul,D Bishoo,AS Joseph
+1752,West Indies,D,1,Basseterre,lost,lost,2nd,v Bangladesh,CH Gayle,E Lewis,SD Hope,SO Hetmyer,KOA Powell,R Powell,JO Holder,AR Nurse,KMA Paul,D Bishoo,SS Cottrell
+1802,West Indies,DN,0,Guwahati,lost,lost,1st,v India,KOA Powell,C Hemraj,SD Hope,MN Samuels,SO Hetmyer,R Powell,JO Holder,AR Nurse,D Bishoo,KAJ Roach,O Thomas
+1811,West Indies,DN,0,Pune,won,lost,1st,v India,KOA Powell,C Hemraj,SD Hope,MN Samuels,SO Hetmyer,R Powell,JO Holder,FA Allen,AR Nurse,KAJ Roach,OC McCoy
+1814,West Indies,DN,0,Mumbai (BS),lost,lost,2nd,v India,C Hemraj,KOA Powell,SD Hope,MN Samuels,SO Hetmyer,R Powell,JO Holder,FA Allen,AR Nurse,KMA Paul,KAJ Roach
+1816,West Indies,DN,0,Thiruvananthapuram,lost,won,1st,v India,KOA Powell,R Powell,SD Hope,MN Samuels,SO Hetmyer,JO Holder,FA Allen,KMA Paul,D Bishoo,KAJ Roach,O Thomas
+1828,West Indies,DN,0,Dhaka,lost,won,1st,v Bangladesh,KOA Powell,SD Hope,DM Bravo,MN Samuels,SO Hetmyer,R Powell,RL Chase,KMA Paul,KAJ Roach,D Bishoo,O Thomas
+1829,West Indies,DN,0,Dhaka,won,won,2nd,v Bangladesh,C Hemraj,SD Hope,DM Bravo,MN Samuels,SO Hetmyer,R Powell,RL Chase,KMA Paul,KAJ Roach,D Bishoo,O Thomas
+1832,West Indies,DN,0,Sylhet,lost,lost,1st,v Bangladesh,C Hemraj,SD Hope,DM Bravo,MN Samuels,SO Hetmyer,R Powell,RL Chase,FA Allen,KMA Paul,KAJ Roach,D Bishoo
+1872,West Indies,DN,1,Bridgetown,lost,won,1st,v England,CH Gayle,JD Campbell,SD Hope,SO Hetmyer,N Pooran,DM Bravo,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,O Thomas
+1873,West Indies,DN,1,Bridgetown,won,lost,1st,v England,CH Gayle,JD Campbell,SD Hope,DM Bravo,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,SS Cottrell,O Thomas
+1876,West Indies,D,0,St George's,lost,won,2nd,v England,CH Gayle,JD Campbell,SD Hope,DM Bravo,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,SS Cottrell,O Thomas
+1881,West Indies,DN,1,Gros Islet,won,won,2nd,v England,CH Gayle,JD Campbell,SD Hope,DM Bravo,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,D Bishoo,SS Cottrell,O Thomas
+1919,West Indies,D,0,Dublin,won,lost,1st,v Ireland,JD Campbell,SD Hope,DM Bravo,JO Holder,RL Chase,JL Carter,SW Ambris,AR Nurse,KAJ Roach,SS Cottrell,ST Gabriel
+1922,West Indies,D,0,Dublin,lost,won,1st,v Bangladesh,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,SO Dowrich,AR Nurse,KAJ Roach,SS Cottrell,ST Gabriel
+1923,West Indies,D,0,Dublin (Malahide),won,lost,2nd,v Ireland,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,FA Allen,AR Nurse,KAJ Roach,SS Cottrell,ST Gabriel
+1928,West Indies,D,0,Dublin (Malahide),lost,won,1st,v Bangladesh,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,FA Allen,AR Nurse,RA Reifer,KAJ Roach,SS Cottrell
+1934,West Indies,D,0,Dublin (Malahide),lost,lost,1st,v Bangladesh,SD Hope,SW Ambris,DM Bravo,RL Chase,JL Carter,JO Holder,FA Allen,AR Nurse,KAJ Roach,RA Reifer,ST Gabriel
+1945,West Indies,D,0,Nottingham,won,won,2nd,v Pakistan,CH Gayle,SD Hope,DM Bravo,N Pooran,SO Hetmyer,AD Russell,JO Holder,CR Brathwaite,AR Nurse,SS Cottrell,O Thomas
+1962,West Indies,D,0,Nottingham,lost,won,2nd,v Australia,CH Gayle,E Lewis,SD Hope,N Pooran,SO Hetmyer,JO Holder,AD Russell,CR Brathwaite,AR Nurse,SS Cottrell,O Thomas
+1972,West Indies,D,0,Southampton,lost,lost,1st,v England,CH Gayle,E Lewis,SD Hope,N Pooran,SO Hetmyer,JO Holder,AD Russell,CR Brathwaite,SS Cottrell,O Thomas,ST Gabriel
+1980,West Indies,D,0,Taunton,lost,lost,1st,v Bangladesh,CH Gayle,E Lewis,SD Hope,N Pooran,SO Hetmyer,AD Russell,JO Holder,DM Bravo,O Thomas,SS Cottrell,ST Gabriel
+1992,West Indies,DN,0,Manchester,lost,won,2nd,v New Zealand,CH Gayle,SD Hope,N Pooran,SO Hetmyer,JO Holder,CR Brathwaite,AR Nurse,E Lewis,KAJ Roach,SS Cottrell,O Thomas
+2002,West Indies,D,0,Manchester,lost,lost,2nd,v India,CH Gayle,SW Ambris,SD Hope,N Pooran,SO Hetmyer,JO Holder,CR Brathwaite,FA Allen,KAJ Roach,SS Cottrell,O Thomas
+2012,West Indies,D,0,Chester-le-Street,lost,won,2nd,v Sri Lanka,CH Gayle,SW Ambris,SD Hope,SO Hetmyer,N Pooran,JO Holder,CR Brathwaite,FA Allen,SS Cottrell,O Thomas,ST Gabriel
+2019,West Indies,D,0,Leeds,won,won,1st,v Afghanistan,CH Gayle,E Lewis,SD Hope,SO Hetmyer,N Pooran,JO Holder,CR Brathwaite,FA Allen,SS Cottrell,KAJ Roach,O Thomas
+2042,West Indies,D,1,Port of Spain,lost,lost,2nd,v India,CH Gayle,E Lewis,SD Hope,SO Hetmyer,N Pooran,RL Chase,JO Holder,CR Brathwaite,KAJ Roach,SS Cottrell,O Thomas
+2044,West Indies,D,1,Port of Spain,lost,won,1st,v India,CH Gayle,E Lewis,SD Hope,SO Hetmyer,N Pooran,JO Holder,CR Brathwaite,FA Allen,KMA Paul,RL Chase,KAJ Roach
+2049,West Indies,DN,0,Lucknow,won,won,2nd,v Afghanistan,SD Hope,E Lewis,SO Hetmyer,RL Chase,N Pooran,KA Pollard,JO Holder,SS Cottrell,R Shepherd,HR Walsh,AS Joseph
+2051,West Indies,DN,0,Lucknow,won,lost,1st,v Afghanistan,SD Hope,E Lewis,SO Hetmyer,RL Chase,N Pooran,KA Pollard,JO Holder,R Shepherd,AS Joseph,HR Walsh,SS Cottrell
+2053,West Indies,DN,0,Lucknow,won,won,2nd,v Afghanistan,SD Hope,E Lewis,SO Hetmyer,BA King,N Pooran,KA Pollard,RL Chase,KMA Paul,R Shepherd,AS Joseph,HR Walsh
+2055,West Indies,D,0,Chennai,won,won,2nd,v India,SD Hope,SW Ambris,SO Hetmyer,N Pooran,RL Chase,KA Pollard,JO Holder,KMA Paul,HR Walsh,AS Joseph,SS Cottrell
+2058,West Indies,D,0,Visakhapatnam,lost,won,2nd,v India,E Lewis,SD Hope,SO Hetmyer,RL Chase,N Pooran,KA Pollard,JO Holder,KMA Paul,AS Joseph,K Pierre,SS Cottrell
+2060,West Indies,D,0,Cuttack,lost,lost,1st,v India,E Lewis,SD Hope,RL Chase,SO Hetmyer,N Pooran,KA Pollard,JO Holder,KMA Paul,AS Joseph,K Pierre,SS Cottrell
+2061,West Indies,DN,1,Bridgetown,won,lost,2nd,v Ireland,SD Hope,E Lewis,BA King,SO Hetmyer,N Pooran,RL Chase,KA Pollard,KMA Paul,AS Joseph,SS Cottrell,HR Walsh
+2063,West Indies,DN,1,Bridgetown,won,lost,2nd,v Ireland,SD Hope,E Lewis,SO Hetmyer,BA King,N Pooran,KA Pollard,R Shepherd,K Pierre,HR Walsh,AS Joseph,SS Cottrell
+2065,West Indies,D,1,St George's,won,won,2nd,v Ireland,SD Hope,E Lewis,SW Ambris,BA King,N Pooran,R Shepherd,RL Chase,KA Pollard,HR Walsh,AS Joseph,O Thomas
+2084,West Indies,DN,0,Colombo (SSC),lost,lost,1st,v Sri Lanka,SD Hope,SW Ambris,DM Bravo,RL Chase,N Pooran,KA Pollard,JO Holder,KMA Paul,HR Walsh,AS Joseph,SS Cottrell
+2086,West Indies,DN,0,Hambantota,lost,won,2nd,v Sri Lanka,SD Hope,SW Ambris,DM Bravo,RL Chase,N Pooran,KA Pollard,JO Holder,KMA Paul,FA Allen,AS Joseph,SS Cottrell
+2092,West Indies,DN,0,Pallekele,lost,lost,2nd,v Sri Lanka,SD Hope,SW Ambris,N Pooran,KA Pollard,DM Bravo,JO Holder,FA Allen,HR Walsh,RL Chase,AS Joseph,SS Cottrell
+1062,Zimbabwe,DN,0,Hamilton,lost,won,2nd,v South Africa,CJ Chibhabha,Sikandar Raza,H Masakadza,BRM Taylor,SC Williams,CR Ervine,E Chigumbura,SF Mire,T Panyangara,TL Chatara,TP Kamungozi
+1078,Zimbabwe,DN,0,Canberra,lost,lost,2nd,v West Indies,Sikandar Raza,RW Chakabva,H Masakadza,BRM Taylor,BRM Taylor,SC Williams,E Chigumbura,E Chigumbura,T Panyangara,TL Chatara,TL Chatara
+1088,Zimbabwe,DN,0,Brisbane,lost,lost,2nd,v Pakistan,CJ Chibhabha,Sikandar Raza,H Masakadza,BRM Taylor,SC Williams,CR Ervine,SF Mire,E Chigumbura,T Mupariwa,T Panyangara,T Panyangara
+1098,Zimbabwe,DN,0,Hobart,lost,won,2nd,v Ireland,CJ Chibhabha,Sikandar Raza,SF Mire,H Masakadza,BRM Taylor,SC Williams,CR Ervine,RW Chakabva,T Panyangara,T Mupariwa,TL Chatara
+1112,Zimbabwe,DN,0,Auckland,lost,lost,1st,v India,CJ Chibhabha,H Masakadza,SF Mire,BRM Taylor,SC Williams,CR Ervine,Sikandar Raza,RW Chakabva,T Panyangara,T Mupariwa,TL Chatara
+1136,Zimbabwe,DN,0,Lahore,lost,lost,2nd,v Pakistan,V Sibanda,Sikandar Raza,H Masakadza,E Chigumbura,SC Williams,R Mutumbami,P Utseya,CR Ervine,CB Mpofu,T Panyangara,BV Vitori
+1138,Zimbabwe,DN,0,Lahore,lost,lost,1st,v Pakistan,V Sibanda,CJ Chibhabha,H Masakadza,SC Williams,Sikandar Raza,R Mutumbami,CK Coventry,AG Cremer,T Panyangara,T Mupariwa,BV Vitori
+1156,Zimbabwe,D,1,Harare,lost,won,2nd,v India,V Sibanda,CJ Chibhabha,H Masakadza,E Chigumbura,SC Williams,Sikandar Raza,R Mutumbami,AG Cremer,DT Tiripano,BV Vitori,T Panyangara
+1162,Zimbabwe,D,1,Harare,lost,won,2nd,v India,V Sibanda,CJ Chibhabha,H Masakadza,E Chigumbura,SC Williams,Sikandar Raza,R Mutumbami,AG Cremer,N Madziva,DT Tiripano,BV Vitori
+1166,Zimbabwe,D,1,Harare,lost,won,2nd,v India,H Masakadza,CJ Chibhabha,RW Chakabva,E Chigumbura,R Mutumbami,Sikandar Raza,MN Waller,AG Cremer,P Utseya,DT Tiripano,N Madziva
+1177,Zimbabwe,D,1,Harare,won,won,2nd,v New Zealand,H Masakadza,CJ Chibhabha,CR Ervine,E Chigumbura,SC Williams,RW Chakabva,Sikandar Raza,AG Cremer,P Utseya,T Panyangara,CB Mpofu
+1180,Zimbabwe,D,1,Harare,lost,won,1st,v New Zealand,H Masakadza,CJ Chibhabha,CR Ervine,RW Chakabva,E Chigumbura,SC Williams,Sikandar Raza,AG Cremer,P Utseya,T Panyangara,CB Mpofu
+1182,Zimbabwe,D,1,Harare,lost,won,2nd,v New Zealand,H Masakadza,CJ Chibhabha,CR Ervine,E Chigumbura,SC Williams,Sikandar Raza,RW Chakabva,AG Cremer,N Madziva,T Panyangara,J Nyumbu
+1202,Zimbabwe,D,1,Harare,lost,won,2nd,v Pakistan,BB Chari,CJ Chibhabha,H Masakadza,SC Williams,Sikandar Raza,E Chigumbura,R Mutumbami,LM Jongwe,AG Cremer,T Panyangara,J Nyumbu
+1203,Zimbabwe,D,1,Harare,won,lost,1st,v Pakistan,H Masakadza,CJ Chibhabha,BB Chari,SC Williams,E Chigumbura,Sikandar Raza,R Mutumbami,LM Jongwe,AG Cremer,T Panyangara,J Nyumbu
+1206,Zimbabwe,D,1,Harare,lost,lost,1st,v Pakistan,CJ Chibhabha,R Mutumbami,BB Chari,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,MN Waller,LM Jongwe,T Panyangara,J Nyumbu
+1207,Zimbabwe,D,1,Harare,won,won,2nd,v Ireland,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,WP Masakadza,T Panyangara,J Nyumbu
+1211,Zimbabwe,D,1,Harare,won,won,2nd,v Ireland,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,CT Mutombodzi,Sikandar Raza,E Chigumbura,J Nyumbu,WP Masakadza,T Panyangara,LM Jongwe
+1214,Zimbabwe,D,1,Harare,lost,lost,1st,v Ireland,CJ Chibhabha,R Mutumbami,BB Chari,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,WP Masakadza,J Nyumbu,LM Jongwe,T Muzarabani
+1217,Zimbabwe,D,1,Bulawayo,won,lost,2nd,v Afghanistan,R Mutumbami,CJ Chibhabha,CR Ervine,CT Mutombodzi,E Chigumbura,Sikandar Raza,LM Jongwe,TS Chisoro,WP Masakadza,T Panyangara,J Nyumbu
+1220,Zimbabwe,D,1,Bulawayo,lost,lost,2nd,v Afghanistan,CJ Chibhabha,R Mutumbami,CR Ervine,CT Mutombodzi,E Chigumbura,Sikandar Raza,TS Chisoro,LM Jongwe,WP Masakadza,T Panyangara,J Nyumbu
+1223,Zimbabwe,D,1,Bulawayo,won,lost,2nd,v Afghanistan,R Mutumbami,CJ Chibhabha,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,TS Chisoro,LM Jongwe,WP Masakadza,T Panyangara
+1226,Zimbabwe,D,1,Bulawayo,lost,won,1st,v Afghanistan,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,CT Mutombodzi,LM Jongwe,TS Chisoro,T Panyangara,WP Masakadza
+1230,Zimbabwe,D,1,Bulawayo,lost,won,2nd,v Afghanistan,CJ Chibhabha,R Mutumbami,CR Ervine,SC Williams,CT Mutombodzi,Sikandar Raza,E Chigumbura,TS Chisoro,LM Jongwe,WP Masakadza,T Panyangara
+1238,Zimbabwe,DN,0,Dhaka,lost,won,2nd,v Bangladesh,CJ Chibhabha,LM Jongwe,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,MN Waller,AG Cremer,T Panyangara,CT Mutombodzi,R Mutumbami
+1242,Zimbabwe,DN,0,Dhaka,lost,won,2nd,v Bangladesh,CJ Chibhabha,RW Chakabva,CR Ervine,SC Williams,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,T Panyangara,T Muzarabani
+1244,Zimbabwe,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,CJ Chibhabha,RW Chakabva,CR Ervine,SC Williams,E Chigumbura,MN Waller,Sikandar Raza,LM Jongwe,AG Cremer,T Panyangara,T Muzarabani
+1254,Zimbabwe,DN,0,Sharjah,lost,lost,2nd,v Afghanistan,PJ Moor,CJ Chibhabha,CR Ervine,R Mutumbami,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,WP Masakadza,T Muzarabani
+1260,Zimbabwe,DN,0,Sharjah,lost,won,1st,v Afghanistan,PJ Moor,R Mutumbami,H Masakadza,CR Ervine,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,WP Masakadza,T Muzarabani
+1263,Zimbabwe,DN,0,Sharjah,won,won,1st,v Afghanistan,PJ Moor,CJ Chibhabha,H Masakadza,R Mutumbami,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,N Madziva,TS Chisoro
+1265,Zimbabwe,DN,0,Sharjah,won,won,1st,v Afghanistan,PJ Moor,CJ Chibhabha,MN Waller,H Masakadza,R Mutumbami,E Chigumbura,Sikandar Raza,LM Jongwe,AG Cremer,N Madziva,TS Chisoro
+1270,Zimbabwe,DN,0,Sharjah,lost,won,1st,v Afghanistan,PJ Moor,CJ Chibhabha,H Masakadza,R Mutumbami,E Chigumbura,Sikandar Raza,MN Waller,LM Jongwe,AG Cremer,N Madziva,TS Chisoro
+1308,Zimbabwe,D,1,Harare,lost,lost,1st,v India,PJ Moor,CJ Chibhabha,H Masakadza,CR Ervine,V Sibanda,Sikandar Raza,E Chigumbura,R Mutumbami,AG Cremer,TL Chatara,T Muzarabani
+1312,Zimbabwe,D,1,Harare,lost,lost,1st,v India,H Masakadza,CJ Chibhabha,PJ Moor,V Sibanda,Sikandar Raza,E Chigumbura,R Mutumbami,AG Cremer,TL Chatara,T Muzarabani,SC Williams
+1316,Zimbabwe,D,1,Harare,lost,won,1st,v India,H Masakadza,CJ Chibhabha,V Sibanda,T Maruma,MN Waller,E Chigumbura,R Mutumbami,AG Cremer,N Madziva,T Mupariwa,DT Tiripano
+1408,Zimbabwe,D,1,Harare,lost,lost,1st,v Sri Lanka,BB Chari,CJ Chibhabha,CR Ervine,Sikandar Raza,SC Williams,PJ Moor,E Chigumbura,AG Cremer,DT Tiripano,CT Mumba,T Panyangara
+1413,Zimbabwe,D,1,Bulawayo,won,won,1st,v West Indies,BB Chari,CJ Chibhabha,H Masakadza,CR Ervine,Sikandar Raza,SC Williams,PJ Moor,AG Cremer,DT Tiripano,TS Chisoro,CB Mpofu
+1416,Zimbabwe,D,1,Bulawayo,lost,won,1st,v Sri Lanka,H Masakadza,PJ Moor,TK Musakanda,CR Ervine,Sikandar Raza,SC Williams,MN Waller,AG Cremer,DT Tiripano,TS Chisoro,BV Vitori
+1460,Zimbabwe,D,1,Harare,lost,lost,2nd,v Afghanistan,PJ Moor,SF Mire,CR Ervine,Sikandar Raza,RP Burl,TK Musakanda,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+1464,Zimbabwe,D,1,Harare,lost,lost,2nd,v Afghanistan,SF Mire,PJ Moor,CR Ervine,H Masakadza,RP Burl,TK Musakanda,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+1465,Zimbabwe,D,1,Harare,won,won,1st,v Afghanistan,PJ Moor,SF Mire,TK Musakanda,CR Ervine,SC Williams,RP Burl,MN Waller,AG Cremer,TL Chatara,R Ngarava,CB Mpofu
+1469,Zimbabwe,D,1,Harare,won,lost,2nd,v Afghanistan,SF Mire,PJ Moor,TK Musakanda,CR Ervine,SC Williams,RP Burl,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+1474,Zimbabwe,D,1,Harare,lost,lost,2nd,v Afghanistan,PJ Moor,SF Mire,TK Musakanda,CR Ervine,SC Williams,RP Burl,MN Waller,AG Cremer,TL Chatara,CB Mpofu,R Ngarava
+1557,Zimbabwe,D,0,Galle,won,lost,2nd,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,SC Williams,Sikandar Raza,MN Waller,PJ Moor,RP Burl,AG Cremer,DT Tiripano,TL Chatara
+1562,Zimbabwe,D,0,Galle,lost,lost,1st,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,SC Williams,Sikandar Raza,RP Burl,MN Waller,PJ Moor,AG Cremer,DT Tiripano,TL Chatara
+1566,Zimbabwe,D,0,Hambantota,lost,lost,1st,v Sri Lanka,H Masakadza,SF Mire,TK Musakanda,CR Ervine,SC Williams,MN Waller,Sikandar Raza,PJ Moor,AG Cremer,CT Mumba,TL Chatara
+1569,Zimbabwe,D,0,Hambantota,won,lost,2nd,v Sri Lanka,H Masakadza,SF Mire,TK Musakanda,CR Ervine,SC Williams,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,CB Mpofu,TL Chatara
+1571,Zimbabwe,D,0,Hambantota,won,won,2nd,v Sri Lanka,H Masakadza,SF Mire,TK Musakanda,CR Ervine,SC Williams,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,CB Mpofu,TL Chatara
+1650,Zimbabwe,DN,0,Dhaka,lost,lost,1st,v Bangladesh,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+1653,Zimbabwe,DN,0,Dhaka,won,lost,1st,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+1664,Zimbabwe,DN,0,Dhaka,lost,won,1st,v Sri Lanka,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,MN Waller,PJ Moor,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+1666,Zimbabwe,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,H Masakadza,SF Mire,CR Ervine,BRM Taylor,Sikandar Raza,PJ Moor,MN Waller,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+1682,Zimbabwe,DN,0,Sharjah,lost,lost,2nd,v Afghanistan,H Masakadza,SF Mire,BRM Taylor,CR Ervine,Sikandar Raza,RP Burl,MN Waller,AG Cremer,KM Jarvis,TL Chatara,BV Vitori
+1685,Zimbabwe,DN,0,Sharjah,won,won,1st,v Afghanistan,SF Mire,H Masakadza,BRM Taylor,CR Ervine,Sikandar Raza,MN Waller,RP Burl,AG Cremer,B Muzarabani,BV Vitori,TL Chatara
+1688,Zimbabwe,DN,0,Sharjah,lost,won,1st,v Afghanistan,H Masakadza,SF Mire,BRM Taylor,CR Ervine,Sikandar Raza,RP Burl,MN Waller,AG Cremer,TL Chatara,BV Vitori,B Muzarabani
+1692,Zimbabwe,DN,0,Sharjah,lost,won,1st,v Afghanistan,SF Mire,H Masakadza,TK Musakanda,BRM Taylor,CR Ervine,Sikandar Raza,RP Burl,AG Cremer,KM Jarvis,TL Chatara,B Muzarabani
+1696,Zimbabwe,DN,0,Sharjah,lost,lost,2nd,v Afghanistan,H Masakadza,TK Musakanda,BRM Taylor,CR Ervine,Sikandar Raza,MN Waller,SF Mire,AG Cremer,TS Chisoro,TL Chatara,B Muzarabani
+1703,Zimbabwe,D,1,Bulawayo,won,won,1st,v Afghanistan,SF Mire,C Zhuwao,H Masakadza,BRM Taylor,CR Ervine,Sikandar Raza,AG Cremer,MN Waller,TL Chatara,BV Vitori,B Muzarabani
+1713,Zimbabwe,D,1,Harare,won,lost,1st,v Ireland,C Zhuwao,SF Mire,H Masakadza,BRM Taylor,SC Williams,CR Ervine,Sikandar Raza,AG Cremer,TS Chisoro,KM Jarvis,B Muzarabani
+1716,Zimbabwe,D,1,Harare,lost,won,1st,v West Indies,SF Mire,C Zhuwao,H Masakadza,BRM Taylor,CR Ervine,SC Williams,Sikandar Raza,AG Cremer,TS Chisoro,KM Jarvis,B Muzarabani
+1734,Zimbabwe,D,1,Bulawayo,lost,won,2nd,v Pakistan,BB Chari,CJ Chibhabha,H Masakadza,TK Musakanda,PJ Moor,R Murray,DT Tiripano,LN Roche,WP Masakadza,TL Chatara,B Muzarabani
+1738,Zimbabwe,D,1,Bulawayo,lost,won,1st,v Pakistan,BB Chari,CJ Chibhabha,H Masakadza,TK Musakanda,PJ Moor,R Murray,DT Tiripano,LN Roche,WP Masakadza,TL Chatara,B Muzarabani
+1742,Zimbabwe,D,1,Bulawayo,lost,won,1st,v Pakistan,PS Masvaure,CJ Chibhabha,H Masakadza,TK Musakanda,PJ Moor,R Murray,E Chigumbura,TS Chisoro,WP Masakadza,B Muzarabani,R Ngarava
+1744,Zimbabwe,D,1,Bulawayo,lost,lost,2nd,v Pakistan,H Masakadza,TS Kamunhukamwe,TK Musakanda,R Murray,PJ Moor,E Chigumbura,DT Tiripano,WP Masakadza,TS Chisoro,B Muzarabani,R Ngarava
+1746,Zimbabwe,D,1,Bulawayo,lost,lost,2nd,v Pakistan,H Masakadza,TS Kamunhukamwe,PS Masvaure,R Murray,PJ Moor,E Chigumbura,DT Tiripano,LN Roche,WP Masakadza,CB Mpofu,TL Chatara
+1790,Zimbabwe,D,0,Kimberley,lost,lost,1st,v South Africa,H Masakadza,SF Mire,CR Ervine,BRM Taylor,SC Williams,PJ Moor,E Chigumbura,WP Masakadza,B Mavuta,KM Jarvis,TL Chatara
+1792,Zimbabwe,DN,0,Bloemfontein,lost,lost,2nd,v South Africa,SF Mire,H Masakadza,CR Ervine,BRM Taylor,SC Williams,PJ Moor,E Chigumbura,DT Tiripano,B Mavuta,KM Jarvis,TL Chatara
+1794,Zimbabwe,DN,0,Paarl,lost,won,1st,v South Africa,H Masakadza,SF Mire,CR Ervine,BRM Taylor,SC Williams,PJ Moor,E Chigumbura,DT Tiripano,B Mavuta,KM Jarvis,TL Chatara
+1804,Zimbabwe,DN,0,Dhaka,lost,lost,2nd,v Bangladesh,H Masakadza,C Zhuwao,BRM Taylor,CR Ervine,Sikandar Raza,SC Williams,PJ Moor,DT Tiripano,B Mavuta,KM Jarvis,TL Chatara
+1808,Zimbabwe,DN,0,Chattogram,lost,lost,1st,v Bangladesh,H Masakadza,C Zhuwao,BRM Taylor,SC Williams,Sikandar Raza,PJ Moor,E Chigumbura,B Mavuta,DT Tiripano,KM Jarvis,TL Chatara
+1810,Zimbabwe,DN,0,Chattogram,lost,lost,1st,v Bangladesh,H Masakadza,C Zhuwao,BRM Taylor,SC Williams,Sikandar Raza,PJ Moor,E Chigumbura,KM Jarvis,DT Tiripano,R Ngarava,WP Masakadza
+2014,Zimbabwe,D,0,Bready,lost,lost,1st,v Ireland,H Masakadza,TS Kamunhukamwe,CR Ervine,BRM Taylor,SC Williams,Sikandar Raza,PJ Moor,RP Burl,DT Tiripano,KM Jarvis,TL Chatara
+2022,Zimbabwe,D,0,Belfast,lost,won,2nd,v Ireland,H Masakadza,SF Mire,CR Ervine,BRM Taylor,SC Williams,Sikandar Raza,RP Burl,R Mutumbami,DT Tiripano,KM Jarvis,TL Chatara
+2030,Zimbabwe,D,0,Belfast,lost,won,1st,v Ireland,H Masakadza,RP Burl,CR Ervine,BRM Taylor,SC Williams,Sikandar Raza,SF Mire,R Mutumbami,KM Jarvis,CB Mpofu,TL Chatara
+2090,Zimbabwe,DN,0,Sylhet,lost,lost,2nd,v Bangladesh,TS Kamunhukamwe,RW Chakabva,BRM Taylor,SC Williams,W Madhevere,Sikandar Raza,R Mutumbami,CT Mutombodzi,DT Tiripano,CT Mumba,CK Tshuma
+2094,Zimbabwe,DN,0,Sylhet,lost,lost,2nd,v Bangladesh,TS Kamunhukamwe,RW Chakabva,BRM Taylor,SC Williams,W Madhevere,Sikandar Raza,R Mutumbami,CT Mutombodzi,DT Tiripano,CT Mumba,CK Tshuma
+2098,Zimbabwe,DN,0,Sylhet,lost,won,2nd,v Bangladesh,TS Kamunhukamwe,RW Chakabva,BRM Taylor,SC Williams,W Madhevere,Sikandar Raza,R Mutumbami,CT Mutombodzi,DT Tiripano,CT Mumba,CK Tshuma
